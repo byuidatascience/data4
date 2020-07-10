@@ -1,0 +1,54 @@
+---
+title: "Data Links"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Background
+
+You can find [Draft descriptions of the projects](projet.html) that use the data shown below. [BYU-I's CSE 150 - Data Intuition and Insight website has more up to date information](https://byuistats.github.io/CSE150/).
+
+## Data
+
+### Marathons
+
+Used for Case Study 3.
+
+- [Data Description](data/marathons/data.pdf)
+- [Individual Files](data/marathons)
+- [Download zip file](data/marathons.zip)
+
+### Child Health (Stunting)
+
+Used for Case Study 4.
+
+- [Data Description](data/childhealth/data.pdf)
+- [Individual Files](data/childhealth)
+- [Download zip file](data/childhealth.zip)
+
+### USA and Professional Sport Birthdays
+
+Used for Case Study 5.
+
+- [Data Description](data/births/data.pdf)
+- [Individual Files](data/births)
+- [Download zip file](data/births.zip)
+
+### Benford's Distribution 
+
+Used for Case Study 6.
+
+- [Data Description](data/benfords/data.pdf)
+- [Individual Files](data/benfords)
+- [Download zip file](data/benfords.zip)
+
+### Tuberculosis (TB)
+
+Used for Case Study 7.
+
+- [Data Description](data/tuberculosis/data.pdf)
+- [Individual Files](data/tuberculosis)
+- [Download zip file](data/tuberculosis.zip)

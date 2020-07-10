@@ -1,0 +1,344 @@
+region,candidate,number,first,last
+Alabama,Obama,813479,8,9
+Alabama,McCain,1266546,1,6
+Alabama,Nader,6788,6,8
+Alabama,Barr,4991,4,1
+Alabama,Baldwin,4310,4,0
+Alabama,Others votes,3705,3,5
+Alaska,Obama,123594,1,4
+Alaska,McCain,193841,1,1
+Alaska,Nader,3783,3,3
+Alaska,Barr,1589,1,9
+Alaska,Baldwin,1660,1,0
+Alaska,Others votes,1730,1,0
+Arizona,Obama,1034707,1,7
+Arizona,McCain,1230111,1,1
+Arizona,Nader,11301,1,1
+Arizona,Barr,12555,1,5
+Arizona,Baldwin,1371,1,1
+Arizona,McKinney,3406,3,6
+Arizona,Others votes,24,2,4
+Arkansas,Obama,422310,4,0
+Arkansas,McCain,638017,6,7
+Arkansas,Nader,12882,1,2
+Arkansas,Barr,4776,4,6
+Arkansas,Baldwin,4023,4,3
+Arkansas,McKinney,3470,3,0
+Arkansas,Others votes,1139,1,9
+California,Obama,8274473,8,3
+California,McCain,5011781,5,1
+California,Nader,108381,1,1
+California,Barr,67582,6,2
+California,Baldwin,3145,3,5
+California,McKinney,38774,3,4
+California,Others votes,57764,5,4
+Colorado,Obama,1288576,1,6
+Colorado,McCain,1073589,1,9
+Colorado,Nader,13350,1,0
+Colorado,Barr,10897,1,7
+Colorado,Baldwin,6233,6,3
+Colorado,McKinney,2822,2,2
+Colorado,Others votes,5894,5,4
+Connecticut,Obama,997772,9,2
+Connecticut,McCain,629428,6,8
+Connecticut,Nader,19162,1,2
+Connecticut,Baldwin,311,3,1
+Connecticut,McKinney,90,9,0
+Connecticut,Others votes,29,2,9
+Delaware,Obama,255459,2,9
+Delaware,McCain,152374,1,4
+Delaware,Nader,2401,2,1
+Delaware,Barr,1109,1,9
+Delaware,Baldwin,626,6,6
+Delaware,McKinney,385,3,5
+Delaware,Others votes,58,5,8
+District of Columbia,Obama,245800,2,0
+District of Columbia,McCain,17367,1,7
+District of Columbia,Nader,958,9,8
+District of Columbia,McKinney,590,5,0
+District of Columbia,Others votes,1138,1,8
+Florida,Obama,4282074,4,4
+Florida,McCain,4045624,4,4
+Florida,Nader,28124,2,4
+Florida,Barr,17218,1,8
+Florida,Baldwin,7915,7,5
+Florida,McKinney,2887,2,7
+Florida,Others votes,6902,6,2
+Georgia,Obama,1844123,1,3
+Georgia,McCain,2048759,2,9
+Georgia,Nader,1158,1,8
+Georgia,Barr,28731,2,1
+Georgia,Baldwin,1402,1,2
+Georgia,McKinney,250,2,0
+Georgia,Others votes,63,6,3
+Hawaii,Obama,325871,3,1
+Hawaii,McCain,120566,1,6
+Hawaii,Nader,3825,3,5
+Hawaii,Barr,1314,1,4
+Hawaii,Baldwin,1013,1,3
+Hawaii,McKinney,979,9,9
+Idaho,Obama,236440,2,0
+Idaho,McCain,403012,4,2
+Idaho,Nader,7175,7,5
+Idaho,Barr,3658,3,8
+Idaho,Baldwin,4747,4,7
+Illinois,Obama,3419348,3,8
+Illinois,McCain,2031179,2,9
+Illinois,Nader,30948,3,8
+Illinois,Barr,19642,1,2
+Illinois,Baldwin,8256,8,6
+Illinois,McKinney,11838,1,8
+Illinois,Others votes,1160,1,0
+Indiana,Obama,1374039,1,9
+Indiana,McCain,1345648,1,8
+Indiana,Nader,909,9,9
+Indiana,Barr,29257,2,7
+Indiana,Baldwin,1024,1,4
+Indiana,McKinney,87,8,7
+Indiana,Others votes,90,9,0
+Iowa,Obama,828940,8,0
+Iowa,McCain,682379,6,9
+Iowa,Nader,8014,8,4
+Iowa,Barr,4590,4,0
+Iowa,Baldwin,4445,4,5
+Iowa,McKinney,1423,1,3
+Iowa,Others votes,7332,7,2
+Kansas,Obama,514765,5,5
+Kansas,McCain,699655,6,5
+Kansas,Nader,10527,1,7
+Kansas,Barr,6706,6,6
+Kansas,Baldwin,4148,4,8
+Kansas,McKinney,35,3,5
+Kansas,Others votes,36,3,6
+Kentucky,Obama,751985,7,5
+Kentucky,McCain,1048462,1,2
+Kentucky,Nader,15378,1,8
+Kentucky,Barr,5989,5,9
+Kentucky,Baldwin,4694,4,4
+Louisiana,Obama,782989,7,9
+Louisiana,McCain,1148275,1,5
+Louisiana,Nader,6997,6,7
+Louisiana,Baldwin,2581,2,1
+Louisiana,McKinney,9187,9,7
+Louisiana,Others votes,10732,1,2
+ME 1st Dist.,Obama,232145,2,5
+ME 1st Dist.,McCain,144604,1,4
+ME 1st Dist.,Nader,5263,5,3
+ME 1st Dist.,McKinney,1362,1,2
+ME 1st Dist.,Others votes,252,2,2
+ME 2nd Dist.,Obama,189778,1,8
+ME 2nd Dist.,McCain,150669,1,9
+ME 2nd Dist.,Nader,5373,5,3
+ME 2nd Dist.,McKinney,1538,1,8
+ME 2nd Dist.,Others votes,179,1,9
+Maryland,Obama,1629467,1,7
+Maryland,McCain,959862,9,2
+Maryland,Nader,14713,1,3
+Maryland,Barr,9842,9,2
+Maryland,Baldwin,3760,3,0
+Maryland,McKinney,4747,4,7
+Maryland,Others votes,9205,9,5
+Massachusetts,Obama,1904097,1,7
+Massachusetts,McCain,1108854,1,4
+Massachusetts,Nader,28841,2,1
+Massachusetts,Barr,13189,1,9
+Massachusetts,Baldwin,4971,4,1
+Massachusetts,McKinney,6550,6,0
+Massachusetts,Others votes,14483,1,3
+Michigan,Obama,2872579,2,9
+Michigan,McCain,2048639,2,9
+Michigan,Nader,33085,3,5
+Michigan,Barr,23716,2,6
+Michigan,Baldwin,14685,1,5
+Michigan,McKinney,8892,8,2
+Michigan,Others votes,170,1,0
+Minnesota,Obama,1573354,1,4
+Minnesota,McCain,1275409,1,9
+Minnesota,Nader,30152,3,2
+Minnesota,Barr,9174,9,4
+Minnesota,Baldwin,6787,6,7
+Minnesota,McKinney,5174,5,4
+Minnesota,Others votes,10319,1,9
+Mississippi,Obama,554662,5,2
+Mississippi,McCain,724597,7,7
+Mississippi,Nader,4011,4,1
+Mississippi,Barr,2529,2,9
+Mississippi,Baldwin,2551,2,1
+Mississippi,McKinney,1034,1,4
+Mississippi,Others votes,481,4,1
+Missouri,Obama,1441911,1,1
+Missouri,McCain,1445814,1,4
+Missouri,Nader,17813,1,3
+Missouri,Barr,11386,1,6
+Missouri,Baldwin,8201,8,1
+Missouri,McKinney,80,8,0
+Montana,Obama,231667,2,7
+Montana,McCain,242763,2,3
+Montana,Nader,3686,3,6
+Montana,Barr,1355,1,5
+Montana,Baldwin,143,1,3
+Montana,McKinney,23,2,3
+Montana,Others votes,10638,1,8
+NE 1st Dist.,Obama,121468,1,8
+NE 1st Dist.,McCain,148179,1,9
+NE 1st Dist.,Nader,1970,1,0
+NE 1st Dist.,Barr,929,9,9
+NE 1st Dist.,Baldwin,1019,1,9
+NE 1st Dist.,McKinney,393,3,3
+NE 2nd Dist.,Obama,138752,1,2
+NE 2nd Dist.,McCain,135439,1,9
+NE 2nd Dist.,Nader,1621,1,1
+NE 2nd Dist.,Barr,1007,1,7
+NE 2nd Dist.,Baldwin,604,6,4
+NE 2nd Dist.,McKinney,321,3,1
+NE 3rd Dist.,Obama,73099,7,9
+NE 3rd Dist.,McCain,169361,1,1
+NE 3rd Dist.,Nader,1815,1,5
+NE 3rd Dist.,Barr,804,8,4
+NE 3rd Dist.,Baldwin,1349,1,9
+NE 3rd Dist.,McKinney,314,3,4
+Nevada,Obama,533736,5,6
+Nevada,McCain,412827,4,7
+Nevada,Nader,6150,6,0
+Nevada,Barr,4263,4,3
+Nevada,Baldwin,3194,3,4
+Nevada,McKinney,1411,1,1
+Nevada,Others votes,6267,6,7
+New Hampshire,Obama,384826,3,6
+New Hampshire,McCain,316534,3,4
+New Hampshire,Nader,3503,3,3
+New Hampshire,Barr,2217,2,7
+New Hampshire,Baldwin,226,2,6
+New Hampshire,McKinney,40,4,0
+New Hampshire,Others votes,3624,3,4
+New Jersey,Obama,2215422,2,2
+New Jersey,McCain,1613207,1,7
+New Jersey,Nader,21298,2,8
+New Jersey,Barr,8441,8,1
+New Jersey,Baldwin,3956,3,6
+New Jersey,McKinney,3636,3,6
+New Jersey,Others votes,2277,2,7
+New Mexico,Obama,472422,4,2
+New Mexico,McCain,346832,3,2
+New Mexico,Nader,5327,5,7
+New Mexico,Barr,2428,2,8
+New Mexico,Baldwin,1597,1,7
+New Mexico,McKinney,1552,1,2
+New York,Obama,4804701,4,1
+New York,McCain,2752728,2,8
+New York,Nader,41248,4,8
+New York,Barr,19595,1,5
+New York,Baldwin,634,6,4
+New York,McKinney,12801,1,1
+New York,Others votes,8936,8,6
+North Carolina,Obama,2142651,2,1
+North Carolina,McCain,2128474,2,4
+North Carolina,Nader,1448,1,8
+North Carolina,Barr,25722,2,2
+North Carolina,McKinney,158,1,8
+North Carolina,Others votes,13942,1,2
+North Dakota,Obama,141278,1,8
+North Dakota,McCain,168601,1,1
+North Dakota,Nader,4189,4,9
+North Dakota,Barr,1354,1,4
+North Dakota,Baldwin,1199,1,9
+Ohio,Obama,2940044,2,4
+Ohio,McCain,2677820,2,0
+Ohio,Nader,42337,4,7
+Ohio,Barr,19917,1,7
+Ohio,Baldwin,12565,1,5
+Ohio,McKinney,8518,8,8
+Ohio,Others votes,7149,7,9
+Oklahoma,Obama,502496,5,6
+Oklahoma,McCain,960165,9,5
+Oregon,Obama,1037291,1,1
+Oregon,McCain,738475,7,5
+Oregon,Nader,18614,1,4
+Oregon,Barr,7635,7,5
+Oregon,Baldwin,7693,7,3
+Oregon,McKinney,4543,4,3
+Oregon,Others votes,13613,1,3
+Pennsylvania,Obama,3276363,3,3
+Pennsylvania,McCain,2655885,2,5
+Pennsylvania,Nader,42977,4,7
+Pennsylvania,Barr,19912,1,2
+Pennsylvania,Baldwin,1092,1,2
+Rhode Island,Obama,296571,2,1
+Rhode Island,McCain,165391,1,1
+Rhode Island,Nader,4829,4,9
+Rhode Island,Barr,1382,1,2
+Rhode Island,Baldwin,675,6,5
+Rhode Island,McKinney,797,7,7
+Rhode Island,Others votes,122,1,2
+South Carolina,Obama,862449,8,9
+South Carolina,McCain,1034896,1,6
+South Carolina,Nader,5053,5,3
+South Carolina,Barr,7283,7,3
+South Carolina,Baldwin,6827,6,7
+South Carolina,McKinney,4461,4,1
+South Dakota,Obama,170924,1,4
+South Dakota,McCain,203054,2,4
+South Dakota,Nader,4267,4,7
+South Dakota,Barr,1835,1,5
+South Dakota,Baldwin,1895,1,5
+Tennessee,Obama,1087437,1,7
+Tennessee,McCain,1479178,1,8
+Tennessee,Nader,11560,1,0
+Tennessee,Barr,8547,8,7
+Tennessee,Baldwin,8191,8,1
+Tennessee,McKinney,2499,2,9
+Tennessee,Others votes,2337,2,7
+Texas,Obama,3528633,3,3
+Texas,McCain,4479328,4,8
+Texas,Nader,5440,5,0
+Texas,Barr,56116,5,6
+Texas,Baldwin,5395,5,5
+Texas,McKinney,831,8,1
+Texas,Others votes,2781,2,1
+Utah,Obama,327670,3,0
+Utah,McCain,596030,5,0
+Utah,Nader,8416,8,6
+Utah,Barr,6966,6,6
+Utah,Baldwin,12012,1,2
+Utah,McKinney,982,9,2
+Utah,Others votes,294,2,4
+Vermont,Obama,219262,2,2
+Vermont,McCain,98974,9,4
+Vermont,Nader,3339,3,9
+Vermont,Barr,1067,1,7
+Vermont,Baldwin,500,5,0
+Vermont,McKinney,66,6,6
+Vermont,Others votes,1904,1,4
+Virginia,Obama,1959532,1,2
+Virginia,McCain,1725005,1,5
+Virginia,Nader,11483,1,3
+Virginia,Barr,11067,1,7
+Virginia,Baldwin,7474,7,4
+Virginia,McKinney,2344,2,4
+Virginia,Others votes,6355,6,5
+Washington,Obama,1750848,1,8
+Washington,McCain,1229216,1,6
+Washington,Nader,29489,2,9
+Washington,Barr,12728,1,8
+Washington,Baldwin,9432,9,2
+Washington,McKinney,3819,3,9
+Washington,Others votes,1346,1,6
+West Virginia,Obama,303857,3,7
+West Virginia,McCain,397466,3,6
+West Virginia,Nader,7219,7,9
+West Virginia,Baldwin,2465,2,5
+West Virginia,McKinney,2355,2,5
+West Virginia,Others votes,89,8,9
+Wisconsin,Obama,1677211,1,1
+Wisconsin,McCain,1262393,1,3
+Wisconsin,Nader,17605,1,5
+Wisconsin,Barr,8858,8,8
+Wisconsin,Baldwin,5072,5,2
+Wisconsin,McKinney,4216,4,6
+Wisconsin,Others votes,8062,8,2
+Wyoming,Obama,82868,8,8
+Wyoming,McCain,164958,1,8
+Wyoming,Nader,2525,2,5
+Wyoming,Barr,1594,1,4
+Wyoming,Baldwin,1192,1,2
+Wyoming,Others votes,1521,1,1

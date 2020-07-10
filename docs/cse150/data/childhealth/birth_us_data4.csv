@@ -1,0 +1,501 @@
+subjid,sex,birthwt,birthlen,apgar1,apgar5,mrace,mage,smoked,meducyrs,ses
+1,Male,4621,55,8,9,White,21,0,12,Middle
+2,Male,3345,51,8,9,White,15,1,NA,           .
+3,Male,3827,54,9,9,White,23,1,NA,           .
+4,Female,3147,49,8,9,White,26,1,12,Middle
+5,Female,3033,50,8,8,White,28,1,7,Middle
+6,Male,3770,50,2,8,White,29,1,12,Upper-middle
+7,Male,3260,53,6,7,White,19,0,12,Upper
+8,Male,3629,53,9,9,White,22,0,12,Upper-middle
+9,Female,3657,55,8,9,White,23,0,12,Upper-middle
+10,Male,3515,NA,9,9,White,23,0,16,Upper-middle
+11,Male,2835,51,9,9,Black,27,0,NA,           .
+12,Female,3175,53,8,9,Black,29,0,12,Upper-middle
+13,Male,3515,54,10,NA,White,24,1,NA,           .
+14,Male,2948,47,9,9,Black,26,1,NA,           .
+15,Male,3090,49,9,9,Black,29,1,12,Middle
+16,Male,3459,50,8,9,White,24,0,12,Middle
+17,Female,4309,50,9,10,White,26,0,12,Middle
+18,Female,3317,49,9,9,White,27,0,12,Middle
+19,Male,3289,50,4,6,White,24,0,12,Upper
+20,Male,3005,48,9,9,White,29,0,NA,           .
+21,Female,3544,51,9,9,White,20,0,NA,           .
+22,Male,3827,52,9,9,White,21,0,12,Upper-middle
+23,Male,3799,51,NA,NA,White,24,0,12,Upper-middle
+24,Male,3856,50,9,9,White,19,1,9,Upper-middle
+25,Male,3317,53,8,9,White,20,1,9,Upper-middle
+26,Female,3402,50,9,9,White,34,1,7,Lower-middle
+27,Female,3459,50,9,9,White,23,0,11,Middle
+28,Male,3487,53,9,NA,White,28,0,14,Upper
+29,Male,2948,50,8,8,White,32,0,7,Lower-middle
+30,Female,3629,51,10,10,White,35,0,12,Upper-middle
+31,Male,3260,49,9,9,White,32,1,11,Middle
+32,Male,3770,52,8,3,White,18,0,12,Upper-middle
+33,Female,3459,53,9,9,White,19,0,NA,           .
+34,Female,3657,50,9,9,White,22,1,NA,           .
+35,Male,3629,51,8,8,White,24,1,12,Upper-middle
+36,Female,3544,49,9,NA,White,41,NA,17,Upper-middle
+37,Male,3232,50,8,9,White,25,0,11,Middle
+38,Female,3742,52,8,9,White,24,0,12,Upper-middle
+39,Female,3033,49,9,9,White,24,0,NA,           .
+40,Female,3175,48,7,9,White,24,1,12,Middle
+41,Male,3827,51,9,9,White,27,1,NA,           .
+42,Female,3147,50,9,9,White,28,1,12,Upper
+43,Male,4423,53,7,9,White,23,1,NA,           .
+44,Female,4139,51,5,9,White,30,0,12,Upper-middle
+45,Female,3033,50,9,9,White,35,1,NA,           .
+46,Male,3175,51,9,9,White,41,0,8,Middle
+47,Female,3005,50,9,9,White,19,1,NA,           .
+48,Male,4451,54,7,9,White,29,0,12,Middle
+49,Female,3430,49,9,NA,Black,35,1,NA,           .
+50,Male,3062,52,9,9,Black,38,1,12,Middle
+51,Female,3118,49,8,9,White,25,1,8,Lower-middle
+52,Male,3118,50,7,8,White,27,1,8,Middle
+53,Male,3317,52,1,4,Black,37,0,12,Middle
+54,Female,3062,49,9,NA,White,39,0,9,Upper-middle
+55,Female,3430,50,7,8,White,29,1,NA,           .
+56,Female,2693,48,7,7,White,21,0,12,Middle
+57,Female,2722,50,7,NA,Black,28,0,NA,           .
+58,Female,3062,49,8,8,White,39,1,NA,           .
+59,Female,3402,48,5,NA,White,37,0,12,Middle
+60,Female,4054,54,8,9,White,38,0,12,           .
+61,Male,3884,53,9,9,White,27,1,13,Upper
+62,Male,3317,51,9,9,White,38,0,12,Middle
+63,Male,3260,49,9,9,White,25,0,NA,           .
+64,Female,2835,50,3,6,White,27,0,12,Middle
+65,Female,3685,54,9,9,White,22,0,14,Middle
+66,Male,3600,54,9,9,White,20,1,8,Middle
+67,Female,3997,51,8,9,White,26,0,12,Upper-middle
+68,Female,3827,51,9,9,White,28,0,12,Upper
+69,Female,4167,53,8,9,White,30,0,12,Upper
+70,Male,3941,54,7,10,White,29,0,11,Middle
+71,Male,2438,46,9,9,White,27,1,NA,           .
+72,Male,2041,44,5,9,White,31,1,16,Upper
+73,Female,4026,52,9,9,White,22,0,16,Upper-middle
+74,Male,4394,51,9,10,White,23,0,11,Upper-middle
+75,Female,3402,51,8,8,White,36,0,12,Upper-middle
+76,Male,2296,49,7,8,White,26,1,8,Upper
+77,Male,3799,55,10,10,White,23,0,NA,           .
+78,Male,3062,51,9,9,White,23,1,12,Middle
+79,Male,3600,49,7,NA,White,23,1,NA,           .
+80,Male,2948,49,6,9,White,24,1,10,Middle
+81,Male,3544,54,8,9,White,25,1,10,Middle
+82,Male,3856,54,9,9,White,26,1,8,Middle
+83,Male,4054,53,9,9,White,31,0,NA,           .
+84,Female,3203,51,9,9,White,33,0,10,Middle
+85,Male,3742,53,9,9,White,37,0,11,Lower-middle
+86,Male,3969,52,9,9,White,24,0,12,Middle
+87,Female,3544,52,5,9,White,15,1,NA,           .
+88,Female,3345,52,10,10,White,33,0,NA,           .
+89,Male,3345,53,8,9,White,37,0,11,Middle
+90,Female,2948,53,9,NA,White,23,1,9,Lower-middle
+91,Male,3005,51,5,8,White,24,1,9,Lower-middle
+92,Male,3260,50,4,10,White,25,1,12,Middle
+93,Male,4082,53,9,9,White,36,0,12,Upper-middle
+94,Male,3515,53,8,10,White,26,1,10,Middle
+95,Male,3827,53,8,9,White,22,0,NA,           .
+96,Female,3770,55,7,8,White,24,0,NA,           .
+97,Male,3799,53,7,8,White,27,0,12,Middle
+98,Male,3997,54,9,9,White,35,0,NA,           .
+99,Female,3629,51,8,9,White,36,1,11,Upper-middle
+100,Male,3317,50,9,9,White,23,1,12,Middle
+101,Female,2863,49,9,9,White,19,1,NA,           .
+102,Male,3629,52,9,9,White,18,0,NA,           .
+103,Female,2807,48,9,9,White,27,0,12,Upper-middle
+104,Male,3317,52,9,9,White,26,1,12,Middle
+105,Female,3033,49,5,9,White,22,1,NA,           .
+106,Male,2807,49,4,9,White,23,1,10,Upper-middle
+107,Male,3147,49,9,10,White,24,1,10,Upper-middle
+108,Female,2722,49,7,NA,White,18,1,9,Upper-middle
+109,Male,3147,48,9,9,White,19,1,12,Middle
+110,Male,3827,54,9,9,White,28,0,NA,           .
+111,Female,3685,50,6,9,White,32,0,12,Upper-middle
+112,Female,3487,50,7,9,White,28,0,12,Lower-middle
+113,Female,3175,53,9,10,White,33,0,12,Middle
+114,Male,3572,52,9,9,White,19,0,NA,           .
+115,Female,2778,50,9,10,White,27,1,NA,           .
+116,Male,3742,53,8,9,White,29,1,10,Upper-middle
+117,Male,4026,51,2,9,White,29,0,12,Middle
+118,Male,2750,49,8,9,White,26,0,NA,           .
+119,Female,3005,48,8,9,White,28,1,16,Upper-middle
+120,Female,3062,49,6,9,White,35,0,8,Middle
+121,Male,3657,52,9,10,White,24,0,10,Middle
+122,Male,3941,55,7,9,White,28,1,9,Middle
+123,Female,3203,51,9,9,White,23,0,6,           .
+124,Male,2977,54,9,10,White,26,0,6,Upper-middle
+125,Male,3175,52,5,9,White,21,1,12,Upper-middle
+126,Female,3544,31,10,NA,White,24,0,NA,           .
+127,Female,3459,55,8,9,White,25,0,12,Upper-middle
+128,Female,3289,48,7,9,White,28,0,12,Upper
+129,Male,3317,52,9,9,White,25,0,12,Lower-middle
+130,Female,3770,53,8,NA,White,27,0,12,Lower-middle
+131,Female,3742,53,8,9,White,28,0,12,Lower-middle
+132,Female,3203,49,5,9,White,20,1,NA,           .
+133,Female,2977,50,5,9,White,21,1,12,Lower-middle
+134,Male,3742,51,7,9,White,28,0,16,Upper-middle
+135,Female,3345,51,1,2,Black,34,0,14,Upper-middle
+136,Male,3770,51,8,9,White,19,1,12,Upper-middle
+137,Female,3714,51,7,9,White,21,1,12,Upper-middle
+138,Female,2863,48,9,9,White,20,1,12,Middle
+139,Female,2438,35,9,9,White,25,1,12,Middle
+140,Female,2892,50,NA,NA,Black,26,1,12,Lower-middle
+141,Female,2466,47,8,8,White,21,1,NA,           .
+142,Male,3856,53,9,9,White,34,0,NA,           .
+143,Male,2551,48,5,8,White,35,0,12,Lower-middle
+144,Male,3685,54,8,9,White,29,0,NA,           .
+145,Female,3600,50,8,9,White,31,0,12,Upper-middle
+146,Male,3345,52,5,8,White,22,0,NA,           .
+147,Male,3600,51,9,9,White,29,0,NA,           .
+148,Female,3260,51,6,8,White,32,0,12,Upper-middle
+149,Female,3430,52,7,9,White,38,0,12,Middle
+150,Female,3175,50,9,9,White,38,1,NA,           .
+151,Female,2835,50,9,9,White,41,1,9,Lower-middle
+152,Female,3062,50,7,9,White,25,1,12,Middle
+153,Female,2608,45,8,9,White,22,0,11,Upper-middle
+154,Female,3260,49,6,9,White,21,1,NA,           .
+155,Female,3629,52,7,9,White,28,0,NA,           .
+156,Female,2098,42,5,9,Black,34,1,12,Middle
+157,Female,1531,43,1,3,Black,39,1,14,Middle
+158,Female,2722,47,8,9,White,17,1,NA,           .
+159,Female,3402,50,9,9,White,23,1,NA,           .
+160,Male,3884,54,9,9,White,25,1,8,Upper-middle
+161,Male,3430,50,8,9,White,28,0,12,Middle
+162,Female,2863,46,9,9,White,30,0,NA,           .
+163,Male,2807,52,9,9,White,36,0,14,Upper-middle
+164,Female,2750,49,9,NA,White,26,1,NA,           .
+165,Male,3685,51,7,9,White,31,1,10,Upper-middle
+166,Male,3487,53,9,9,White,30,0,NA,           .
+167,Male,2410,47,9,9,White,33,0,12,Upper-middle
+168,Male,3515,NA,NA,NA,White,36,0,12,Upper-middle
+169,Male,3289,50,9,9,White,28,1,10,Lower-middle
+170,Female,2920,48,9,9,White,31,1,9,Middle
+171,Male,2863,50,9,9,White,32,1,10,Middle
+172,Female,2948,48,9,9,White,30,1,10,Lower-middle
+173,Female,3515,50,9,9,White,32,1,NA,           .
+174,Male,3005,50,10,10,White,34,1,10,Middle
+175,Female,3515,52,9,9,White,24,0,11,Upper-middle
+176,Female,3033,48,9,10,Black,36,0,11,Upper
+177,Female,2750,51,9,10,White,30,1,12,Middle
+178,Male,3941,54,9,9,White,32,1,12,Middle
+179,Male,4026,54,9,10,White,32,0,NA,           .
+180,Female,4111,52,7,9,White,33,0,13,Upper-middle
+181,Female,3997,55,9,NA,White,22,0,NA,           .
+182,Female,3402,50,7,9,Black,28,0,11,Middle
+183,Male,3600,53,8,9,Black,32,1,12,Upper-middle
+184,Male,3402,53,9,10,White,19,1,NA,           .
+185,Female,2977,50,9,NA,White,23,0,16,Upper-middle
+186,Female,4054,50,8,9,White,24,0,16,Upper-middle
+187,Male,3742,52,7,9,White,28,0,12,Upper-middle
+188,Female,3742,53,9,9,White,39,0,10,Upper-middle
+189,Female,3232,49,9,9,White,25,1,NA,           .
+190,Female,3118,51,9,9,White,30,1,12,Upper-middle
+191,Male,3912,54,3,9,White,21,1,12,Lower-middle
+192,Female,3912,51,7,9,White,23,1,12,Middle
+193,Male,3005,50,6,9,White,19,1,11,Lower-middle
+194,Female,3459,52,9,9,White,21,1,11,Middle
+195,Male,4111,55,7,9,White,28,1,12,Upper-middle
+196,Male,3118,50,9,9,White,23,0,14,Upper-middle
+197,Male,3544,51,6,NA,White,36,1,10,Upper-middle
+198,Female,2948,49,6,8,White,39,1,10,Middle
+199,Male,3147,47,9,9,White,26,1,12,Middle
+200,Male,3345,51,9,9,White,28,1,12,Middle
+201,Female,3147,47,8,9,White,30,1,12,Middle
+202,Male,3714,54,5,9,Black,21,0,10,Lower-middle
+203,Female,3685,54,8,9,Black,24,0,10,Lower-middle
+204,Male,3714,NA,NA,NA,White,29,1,NA,           .
+205,Female,2948,49,9,NA,White,38,1,11,Upper-middle
+206,Male,3912,55,7,9,White,28,0,12,Lower-middle
+207,Male,4139,55,9,9,White,30,0,12,Lower-middle
+208,Male,3600,51,9,8,White,34,0,12,Lower-middle
+209,Male,3884,53,3,9,Black,35,1,12,Middle
+210,Male,3742,51,8,9,Black,36,1,12,Upper-middle
+211,Female,3997,55,4,9,Black,39,1,12,Upper-middle
+212,Female,3714,52,9,10,White,20,1,12,Upper-middle
+213,Male,3742,51,6,10,White,22,0,16,Lower-middle
+214,Female,4111,57,8,9,White,34,1,12,Lower-middle
+215,Female,3629,NA,5,9,White,36,1,12,Middle
+216,Male,4706,56,9,9,White,38,1,12,           .
+217,Male,4026,52,8,9,White,25,0,12,Upper-middle
+218,Male,4111,57,1,7,White,27,0,14,Upper
+219,Male,3487,51,9,9,Black,20,0,11,Lower-middle
+220,Male,3402,50,9,9,Black,22,0,11,Lower-middle
+221,Female,3912,56,9,9,Black,24,0,11,Middle
+222,Male,3118,52,9,9,White,36,1,12,Lower-middle
+223,Female,3147,49,8,9,White,19,1,12,Upper-middle
+224,Female,2948,50,8,9,White,21,1,12,Upper-middle
+225,Female,3317,47,NA,NA,White,21,1,11,Middle
+226,Male,3203,51,9,9,White,27,0,14,Upper-middle
+227,Female,3856,53,8,9,White,29,0,15,Upper
+228,Female,3147,49,9,9,White,32,0,14,Upper
+229,Female,3289,49,6,9,White,22,1,9,Middle
+230,Male,2948,50,9,9,White,26,1,9,Middle
+231,Female,3033,51,8,10,White,19,1,9,Lower-middle
+232,Female,2920,50,4,9,White,21,1,9,Upper-middle
+233,Female,3345,53,9,10,White,28,0,15,Upper
+234,Male,3062,48,9,9,White,24,0,12,Upper
+235,Male,3232,49,3,8,White,26,0,12,Upper
+236,Male,3997,53,7,9,White,26,0,12,Upper-middle
+237,Female,3600,55,7,8,White,27,0,12,Upper-middle
+238,Male,2353,46,NA,10,Black,21,1,11,Upper-middle
+239,Male,3600,49,9,9,White,19,1,14,Upper
+240,Female,3600,53,9,9,White,23,0,13,Upper
+241,Male,3742,51,4,7,White,37,0,14,Upper-middle
+242,Female,3005,49,NA,9,White,31,0,10,Middle
+243,Male,4167,54,9,10,White,30,1,12,Upper-middle
+244,Female,4082,52,9,9,White,28,0,12,Upper
+245,Male,3203,52,4,10,White,21,0,14,Upper-middle
+246,Female,3260,52,6,10,White,27,0,9,Middle
+247,Male,3005,53,5,8,White,20,0,12,Upper
+248,Male,2948,50,8,9,White,21,1,12,Upper-middle
+249,Male,3742,50,3,9,White,29,1,12,Upper-middle
+250,Female,2211,46,5,9,White,33,1,12,Middle
+251,Female,3260,50,9,4,White,21,0,12,Middle
+252,Female,3175,51,8,9,White,17,1,8,Middle
+253,Female,3799,52,NA,3,White,25,1,13,Middle
+254,Female,3147,52,9,9,White,27,1,13,Middle
+255,Male,3544,51,8,10,White,18,0,12,Middle
+256,Female,3969,51,7,9,White,19,1,12,Middle
+257,Female,4337,NA,NA,NA,White,20,NA,NA,           .
+258,Female,3770,52,2,9,White,22,1,12,Middle
+259,Female,3827,53,6,7,White,20,0,12,Upper-middle
+260,Female,3345,50,4,8,White,24,0,14,Upper-middle
+261,Female,2551,50,8,8,White,37,1,12,Upper
+262,Male,3487,52,3,3,White,18,1,9,Middle
+263,Female,3118,48,9,9,White,20,1,9,Middle
+264,Female,3317,50,9,10,White,30,0,12,Upper-middle
+265,Male,3430,52,1,9,White,31,1,9,Lower-middle
+266,Female,3515,49,9,9,White,30,0,12,Middle
+267,Male,3345,51,3,9,White,22,1,12,Middle
+268,Female,3289,50,7,9,White,27,1,12,Middle
+269,Male,2863,51,9,9,White,22,0,12,Lower-middle
+270,Male,3203,51,8,9,White,24,0,12,Middle
+271,Male,3685,50,9,9,White,27,0,12,Middle
+272,Male,3487,48,10,9,White,31,1,12,Middle
+273,Male,3118,51,9,9,White,21,1,10,Upper-middle
+274,Male,2807,50,7,8,Black,29,0,12,Middle
+275,Female,3770,49,9,9,White,24,1,12,Middle
+276,Male,3827,55,9,10,White,28,1,12,Middle
+277,Female,3600,50,9,9,White,21,0,11,Upper-middle
+278,Female,2353,46,10,10,White,22,1,9,Middle
+279,Male,3515,51,9,9,White,35,0,12,Middle
+280,Female,2778,48,8,9,White,37,0,12,Upper-middle
+281,Female,4451,51,9,9,White,24,0,7,Upper-middle
+282,Female,3260,51,9,9,White,19,0,5,Lower-middle
+283,Female,3118,48,10,10,White,33,1,10,Lower-middle
+284,Female,3685,51,9,9,White,33,1,12,Middle
+285,Female,3969,53,8,9,White,31,1,12,Middle
+286,Female,4621,52,6,9,White,34,1,12,Middle
+287,Female,3912,50,6,8,White,37,1,12,Upper-middle
+288,Female,3232,50,9,9,White,20,1,8,Lower-middle
+289,Female,3345,52,7,9,White,18,1,12,Middle
+290,Male,3770,51,9,9,White,19,0,12,Middle
+291,Female,4082,53,3,8,White,18,0,12,Upper-middle
+292,Female,3232,49,5,9,White,27,1,8,Middle
+293,Female,2495,47,5,3,White,36,1,7,Upper-middle
+294,Male,3572,51,10,9,White,23,0,12,Upper-middle
+295,Male,4224,55,8,9,White,40,0,12,Lower-middle
+296,Male,5386,55,9,9,White,24,0,5,Middle
+297,Female,4479,53,7,7,White,29,0,NA,Upper-middle
+298,Male,3317,50,9,10,White,19,1,9,Middle
+299,Female,2863,45,7,NA,White,28,1,12,Upper-middle
+300,Female,3062,54,8,9,White,23,1,12,Upper-middle
+301,Female,3033,52,9,9,White,21,0,12,Middle
+302,Male,3118,52,8,6,White,22,0,12,Upper-middle
+303,Female,3487,52,9,9,White,27,0,12,Upper-middle
+304,Male,3969,53,9,9,White,27,1,12,Upper-middle
+305,Male,3827,52,9,9,White,21,1,14,Upper-middle
+306,Female,3175,49,9,9,White,36,0,NA,Lower-middle
+307,Male,3374,47,9,NA,White,30,0,7,Lower-middle
+308,Female,3402,48,8,9,White,31,0,NA,           .
+309,Male,2155,48,1,3,Black,19,0,12,Upper-middle
+310,Female,2892,50,9,9,Black,21,0,12,Middle
+311,Female,3770,50,9,9,White,21,0,8,Lower-middle
+312,Female,3799,51,8,9,White,22,1,8,Lower-middle
+313,Female,4026,53,9,9,White,25,0,8,Middle
+314,Male,3572,52,9,NA,White,17,0,11,Lower-middle
+315,Female,2750,51,8,9,White,18,0,11,Lower-middle
+316,Male,3430,51,8,10,White,19,1,12,Upper-middle
+317,Female,3459,50,8,9,White,22,1,12,Upper
+318,Female,3374,52,9,9,White,27,0,12,Upper-middle
+320,Female,4054,55,8,9,White,34,0,16,Upper
+321,Male,3005,51,9,9,White,38,0,14,Upper-middle
+322,Male,2835,48,9,9,White,23,1,8,Lower-middle
+323,Female,3005,48,9,9,White,40,0,12,Upper-middle
+324,Female,3459,52,8,9,White,21,0,10,Middle
+325,Female,2410,48,4,9,White,25,1,12,Upper-middle
+326,Male,3289,51,9,9,White,22,0,1,Middle
+327,Female,2353,49,NA,NA,White,36,1,12,Lower-middle
+328,Male,3118,51,8,9,White,22,0,12,Middle
+329,Male,3544,52,8,9,White,24,0,12,Middle
+330,Female,3969,55,9,9,White,24,1,12,Upper
+331,Female,3289,50,NA,NA,White,27,0,12,Lower-middle
+332,Female,3317,52,8,9,White,28,0,12,Lower-middle
+333,Female,3289,48,8,9,White,35,0,5,Middle
+334,Female,3090,50,8,9,White,37,0,9,Middle
+335,Male,3685,55,7,9,White,40,0,12,Upper-middle
+336,Female,3175,48,8,9,White,41,0,12,Upper-middle
+337,Male,3147,50,9,9,White,25,1,10,Upper-middle
+338,Female,3317,51,7,9,White,21,1,10,Upper-middle
+339,Male,3544,52,6,9,White,23,1,9,Middle
+340,Male,3147,49,9,9,White,22,1,14,Upper-middle
+341,Male,3175,47,9,9,White,24,1,14,Upper-middle
+342,Male,3430,52,8,9,White,17,0,11,Middle
+343,Male,3799,55,3,9,White,18,0,11,Middle
+344,Male,3997,51,6,9,White,28,0,12,Upper-middle
+345,Female,3374,51,7,9,White,33,1,12,Upper
+346,Male,2778,49,9,NA,White,22,1,14,Upper-middle
+347,Female,2948,47,6,9,White,23,1,12,Upper-middle
+348,Female,3629,51,9,10,White,41,0,9,Middle
+349,Female,3657,51,7,9,White,43,0,9,Middle
+350,Female,3118,49,NA,NA,White,25,1,12,Middle
+351,Female,3232,51,9,9,White,31,1,12,Upper-middle
+352,Male,3203,50,9,9,Black,27,0,12,Upper-middle
+353,Female,3487,53,8,9,White,18,0,10,Middle
+354,Male,2948,52,8,8,White,32,0,12,Upper-middle
+355,Female,3912,54,9,9,White,16,0,11,Lower-middle
+356,Female,2863,46,8,9,White,19,1,13,Middle
+357,Male,3544,49,9,9,White,20,1,14,Upper
+358,Male,4082,55,9,9,White,30,1,12,Upper-middle
+359,Male,3572,53,9,9,White,22,0,14,Upper-middle
+360,Female,3742,51,7,9,White,20,0,13,Middle
+361,Male,3147,51,9,NA,White,20,0,5,Middle
+362,Male,2863,52,8,NA,White,39,0,5,Lower-middle
+363,Male,3402,51,6,9,White,40,0,6,Lower-middle
+364,Male,4536,53,1,2,White,33,1,9,Upper-middle
+365,Male,3232,49,9,9,White,29,0,12,Upper-middle
+366,Female,2722,49,9,9,White,31,0,12,Upper
+367,Male,2778,50,4,3,White,16,0,10,           .
+368,Male,2892,48,6,9,White,19,1,10,Lower-middle
+369,Male,3685,51,9,9,White,19,0,11,Middle
+370,Female,3912,58,9,10,White,22,0,11,Upper-middle
+371,Female,2693,45,8,9,White,19,1,9,Upper-middle
+372,Female,2155,46,5,9,White,20,1,9,Middle
+373,Male,3459,51,9,10,White,37,0,11,Upper
+374,Female,3147,50,7,10,White,21,1,15,Upper-middle
+375,Male,2722,49,10,10,White,18,0,14,Middle
+376,Female,3175,48,9,9,White,35,0,14,Middle
+377,Male,4139,55,9,9,White,35,0,12,Middle
+378,Female,3147,53,9,9,White,24,0,12,Upper-middle
+379,Female,2892,46,9,9,Black,27,1,14,Upper-middle
+380,Male,3459,49,9,9,White,28,0,12,Middle
+381,Female,3685,55,9,9,White,30,0,12,Middle
+382,Male,3317,49,7,9,White,31,0,12,Middle
+383,Male,4593,54,8,9,White,34,1,10,Upper-middle
+384,Male,4082,55,7,8,White,37,1,10,Upper-middle
+385,Male,3856,52,7,9,Black,20,0,14,Upper
+386,Male,4763,55,9,10,Black,23,0,14,Upper
+387,Male,3629,54,NA,9,White,31,0,12,Lower-middle
+388,Female,3799,53,7,8,White,24,0,12,Upper-middle
+389,Male,4593,54,9,9,White,27,0,10,Upper-middle
+390,Male,3572,52,8,NA,White,26,1,12,Upper-middle
+391,Female,3402,52,4,7,White,35,0,12,Lower-middle
+392,Male,2977,50,8,NA,White,28,1,12,Upper-middle
+393,Male,3033,49,8,9,White,29,0,12,Upper-middle
+394,Female,2523,50,9,9,White,24,0,8,Middle
+395,Female,2608,47,5,8,White,24,0,7,Middle
+396,Male,2807,48,5,9,White,29,1,6,Middle
+397,Male,3884,54,9,10,White,22,0,15,Middle
+398,Female,3459,52,9,10,Black,13,0,6,Low
+399,Female,3714,53,9,9,White,26,1,14,Upper-middle
+400,Male,3062,49,8,9,White,27,1,12,Upper-middle
+401,Female,3600,48,8,9,White,29,1,12,Upper-middle
+402,Male,3969,56,8,9,White,30,1,12,Upper-middle
+403,Female,3572,52,9,9,White,29,1,12,Middle
+404,Female,3175,51,9,9,White,30,1,12,Lower-middle
+405,Male,2948,51,9,9,White,37,1,11,Middle
+406,Male,3005,48,9,9,White,38,1,11,Middle
+407,Male,3969,53,8,9,Black,38,0,9,Middle
+408,Male,3515,54,8,9,White,41,0,12,Upper-middle
+409,Female,3685,51,9,9,White,20,1,10,Upper-middle
+410,Male,2722,NA,NA,NA,White,24,1,11,Middle
+411,Male,3203,50,9,10,White,22,1,9,Lower-middle
+412,Female,3062,49,8,9,White,23,1,9,Lower-middle
+413,Male,3515,50,9,9,White,24,1,9,Lower-middle
+414,Female,3118,53,8,8,White,26,1,9,Middle
+415,Male,3232,49,9,9,White,21,1,10,Middle
+416,Male,4026,51,9,9,White,31,0,12,Lower-middle
+417,Male,4791,59,9,7,White,32,0,12,Upper-middle
+418,Female,3289,48,8,9,White,36,0,12,Middle
+419,Male,4337,54,NA,NA,White,22,1,8,Middle
+420,Male,4054,51,9,8,White,24,0,12,Middle
+421,Female,3289,50,9,9,White,25,0,12,Lower-middle
+422,Female,3742,51,NA,NA,White,27,0,12,Lower-middle
+423,Female,3941,54,8,9,White,23,0,11,Upper-middle
+424,Female,4366,55,8,9,White,25,0,10,Middle
+425,Female,3714,51,9,NA,White,22,0,12,Upper
+426,Male,3657,52,9,9,White,24,0,12,Upper-middle
+427,Male,3572,52,8,9,White,24,0,12,Upper-middle
+428,Male,3005,48,3,9,White,30,1,9,Upper-middle
+429,Male,3232,51,9,8,White,20,1,12,Upper-middle
+430,Male,3260,50,NA,NA,Black,23,0,12,Upper-middle
+431,Female,3232,51,8,9,Black,25,0,12,Middle
+432,Male,3090,53,6,8,White,31,1,9,Lower-middle
+433,Male,3289,52,8,9,White,35,1,10,Middle
+434,Female,3544,51,9,9,White,22,0,11,Upper-middle
+435,Male,3118,51,NA,9,White,23,NA,11,Middle
+436,Male,3062,47,9,9,White,25,1,10,Upper-middle
+437,Female,2977,49,9,10,White,36,1,12,Upper-middle
+438,Female,3544,54,6,NA,White,36,0,12,Upper-middle
+439,Male,3459,50,9,8,White,23,0,12,Middle
+440,Female,3345,48,5,9,Black,24,1,8,Lower-middle
+441,Male,2778,54,9,10,White,21,1,14,Middle
+442,Male,3289,51,6,9,White,30,1,10,Upper-middle
+443,Female,3175,52,9,9,White,22,1,14,Upper
+444,Male,3544,50,10,10,White,32,0,12,Upper-middle
+445,Female,3374,52,9,9,Black,38,0,12,Lower-middle
+446,Female,3118,49,9,9,Black,24,0,12,Middle
+447,Female,2438,47,9,9,White,26,1,12,Lower-middle
+448,Female,3515,52,9,NA,White,25,1,12,Upper-middle
+449,Male,3969,50,9,10,White,28,1,12,Upper
+450,Male,3402,49,8,8,White,20,1,10,Upper
+451,Male,3459,49,9,9,White,25,0,9,Upper-middle
+452,Female,3232,51,2,NA,White,23,1,12,Middle
+453,Male,2948,50,9,9,White,18,1,9,Lower-middle
+454,Male,2722,50,9,9,White,19,1,9,Lower-middle
+455,Male,3317,49,9,10,White,23,1,7,Middle
+456,Male,3402,53,8,9,White,21,0,12,Upper-middle
+457,Female,3685,49,8,9,White,22,0,12,Upper-middle
+458,Male,3572,51,8,9,White,24,0,12,Upper
+459,Female,3827,51,9,9,White,25,0,12,Upper
+460,Male,3090,50,9,9,White,25,1,14,Middle
+461,Female,3317,51,8,9,White,27,1,12,Middle
+462,Female,3402,53,9,NA,White,42,0,14,Upper-middle
+463,Female,2551,43,1,9,White,23,1,14,Upper-middle
+464,Female,3147,48,8,8,White,24,1,12,Upper
+465,Female,2863,49,6,9,White,28,1,12,Upper
+466,Male,2580,50,6,7,White,23,1,11,Middle
+467,Female,3203,50,8,9,White,21,0,12,Middle
+468,Female,3799,51,7,10,White,25,0,12,Lower-middle
+469,Female,3742,48,4,9,White,26,0,12,Lower-middle
+470,Male,4791,57,6,7,White,28,0,12,Middle
+471,Male,4536,56,8,9,White,30,0,12,Middle
+472,Female,4139,56,9,9,White,31,0,12,Middle
+473,Male,2863,47,1,1,White,27,1,12,Lower-middle
+474,Male,2835,50,2,6,White,29,1,12,Lower-middle
+475,Male,3345,51,9,9,White,37,1,8,Middle
+476,Female,3005,50,3,9,White,33,1,12,Low
+477,Male,3572,54,5,9,White,35,1,9,Lower-middle
+478,Male,3629,54,9,9,White,39,1,12,Middle
+479,Male,4139,52,8,9,White,18,0,12,Middle
+480,Female,4423,55,8,9,White,35,0,12,Upper-middle
+481,Female,3459,49,9,10,White,40,0,12,Upper-middle
+482,Male,3629,52,NA,NA,White,25,1,10,Middle
+483,Female,4167,55,9,9,White,27,1,10,Upper-middle
+484,Male,4026,52,9,10,White,30,1,13,Upper-middle
+485,Female,3345,52,7,9,White,36,NA,NA,           .
+486,Male,3260,52,8,9,White,20,1,8,Middle
+487,Female,2863,50,8,8,White,17,0,10,Upper-middle
+488,Female,2665,49,6,9,White,19,1,10,Middle
+489,Male,3090,49,6,NA,White,24,1,12,Middle
+490,Female,2948,48,6,9,White,24,1,12,Middle
+491,Male,3402,47,4,5,White,24,1,12,Middle
+492,Male,3827,52,8,9,White,25,1,12,Middle
+493,Female,3317,52,7,9,White,28,1,12,Upper-middle
+494,Female,3090,47,9,9,Black,25,0,9,Lower-middle
+495,Male,3232,50,9,9,White,22,0,12,Lower-middle
+496,Male,3827,52,8,9,White,24,0,12,Lower-middle
+497,Male,3090,51,7,9,White,27,0,12,Lower-middle
+498,Female,3941,53,8,9,White,31,1,12,Upper-middle
+499,Male,3770,53,8,9,White,32,1,12,Upper-middle
+500,Female,3629,52,6,9,White,20,1,11,Lower-middle
+501,Male,3232,46,5,9,White,19,0,9,Middle

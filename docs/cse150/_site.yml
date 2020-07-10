@@ -1,0 +1,27 @@
+name: "CSE 150 Data4 Data links"
+navbar:
+  title: "CSE 150 Data4"
+  left:
+    - text: "Case Studies"
+      icon: fa-tachometer
+      href: project.html
+    - text: "Case Study Data"
+      icon: fa-table
+      href: data.html
+output_dir: '.'
+output:
+  html_document:
+    lib_dir: site_libs
+    keep_md: true
+    toc: true
+    theme: readable
+    highlight: textmate
+    mathjax: null
+    toc_depth: 5
+    toc_float:
+      collapsed: false
+
+
+
+
+
