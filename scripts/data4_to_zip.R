@@ -1,6 +1,6 @@
 library(tidyverse)
-library(googledrive)
-library(googlesheets4)
+# library(googledrive)
+# library(googlesheets4)
 library(DataPushR)
 library(gh)
 #https://github.com/yihui/tinytex/issues/126
