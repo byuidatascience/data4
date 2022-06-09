@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Case Studies</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CSE 150 Data4</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="project.html">
+    <span class="fa fa-tachometer"></span>
+     
+    Case Studies
+  </a>
+</li>
+<li>
+  <a href="data.html">
+    <span class="fa fa-table"></span>
+     
+    Case Study Data
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Case Studies</h1>
+
+</div>
+
+
+<div id="background-purpose" class="section level1">
+<h1>Background / Purpose</h1>
+<p>We have built the class around a set of data driven projects. During
+each of those projects we will cover readings in visualzation, data
+handling, and statistics. Excluding the first two days and the last two
+days of class, we will spend four days of class on each case study. You
+can find <a href="data.html">data for each project on the data
+page</a></p>
+</div>
+<div id="case-study-1-introduction" class="section level1">
+<h1>Case Study 1: Introduction</h1>
+<div id="background" class="section level2">
+<h2>Background</h2>
+<p>Data intuition and insight is not rocket science. However, there is a
+science to data handling, visualization, and decision making with data.
+The material we cover this semester will introduce to topics around this
+science.</p>
+</div>
+<div id="your-challenge" class="section level2">
+<h2>Your Challenge</h2>
+<p>Make sure you understand the course objectives and that you are
+introduced to the material and tools of the course.</p>
+</div>
+<div id="deliverables" class="section level2">
+<h2>Deliverables</h2>
+<ol style="list-style-type: decimal">
+<li>Complete the quizzes for the first two days of class in Canvas.</li>
+</ol>
+</div>
+</div>
+<div id="case-study-2-lego-my-data" class="section level1">
+<h1>Case Study 2: Lego my data</h1>
+<div id="background-1" class="section level2">
+<h2>Background</h2>
+<p>Lego has become one of the <a
+href="https://www.vox.com/the-goods/2019/1/29/18202463/lego-resale-market-high-return-rate?__c=1">most
+valuable toys on the planet</a>. You can even download software and
+create your own sets from bulk toys (<a
+href="https://www.leocad.org/index.html">https://www.leocad.org/index.html</a>).</p>
+<p>We will be selling bulk LEGO in 1-lb bags. According to this <a
+href="https://bricks.stackexchange.com/questions/9716/how-to-sell-a-large-amount-of-lego">LEGO
+selling guide</a>, the more organized the bricks are the better they
+will sell. While most Ebayers take a couple of photos and list the
+number of pounds to sell their project, we will be selling our bags of
+LEGO with data visualizations. If you would like more details about each
+brick you can <a
+href="https://www.bricklink.com/catalog.asp?utm_content=subnav">read
+here</a>.</p>
+</div>
+<div id="your-challenge-1" class="section level2">
+<h2>Your Challenge</h2>
+<p>You will need to work with your team to enter your LEGO data and then
+create a set of visualizations that sell your product. We will need to
+prepare our sales material to make sure we can communicate our bag of
+LEGO without them handling or seeing the product (no pictures of your
+bag of LEGO).</p>
+<p>With your team, record information for each LEGO brick in your bag
+(such as color). Then create data visualizations to answer questions you
+think the buyers might have. Some example questions are listed
+below.</p>
+<ul>
+<li>How many slanted bricks do you have?</li>
+<li>What is the distribution of colors available in your set?</li>
+<li>What is the total area by color?</li>
+</ul>
+</div>
+<div id="deliverables-1" class="section level2">
+<h2>Deliverables</h2>
+<p>All of your deliverables will be provided in a 6 slide Google Slides.
+Use the provided template. Data collection happens as a team. Each
+student from the team should have their own charts.</p>
+<ol style="list-style-type: decimal">
+<li>Slide 1: Include the team that collected the data and a project
+title.</li>
+<li>Slide 2: Include a data snippet and a description of why you chose
+your varaibles.</li>
+<li>Slide 3: A polished bar chart that you feel provides the best
+description of your data.</li>
+<li>Slides 4-6: Three charts ordered by quality. Include a description
+for each chart.</li>
+<li>Slides 7-9: Three pictures of your LEGO spread out (on-campus
+only).</li>
+<li>A complete .csv file of your data set.</li>
+</ol>
+<p><strong><a
+href="https://docs.google.com/presentation/d/1Sk0Fq6zxKM2tx8oxgtVOAk5qa5zCjMI-VVTcW5IQiYI/template/preview">CS2
+Template</a></strong></p>
+</div>
+</div>
+<div id="case-study-3-what-is-normal-about-marathons"
+class="section level1">
+<h1>Case Study 3: What is normal about marathons?</h1>
+<div id="background-2" class="section level2">
+<h2>Background</h2>
+<p>In a nod to Greek history, the first marathon in 1896 commemorated
+the run of the soldier Pheidippides from a battlefield near the town of
+Marathon, Greece, to Athens in 490 B.C. For the 1908 London Olympics,
+the course was laid out from Windsor Castle to White City stadium, about
+26 miles. An extra 385 yards was added inside the stadium to locate the
+finish line in front of the royal family’s viewing box.</p>
+<p>Despite the success of that first race, it took 13 more years of
+arguing before the International Amateur Athletic Federation (IAAF)
+adopted the 1908 distance as the official marathon. Today, there are
+more than 500 organized marathons in 64 countries around the world each
+year, with more than 425,000 marathon finishers in the United States
+alone (reference).</p>
+<p>Eric J. Allen published an article on marathon runners and they have
+shared much of the data that we will use. We have formatted their data
+and its size for use in our class. Their data has close to 10 million
+observations.</p>
+</div>
+<div id="your-challenge-2" class="section level2">
+<h2>Your Challenge</h2>
+<p>You will need to work with your team to describe the finishing times
+and how they relate to the associated spatial and temporal information
+about the marathon. You will look at the individual marathon runners and
+the marathon’s themselves. You have been asked to create a short story
+that describes marathons that could be published in a local newspaper
+the week before a marathon is to be held in their community.</p>
+<p>You can find varied data sources available for your use on the data
+page in Canvas. You will need to use more than one of the data sets
+provided but you are not expected to use them all.</p>
+</div>
+<div id="deliverables-2" class="section level2">
+<h2>Deliverables</h2>
+<ol style="list-style-type: decimal">
+<li>A short article with less than 500 words and 4-6
+visualizations.</li>
+<li>Your article should introduce the reader to what a normal
+distribution is with the use of a visualization of the marathon
+data.</li>
+<li>Your article should contain at least one spatial, temporal, and
+variable graphic.</li>
+<li>Your article should contain one table that provides data
+summaries.</li>
+<li>The end of your article should contain one quote from a reader (like
+a comment on the article). The reader should be a spouse, parent, or
+friend.</li>
+</ol>
+<p><strong><a
+href="https://docs.google.com/document/d/1LRhYy3MUZ_YIG7QMjKsZJC-VFIQ5AqhVjeT8ZkWnSZM/template/preview">CS3
+Template</a></strong></p>
+</div>
+</div>
+<div id="case-study-4-what-is-a-healthy-child" class="section level1">
+<h1>Case Study 4: What is a healthy child?</h1>
+<div id="background-3" class="section level2">
+<h2>Background</h2>
+<p>Do you remember you or your sibling going to the doctor for a
+check-up to hear a conversation about what percentile the measured
+height and weight were in? The World Health Organization gets some bad
+press at times of pandemics, but they do much more than managing
+pandemics. With the United States Centers for Disease Control (CDC),
+they define the standards for those percentiles that you hear - <a
+href="https://www.cdc.gov/growthcharts/who_charts.htm">https://www.cdc.gov/growthcharts/who_charts.htm</a>.</p>
+</div>
+<div id="your-challenge-3" class="section level2">
+<h2>Your Challenge</h2>
+<p>We have repeated measurements of weights and heights for children
+from varied multiple countries (United States, Netherlands, Bangladesh,
+Brazil, India, Nepal, Pakistan, Peru, South Africa, and Tanzania). We
+will use these measures to explain the health of the children in each
+study location and to explore children that have poor health over most
+of their measurements (note: subjects were part of a study of specific
+groups and are not representative of the country).</p>
+<p>You can find varied data sources available for your use on the data
+page in Canvas. You will need to use more than one of the data sets
+provided but you are not expected to use them all.</p>
+</div>
+<div id="deliverables-3" class="section level2">
+<h2>Deliverables</h2>
+<p>A short presentation (4-8 slides) that visualizes child health using
+the height measurements. Each presentation should include the following.
+Remember to find a story and weave your charts together into one
+cohesive story.</p>
+<ol style="list-style-type: decimal">
+<li>One slide should explain what a z-score is and how it is calculated
+for our graphics.</li>
+<li>One slide should show height adjusted z-scores (HAZ) for a few
+healthy and a few unhealthy children from each gender over all the times
+using the MAL-ED data.</li>
+<li>1-2 Slides about the health of the children at 365 days (1-year) for
+multiple countries.
+<ol style="list-style-type: decimal">
+<li>One chart should show the distribution of heights for children from
+at least 4 countries at ~365 days.</li>
+<li>One chart should have visualizations of the health of the children
+at ~365 days for each country (height adjusted z-scores).</li>
+<li>Take the time to explain your concerns about the health of the
+children of the study based on their z-scores.</li>
+</ol></li>
+<li>One slide should show a plot of the heights of the dutch children
+over time. Take the time to describe the key takeaways about their
+growth.</li>
+<li>Be creative with the remaining slides.</li>
+</ol>
+</div>
+</div>
+<div id="case-study-5-does-your-birthday-make-you-better-at-sports"
+class="section level1">
+<h1>Case Study 5: Does your birthday make you better at sports?</h1>
+<div id="background-4" class="section level2">
+<h2>Background</h2>
+<p>Matthew 25:29 explains that _‘whoever has will be given more, and
+they will have an abundance. Whoever does not have, even what they have
+will be taken from them’ _which has lead many researchers to describe
+how some get more and others get less as the<a
+href="https://en.wikipedia.org/wiki/Matthew_effect">‘Matthew Effect’</a>
+in our society.</p>
+<p>One way to evaluate this effect is to look at professional athletes.
+Malcolm Gladwell studies the birth dates of successful hockey players in
+a chapter of his 2008 non-fiction book Outliers to provide an example of
+the Matthew Effect. Please read the <a
+href="https://byuistats.github.io/CSE150/files/matthew_effect_gladwell.pdf">Matthew
+Effect chapter</a> to get more background.</p>
+<p>Hockey’s cutoff date is December 31st, but baseball’s cutoff date has
+historically been <a
+href="https://www.billjamesonline.com/article1191/">July 31st</a>.
+Football’s cutoff is <a
+href="https://www.americanyouthfootball.com/football/">July 31st</a> as
+well but they also have weight categories as well for older ages.
+Basketball’s AAU cutoff date is <a
+href="http://sba.aauboysbasketball.org/Rules-Articles/ArtMID/3766/ArticleID/42964/AAU-Boys-Basketball-Eligibility">August
+31st</a>.</p>
+</div>
+<div id="your-challenge-4" class="section level2">
+<h2>Your Challenge</h2>
+<p>Malcolm Gladwell’s chapter on the Matthew Effect is persuasive as a
+narrative. He even has a couple of tables. After reading his <a
+href="https://byuistats.github.io/CSE150/files/matthew_effect_gladwell.pdf">Matthew
+Effect chapter</a>, your job is to create a few persuasive
+visualizations about the birthday distributions within each sport. In
+addition, you will need to compare the sport birthday distributions to
+the distributions of birthdays in the US population to verify that the
+population of birthdays is in fact different.</p>
+<p>You can find varied data sources available for your use on the data
+page in Canvas. You will need to use more than one of the data sets
+provided but you are not expected to use them all.</p>
+</div>
+<div id="deliverables-4" class="section level2">
+<h2>Deliverables</h2>
+<ol style="list-style-type: decimal">
+<li>Build a 6-10 slide presentation that provides data visualizations to
+pair up with the <a
+href="https://byuistats.github.io/CSE150/files/matthew_effect_gladwell.pdf">text
+from Malcolm Gladwell’s chapter on the Matthew Effect</a>.</li>
+<li>At least one slide should have a visualization that compares the US
+population of births to a sport of your preference with persuasive
+annotations added to the graphics.</li>
+<li>At least three slides should describe and show the statistical
+comparison you performed to provide justification for your
+inference.</li>
+<li>Your final slide should have your conclusions beyond the observed
+data.</li>
+</ol>
+</div>
+</div>
+<div id="case-study-6-catch-me-if-you-can" class="section level1">
+<h1>Case Study 6: Catch me, if you can?</h1>
+<div id="background-5" class="section level2">
+<h2>Background</h2>
+<p>You have recently been hired by the U.S. internal revenue service
+(IRS) to catch corporate cheaters. You have been given three companies
+to investigate. You will need to decide if the IRS should build a legal
+case to investigate the institution for fraud.</p>
+<ul>
+<li><strong>Sino Forest Corporation:</strong> You have the values from
+the financial statement numbers of Sino Forest Corporation’s 2010
+Report.</li>
+<li><strong>Government Entity: </strong>A dataset containing the card
+transactions for a government entity - 2010.</li>
+<li><strong>General Motors: </strong>The amounts paid to vendors for the
+90 days preceding General Motor’s 2009 liquidation.</li>
+</ul>
+</div>
+<div id="your-challenge-5" class="section level2">
+<h2>Your Challenge</h2>
+<p>You will be responsible to report as much evidence as you can with
+the data provided for each institution above. The government entity has
+more available data than the other two which will require you to dig
+deeper to find additional clues.</p>
+<p>You can find varied data sources available for your use on the data
+page in Canvas. You will need to use more than one of the data sets
+provided but you are not expected to use them all.</p>
+</div>
+<div id="deliverables-5" class="section level2">
+<h2>Deliverables</h2>
+<ol style="list-style-type: decimal">
+<li>A 8-12 slide presentation to your IRS managers on the case against
+each entity.</li>
+<li>At least one slide that shows the statistical test results from the
+analysis you performed.</li>
+<li>At least one slide per institution that visualizes their first digit
+distribution compared to Benford’s law.</li>
+<li>At least one slide for one of the institutions that compares the
+last digit distribution to what would be expected.</li>
+<li>Multiple visualizations of the <strong>Government Entity</strong>
+data to find other interesting insights. For each chart, please provide
+a follow on question to ask the <strong>Government Entity</strong> about
+the data discrepancy you displayed.</li>
+</ol>
+</div>
+</div>
+<div id="case-study-7-can-you-help-me-with-my-data-problem"
+class="section level1">
+<h1>Case Study 7: Can you help me with my data problem?</h1>
+<div id="background-6" class="section level2">
+<h2>Background</h2>
+<p>Up to this point in our course, we have been protecting you against
+the difficulty of gathering and formatting data for use in visualization
+and analysis. Tools like Tableau and PowerBI can be used to manipulate
+data. Some business analysts will stay in Excel and use VBA or use DAX
+in PowerBI. We are still going to protect you, but you will have to
+guide us on your data needs.</p>
+<p>Most of the time data scientists move to the programming languages of
+Python, R, or SQL to wrangle their data. Both PowerBI and Tableau allow
+all three languages to be used internally.</p>
+<p>The <a
+href="https://www.gatesfoundation.org/what-we-do/global-health/tuberculosis">Bill
+and Melinda Gates Foundation wants to eradicate Tuberculosis</a> (TB).
+They have asked your team to use the World Health Organization’s report
+on TB to guide them on their next steps in fighting this disease.</p>
+</div>
+<div id="your-challenge-6" class="section level2">
+<h2>Your Challenge</h2>
+<p>Adress the following questions;</p>
+<ul>
+<li>Which countries require our attention?</li>
+<li>What age groups are of the most concern?</li>
+<li>Are there differences between males and females?</li>
+<li>What data science programming language should we use moving
+forward?</li>
+</ul>
+</div>
+<div id="deliverables-6" class="section level2">
+<h2>Deliverables</h2>
+<ol style="list-style-type: decimal">
+<li>A 5-8 slide presentation that addresses the questions above.</li>
+<li>Each question should have at least one graphic to support your
+answer.</li>
+<li>At least one slide highlighting the language choice for future work
+on the project.</li>
+<li>You should have an appendix slide that describes the wrangling that
+had to be done to the data.</li>
+</ol>
+</div>
+</div>
+<div id="case-study-8-do-you-want-to-be-a-data-scientist"
+class="section level1">
+<h1>Case Study 8: Do you want to be a data scientist?</h1>
+<div id="background-7" class="section level2">
+<h2>Background</h2>
+<p>Data scientists need to have resumes that show strong experience in
+solving real-world problems. While employers know that their job
+candidates need experience, they often don’t know what experience they
+need and often list too many requirements.</p>
+</div>
+<div id="your-challenge-7" class="section level2">
+<h2>Your Challenge</h2>
+<p>To finish the semester you will need to create your hypothetical
+resume that you could use upon graduation from BYU-I to a data science
+or analytics position. Your resume will need to combine the three
+elements of coursework available, the real-work experience you can
+accumulate over your next few years before graduation, and the job
+requirements of the currently available positions for undergraduate data
+scientists.</p>
+</div>
+<div id="deliverables-7" class="section level2">
+<h2>Deliverables</h2>
+<ol style="list-style-type: decimal">
+<li>A one-page dream data science resume.</li>
+<li>A second page of sources that you used to justify the stuff in your
+resume.</li>
+<li>A cover letter that describes what you have learned from this
+course</li>
+</ol>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4,h5",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+
+</body>
+</html>

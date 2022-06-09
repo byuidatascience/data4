@@ -1,0 +1,2338 @@
+subjid,sex,htcm,wtkg,haz,waz,country
+10001,Female,75.7,8.64,0.642,-0.292,Netherlands
+10002,Male,75.5,10.57,-0.068,0.854,Netherlands
+10003,Female,78.6,9.58,1.818,0.568,Netherlands
+10005,Male,81.6,11.04,2.395,1.212,Netherlands
+10009,Male,77,9.9,0.464,0.209,Netherlands
+10013,Male,77.1,9.7,0.522,0.03,Netherlands
+10014,Female,68.5,8.71,-2.166,-0.232,Netherlands
+10023,Female,74,10.56,0.029,1.343,Netherlands
+10026,Female,73,8.52,-0.406,-0.407,Netherlands
+10028,Male,74.2,9.78,-0.664,0.119,Netherlands
+10039,Male,74,10.53,-0.764,0.79,Netherlands
+10040,Female,76,10.1,0.727,0.957,Netherlands
+10041,Male,78,9.45,0.917,-0.202,Netherlands
+10043,Female,70,8.68,-1.599,-0.267,Netherlands
+10045,Male,77,10.4,0.497,0.676,Netherlands
+10046,Female,76.2,11.53,0.837,2.009,Netherlands
+10048,Female,71,8.77,-1.152,-0.156,Netherlands
+10050,Female,76,10.25,0.743,1.081,Netherlands
+10053,Female,75.3,10,0.535,0.911,Netherlands
+10054,Male,75.5,10.71,-0.133,0.946,Netherlands
+10057,Female,75,8.6,0.355,-0.337,Netherlands
+10065,Female,77,9.74,1.147,0.68,Netherlands
+10066,Male,80,11.43,1.758,1.547,Netherlands
+10067,Male,77.1,11.64,0.573,1.73,Netherlands
+10070,Female,79,9.3,1.89,0.295,Netherlands
+10073,Female,77,10.01,1.163,0.906,Netherlands
+10075,Female,76,9.32,0.727,0.312,Netherlands
+10079,Female,73.5,8.38,-0.258,-0.564,Netherlands
+10080,Female,75.6,10.04,0.556,0.903,Netherlands
+10085,Female,77,10.51,1.196,1.305,Netherlands
+10089,Female,75.5,9.49,0.565,0.471,Netherlands
+10096,Male,78.6,9.6,1.187,-0.051,Netherlands
+10098,Female,77,9.13,1.147,0.159,Netherlands
+10099,Female,76,9.24,0.807,0.276,Netherlands
+10101,Female,72.5,9.04,-0.554,0.098,Netherlands
+11001,Female,77,9.2,1.147,0.221,Netherlands
+11002,Female,74.5,8.87,0.208,-0.063,Netherlands
+11003,Male,77,10.4,0.48,0.669,Netherlands
+11005,Male,76,9.75,0.077,0.084,Netherlands
+11007,Female,76,9.7,0.807,0.667,Netherlands
+11009,Male,78,11.4,0.934,1.53,Netherlands
+11012,Female,72,9.1,-0.824,0.119,Netherlands
+11013,Female,75.5,9.75,0.517,0.669,Netherlands
+11015,Male,76.5,9.57,0.254,-0.101,Netherlands
+11016,Male,75,10.77,-0.343,0.998,Netherlands
+11017,Female,81,10.25,2.735,1.101,Netherlands
+11018,Male,77,10.7,0.564,0.967,Netherlands
+11020,Male,77,10.07,0.514,0.387,Netherlands
+11030,Male,75.5,9.2,-0.166,-0.461,Netherlands
+11031,Male,78,10.53,0.884,0.776,Netherlands
+11039,Female,73,9.85,-0.39,0.777,Netherlands
+11040,Male,75,10.18,-0.376,0.465,Netherlands
+11042,Female,76,11.34,0.711,1.861,Netherlands
+11046,Female,75,10.87,0.339,1.537,Netherlands
+11049,Male,75.5,10.2,-0.15,0.49,Netherlands
+11050,Male,76,10.54,0.044,0.784,Netherlands
+11052,Male,79,11.25,1.39,1.422,Netherlands
+11053,Female,76,9.98,0.711,0.855,Netherlands
+11055,Male,75,9.48,-0.36,-0.18,Netherlands
+11056,Male,76,10.5,0.044,0.75,Netherlands
+11057,Female,77,11.14,1.131,1.735,Netherlands
+11058,Female,72.5,9.22,-0.645,0.218,Netherlands
+11063,Male,76.5,9.47,0.304,-0.176,Netherlands
+11064,Female,78,10.08,1.569,0.968,Netherlands
+11067,Female,75.5,9.98,0.613,0.895,Netherlands
+11070,Female,78,11.32,1.585,1.887,Netherlands
+11073,Male,72.5,8.37,-1.347,-1.286,Netherlands
+11074,Male,75,11.06,-0.376,1.228,Netherlands
+11076,Male,77,9.47,0.547,-0.161,Netherlands
+11077,Female,74,11.58,-0.049,2.03,Netherlands
+11082,Female,78,9.32,1.535,0.326,Netherlands
+11083,Male,77.5,11.22,0.775,1.405,Netherlands
+11084,Female,69,8.5,-1.93,-0.412,Netherlands
+11086,Male,76.5,9.45,0.304,-0.195,Netherlands
+11087,Female,78,9.78,1.535,0.713,Netherlands
+11089,Male,82.5,11.73,2.772,1.772,Netherlands
+11091,Male,72,7.37,-1.543,-2.428,Netherlands
+11092,Female,77,10.82,1.18,1.527,Netherlands
+11094,Female,71.5,8.26,-0.943,-0.642,Netherlands
+11102,Male,76.5,10.68,0.304,0.928,Netherlands
+11103,Male,80,10.28,1.758,0.569,Netherlands
+11109,Male,78,10.6,0.934,0.859,Netherlands
+11110,Female,75,8.41,0.418,-0.493,Netherlands
+11111,Female,72.5,10.1,-0.554,0.99,Netherlands
+11112,Male,78,11.2,0.986,1.389,Netherlands
+11113,Male,76,11.08,0.06,1.252,Netherlands
+11114,Male,73.5,9.31,-0.942,-0.324,Netherlands
+11117,Male,77.5,9.84,0.69,0.161,Netherlands
+11119,Female,79,11.3,1.89,1.84,Netherlands
+11122,Female,72.5,11.2,-0.554,1.804,Netherlands
+11125,Female,79.5,12.01,2.169,2.344,Netherlands
+p_011acd8b695eafb3,Female,69.2,8.22,-1.84,-0.68,Bangladesh
+p_039bc008da485380,Male,75.9,10.56,0.1,0.85,Bangladesh
+p_03b9b56210abae5c,Male,69.5,8.34,-2.63,-1.33,Bangladesh
+p_03c44365743b3c97,Female,68,6.61,-2.3,-2.53,Bangladesh
+p_066467a8d983af30,Male,73,9.79,-1.14,0.14,Bangladesh
+p_085c4ac50dc22b09,Male,73.7,10.3,-0.89,0.59,Bangladesh
+p_0883f3d0074f70c4,Female,66.5,6.1,-2.9,-3.22,Bangladesh
+p_096e5ebce44b40b1,Female,71.4,7.2,-1.06,-1.83,Bangladesh
+p_0ca571d13a7fd51a,Male,73.4,9,-0.98,-0.63,Bangladesh
+p_0d4a563f2a3c12bd,Male,73.4,9.88,-0.98,0.22,Bangladesh
+p_0e555d09b9a56178,Male,70.5,7.98,-2.22,-1.73,Bangladesh
+p_0ee8586f10ebed9c,Female,71,6.89,-1.2,-2.2,Bangladesh
+p_0f6312291e235687,Female,71,9.1,-1.15,0.15,Bangladesh
+p_0fabe4cdb4f92a06,Female,71,8.26,-1.17,-0.66,Bangladesh
+p_110e639209a4f6a3,Male,74.4,10.63,-0.6,0.88,Bangladesh
+p_17f18a70debce219,Male,73,9.53,-1.15,-0.11,Bangladesh
+p_191fb0817d39df22,Female,72,7.89,-0.78,-1.04,Bangladesh
+p_1a4a208aadd576fa,Male,72,8.56,-1.62,-1.11,Bangladesh
+p_1a76177d3856a63a,Male,72.5,9.13,-1.33,-0.49,Bangladesh
+p_1c983dd58fe1a15f,Female,68.5,7,-2.17,-2.06,Bangladesh
+p_1cc29299c1b473b0,Female,70,8.31,-1.58,-0.62,Bangladesh
+p_1d73f80b3d7004f9,Male,70.5,8.35,-2.19,-1.31,Bangladesh
+p_1dde76a5b64684cc,Female,73,7.54,-0.38,-1.41,Bangladesh
+p_1dff8c86141b7b27,Female,69.8,8.17,-1.62,-0.74,Bangladesh
+p_215f7a084ae72ea5,Female,68,6.92,-2.3,-2.13,Bangladesh
+p_2403515367ef6112,Female,66,7,-3.11,-2.05,Bangladesh
+p_265b63e2b6c8070a,Female,71,9.58,-1.18,0.55,Bangladesh
+p_28607322a40ae1a9,Male,69.2,7.44,-2.74,-2.35,Bangladesh
+p_2a0bb8265c8c9e72,Male,70,7.98,-2.43,-1.73,Bangladesh
+p_2a8f3862c9ed9176,Male,71.3,8.07,-1.88,-1.63,Bangladesh
+p_2af55d50c5f69604,Male,70,7.88,-2.42,-1.84,Bangladesh
+p_2c51c9e52511c8b5,Female,68,7.6,-2.35,-1.36,Bangladesh
+p_2c8f69f1f086a8f1,Male,70.5,8.17,-2.19,-1.5,Bangladesh
+p_3051394f98a4bd47,Male,72,9.05,-1.54,-0.57,Bangladesh
+p_30f16a572f62adca,Female,72.3,8.01,-0.66,-0.91,Bangladesh
+p_316628577b99f54a,Female,71.5,7.5,-1,-1.48,Bangladesh
+p_32cef720b38db0c7,Female,71,9.19,-1.2,0.21,Bangladesh
+p_3544e1c4ca899ef5,Male,73,8.93,-1.12,-0.69,Bangladesh
+p_36881068b3f3e0a1,Female,72.5,9.24,-0.55,0.28,Bangladesh
+p_368e75f7814d9d69,Male,71.2,8.04,-1.89,-1.65,Bangladesh
+p_36b2e7c27a1b8b0b,Female,68,6.59,-2.33,-2.57,Bangladesh
+p_36b35b3137a40423,Male,70.5,8,-2.22,-1.71,Bangladesh
+p_378e0cefc4e85f0d,Male,69.5,7.22,-2.61,-2.62,Bangladesh
+p_380ca3603be55ed5,Male,69,8.02,-2.84,-1.68,Bangladesh
+p_3c168f0d1bffc716,Male,72,7.85,-1.59,-1.88,Bangladesh
+p_3cbbd544c09f7bc5,Female,63,5.09,-4.3,-4.55,Bangladesh
+p_3d8fbcbfcedd1cc0,Male,71.7,8.13,-1.7,-1.56,Bangladesh
+p_41f1c2a38eadbf99,Male,72.5,8.12,-1.35,-1.56,Bangladesh
+p_453a1ee1e71a3926,Male,71.8,9.38,-1.67,-0.26,Bangladesh
+p_470a2176f6b4640e,Female,69,7.55,-1.97,-1.42,Bangladesh
+p_4736648f83bf9b60,Male,70,8.26,-2.4,-1.41,Bangladesh
+p_494d2457c1cfa110,Male,72.2,9.15,-1.47,-0.48,Bangladesh
+p_49878a44f499eb13,Male,73.2,8.22,-1.04,-1.44,Bangladesh
+p_4a14f4d9681092c2,Female,67.8,6.97,-2.41,-2.09,Bangladesh
+p_4b5e25748c06557c,Female,75,10.43,0.39,1.23,Bangladesh
+p_4b959103495227d7,Male,72.2,7.05,-1.5,-2.85,Bangladesh
+p_4bb86dd955c726de,Male,71.9,8.19,-1.63,-1.5,Bangladesh
+p_4c10bfcfaed91478,Male,70,8.74,-2.42,-0.9,Bangladesh
+p_4ce3ee807f60b643,Female,72,8.29,-0.78,-0.63,Bangladesh
+p_4e6f412e36a8e22c,Male,73.8,8.48,-0.82,-1.17,Bangladesh
+p_4ed14776c9d156b3,Female,67.8,6.58,-2.42,-2.59,Bangladesh
+p_4fde6c6f3c16f4c2,Female,70.5,8.48,-1.39,-0.45,Bangladesh
+p_53ec83645a5847ec,Female,72.3,7.7,-0.66,-1.24,Bangladesh
+p_54a274f2e4729c48,Male,73,8.35,-1.12,-1.3,Bangladesh
+p_5504539ef6fb632c,Female,71,7.95,-1.2,-0.99,Bangladesh
+p_5590f300e69ed999,Male,75.2,8.84,-0.21,-0.79,Bangladesh
+p_55ae5920730cb25e,Male,71.4,8.82,-1.83,-0.82,Bangladesh
+p_55f55de330a66877,Male,69.8,8.11,-2.53,-1.59,Bangladesh
+p_561c2f0f06465411,Male,69.7,7.33,-2.57,-2.5,Bangladesh
+p_57c766a9cd3c2839,Male,75.5,9.25,-0.15,-0.4,Bangladesh
+p_5a0d011d5a474e86,Female,68.5,7.15,-2.15,-1.88,Bangladesh
+p_5ad5c287e039501b,Female,67.9,7.87,-2.36,-1.05,Bangladesh
+p_5b291be3aae8445f,Female,70.8,7.4,-1.23,-1.57,Bangladesh
+p_5ca9ca8da8099645,Male,75,9.13,-0.34,-0.52,Bangladesh
+p_5dc916a194a73e20,Male,67.7,8.31,-3.38,-1.36,Bangladesh
+p_5ef47b8bc43321d7,Female,69,6.86,-1.97,-2.24,Bangladesh
+p_60b6840ac89c92ff,Female,68.2,7.19,-2.25,-1.82,Bangladesh
+p_61bdb6bcb966edcb,Male,68.5,8.9,-3.03,-0.73,Bangladesh
+p_620a73ef247cc69f,Female,69.3,7.16,-1.81,-1.85,Bangladesh
+p_626e26bf6c9a3759,Male,66.2,6.78,-4.04,-3.19,Bangladesh
+p_633d82c7ab1301b1,Male,70.8,8.75,-2.09,-0.9,Bangladesh
+p_64ba2bc6c72c0d33,Male,77,10.3,0.5,0.59,Bangladesh
+p_66214d38eb853e89,Male,65.5,6.88,-4.31,-3.06,Bangladesh
+p_6a96109c7dd2306c,Female,67.8,7.03,-2.4,-2.01,Bangladesh
+p_6b52304209cf41bf,Female,70.2,7.84,-1.49,-1.1,Bangladesh
+p_6c85e4851825aeda,Female,73.5,10.45,-0.18,1.25,Bangladesh
+p_6d247c8a6da2fc76,Female,68.2,7.6,-2.23,-1.34,Bangladesh
+p_6d3ba3e8123b454b,Female,71.2,6.7,-1.07,-2.42,Bangladesh
+p_6d4a91106adbe6bd,Female,63,6.26,-4.25,-3,Bangladesh
+p_6d6c48de49f8e2be,Female,67,6.05,-2.69,-3.28,Bangladesh
+p_6eb2d89df946bbe0,Female,68.7,6.99,-2.05,-2.06,Bangladesh
+p_70825cbd0e8959d3,Female,67.4,6.79,-2.59,-2.33,Bangladesh
+p_70ca9d9185b7cb34,Male,68.2,7.2,-3.19,-2.66,Bangladesh
+p_714c47cd541f9643,Female,70,6.63,-1.6,-2.54,Bangladesh
+p_7288d468ccfa52b6,Male,72.2,8.55,-1.46,-1.09,Bangladesh
+p_729d42f5f67c0a11,Male,71.5,8.56,-1.77,-1.08,Bangladesh
+p_73566b0e781e498f,Female,71.5,7.44,-0.97,-1.53,Bangladesh
+p_73ac0862b78e7da3,Male,69.3,7.67,-2.72,-2.09,Bangladesh
+p_73d87f17a9dd9888,Female,71.2,7.32,-1.09,-1.67,Bangladesh
+p_74404376a859d7f2,Male,73.2,8.25,-1.07,-1.42,Bangladesh
+p_74d4da0e6b1f0f2c,Female,68.7,6.25,-2.09,-3.04,Bangladesh
+p_754254f41c7fd636,Female,67.9,6.11,-2.39,-3.22,Bangladesh
+p_777231acb8b25cb2,Female,71.5,6.94,-0.94,-2.11,Bangladesh
+p_797ac6a6faad9d1a,Male,70.5,8.36,-2.18,-1.29,Bangladesh
+p_7be83686cbed936c,Male,71.5,8.33,-1.78,-1.34,Bangladesh
+p_7c92837ee4188ec5,Male,71.3,8.22,-1.88,-1.46,Bangladesh
+p_7cebead44e3fb3f4,Female,72.3,8.45,-0.66,-0.47,Bangladesh
+p_7d3b1564ffc6b274,Male,71.4,7.92,-1.84,-1.8,Bangladesh
+p_7e4d65dbd8956152,Male,65,6.97,-4.51,-2.94,Bangladesh
+p_7fb60f7255a69f29,Female,70.5,7.9,-1.36,-1.03,Bangladesh
+p_8009079aa26fa96d,Male,71.8,7.5,-1.64,-2.28,Bangladesh
+p_839264aac3892d25,Male,69,7.5,-2.84,-2.28,Bangladesh
+p_8395d108bdaf8878,Male,70,8.2,-2.4,-1.47,Bangladesh
+p_850b984d110878fb,Female,67.5,6.55,-2.5,-2.61,Bangladesh
+p_856429756f294ace,Female,68,8.19,-2.36,-0.74,Bangladesh
+p_8605178b34e221f2,Female,68.1,6.99,-2.31,-2.07,Bangladesh
+p_8618552493f7891a,Female,70,8.33,-1.58,-0.6,Bangladesh
+p_8742ecf70577a4d0,Female,69.5,7.34,-1.74,-1.64,Bangladesh
+p_88627c5941be2280,Male,78.2,11.73,1.02,1.79,Bangladesh
+p_8ab63746a220c09e,Female,67,7.73,-2.73,-1.22,Bangladesh
+p_8bb54e0722808cb5,Female,69.5,7.73,-1.74,-1.2,Bangladesh
+p_8bd7b0b3b5297d81,Male,71.5,9.92,-1.8,0.25,Bangladesh
+p_8c7d269e1f10759d,Male,73.3,8.72,-1.04,-0.93,Bangladesh
+p_8d20abe910f454a1,Female,69.7,7.53,-1.69,-1.44,Bangladesh
+p_90b3e5a0a902bbae,Female,70.6,9.2,-1.35,0.21,Bangladesh
+p_90d31be73d4acbaf,Female,69.2,8.77,-1.87,-0.16,Bangladesh
+p_92a5c8ae117a7e5a,Male,66.5,7.28,-3.89,-2.55,Bangladesh
+p_934ef8a93688174e,Female,71.5,8.45,-1,-0.48,Bangladesh
+p_97d83beff5138ad9,Female,67.5,7.5,-2.53,-1.46,Bangladesh
+p_97f7eeef51da8c1f,Male,70,8.5,-2.45,-1.17,Bangladesh
+p_98b1c383c90eb294,Male,72.6,9.29,-1.31,-0.34,Bangladesh
+p_9a1cf2b8a9cf7d44,Female,73,7.85,-0.39,-1.08,Bangladesh
+p_9b099a93e25fa69e,Female,73,8.75,-0.44,-0.2,Bangladesh
+p_9c2de884cb58fb15,Female,71.1,8.42,-1.1,-0.48,Bangladesh
+p_9da4986f3c898cb5,Male,70.1,8.69,-2.37,-0.95,Bangladesh
+p_9da656549d71108d,Female,71,8.58,-1.18,-0.35,Bangladesh
+p_9f0c8607eb10f139,Female,70.2,7.32,-1.49,-1.68,Bangladesh
+p_a1c0368d76b5dbd6,Female,71.5,7.87,-0.99,-1.07,Bangladesh
+p_a1c175014cb907b8,Female,73.4,8.28,-0.23,-0.64,Bangladesh
+p_a1c3ace6fa6a9327,Male,68,7.57,-3.23,-2.19,Bangladesh
+p_a271aaf149e680cc,Male,74,9.3,-0.8,-0.36,Bangladesh
+p_a4de589b82a36297,Female,72.5,8.09,-0.6,-0.84,Bangladesh
+p_a740e39001c668b0,Male,71.1,7.8,-1.98,-1.94,Bangladesh
+p_a7b9d595aa0fea1e,Female,73,8.7,-0.38,-0.22,Bangladesh
+p_aabda61e9f789637,Female,69.5,8.2,-1.74,-0.71,Bangladesh
+p_aae31112ec9e530a,Female,73.1,10.23,-0.34,1.09,Bangladesh
+p_ab69b0230ede57c3,Male,71,8.09,-2.01,-1.61,Bangladesh
+p_ad932149053f2fd6,Male,75.5,10.3,-0.1,0.6,Bangladesh
+p_ae317c4dc086dd21,Male,71,9.17,-2.02,-0.48,Bangladesh
+p_b132f1372befb7b2,Male,73,9.47,-1.2,-0.19,Bangladesh
+p_b1543114b431afdc,Female,70.4,7.74,-1.39,-1.19,Bangladesh
+p_b50f6e8012aaa364,Male,71.5,8.12,-1.81,-1.58,Bangladesh
+p_b5e6054a120a5d92,Female,70.2,7.45,-1.45,-1.51,Bangladesh
+p_b67d5c41610c22b3,Male,71.4,7.54,-1.8,-2.22,Bangladesh
+p_b68675289d67ce1e,Female,71,7.75,-1.15,-1.18,Bangladesh
+p_b6e46bdb906295c8,Male,75,10.43,-0.33,0.71,Bangladesh
+p_b6e47d54b450897b,Female,72.8,7.85,-0.48,-1.09,Bangladesh
+p_b88b35aba4e8b0de,Female,69,7.04,-1.93,-1.99,Bangladesh
+p_b8d5c3168e615d24,Female,67.8,7.03,-2.4,-2.01,Bangladesh
+p_ba1535d1c2b3c6cb,Female,70,7.69,-1.54,-1.25,Bangladesh
+p_baa67f7466cc22c0,Male,73.5,9.45,-0.97,-0.2,Bangladesh
+p_bc8cc790807f1c86,Female,70.4,8.97,-1.42,0.01,Bangladesh
+p_bebba2af89059a58,Female,70.5,8.1,-1.39,-0.83,Bangladesh
+p_bf13ff180bc9c976,Female,70.2,8.15,-1.48,-0.77,Bangladesh
+p_c0cf0b9450925eea,Female,67.5,7.48,-2.53,-1.49,Bangladesh
+p_c14fb3adc6d6e1e4,Male,72,7.61,-1.56,-2.15,Bangladesh
+p_c2baf59aa0dcca59,Male,68.5,7.92,-3.08,-1.81,Bangladesh
+p_c32d4c7a5aa0f5e4,Male,72,7.93,-1.57,-1.78,Bangladesh
+p_c52b5925890979e7,Female,69.5,7.89,-1.74,-1.03,Bangladesh
+p_c5a1010c86e49f64,Male,73.5,9.08,-0.99,-0.57,Bangladesh
+p_c70f5035adb9617a,Female,67.5,6.47,-2.53,-2.73,Bangladesh
+p_c7978a5748f7216b,Male,76,10.9,0.13,1.13,Bangladesh
+p_c8710ac6996e848f,Male,72.2,9.44,-1.47,-0.19,Bangladesh
+p_ca65342f5541d38e,Female,72.3,9.95,-0.65,0.86,Bangladesh
+p_caa977e861ea1f85,Male,69.5,7.7,-2.61,-2.04,Bangladesh
+p_cdb9e78ff1577ecb,Male,70,8.33,-2.42,-1.34,Bangladesh
+p_ce8523ac02104471,Male,71.5,8.06,-1.77,-1.63,Bangladesh
+p_cfc04da0a79b3abe,Female,71.2,7.08,-1.06,-1.94,Bangladesh
+p_d2142805cc6fb585,Female,70.7,7.72,-1.27,-1.21,Bangladesh
+p_d2f1ceaa2a353256,Male,74.8,10.89,-0.41,1.11,Bangladesh
+p_d3c4194fd99f9795,Male,73,9.49,-1.18,-0.16,Bangladesh
+p_d4d81cf229e94ffa,Female,67.5,7.66,-2.53,-1.29,Bangladesh
+p_d521d91d9352391b,Female,72,9.14,-0.78,0.17,Bangladesh
+p_d5d9457a91e7babb,Female,69.5,7.7,-1.75,-1.24,Bangladesh
+p_d67e1e506e309c39,Female,71.5,7.55,-0.99,-1.41,Bangladesh
+p_d883c3102f05019c,Female,68.5,7.82,-2.12,-1.1,Bangladesh
+p_dc0f3d76e15549db,Male,71.8,8.09,-1.64,-1.59,Bangladesh
+p_dce5aa58c15f79d3,Male,74,8.79,-0.76,-0.86,Bangladesh
+p_e003a01b5074a823,Female,69,7.64,-1.92,-1.29,Bangladesh
+p_e036332397b74417,Male,72.5,11.11,-1.39,1.28,Bangladesh
+p_e0cb8f05bcf6906d,Female,71.4,6.65,-1.03,-2.5,Bangladesh
+p_e1d51082d9bab69c,Male,71,7.33,-1.99,-2.49,Bangladesh
+p_e1edd92819f3bbe4,Male,69.5,8.18,-2.64,-1.51,Bangladesh
+p_e23d02e3727feae8,Male,72,8.3,-1.56,-1.36,Bangladesh
+p_e252b4268af65081,Male,72,9.54,-1.6,-0.12,Bangladesh
+p_e2737b5e7f764569,Male,68.5,7.55,-3.06,-2.23,Bangladesh
+p_e336cf6d8214a03d,Male,75.1,8.88,-0.24,-0.74,Bangladesh
+p_e3c78629fd2fa72a,Female,74.6,9.64,0.23,0.6,Bangladesh
+p_e50e49764495e5d9,Male,70.5,8.09,-2.22,-1.61,Bangladesh
+p_e5b4a66e3966df3e,Female,68.5,6.82,-2.18,-2.3,Bangladesh
+p_e7b2a51da0555652,Female,72,8.48,-0.76,-0.43,Bangladesh
+p_e82228feecaf6b11,Male,72,8.74,-1.54,-0.89,Bangladesh
+p_e92df9edd8839b77,Male,73,9.5,-1.2,-0.16,Bangladesh
+p_e93e26c85c486764,Male,74.5,9.05,-0.55,-0.6,Bangladesh
+p_eacd664200cac303,Male,72,9.49,-1.59,-0.16,Bangladesh
+p_ed78d0ea4a802991,Female,71.4,7.47,-0.98,-1.48,Bangladesh
+p_ef774bbb45fbe8a5,Male,74.5,8.16,-0.55,-1.54,Bangladesh
+p_f02f2df67b9d3987,Male,67.6,6.8,-3.4,-3.14,Bangladesh
+p_f145408b7302d6b9,Male,72.4,8.3,-1.41,-1.37,Bangladesh
+p_f2f801fd6817453c,Female,71,8.24,-1.2,-0.69,Bangladesh
+p_f4f3e701cc8a76bf,Female,72,8.58,-0.81,-0.36,Bangladesh
+p_f5524e35b91c0db6,Female,70.3,7.05,-1.45,-2,Bangladesh
+p_f57b220302ad91c4,Female,68.2,7.86,-2.24,-1.06,Bangladesh
+p_f5e99dd516257727,Male,72.3,8.72,-1.45,-0.92,Bangladesh
+p_f69318f7ac12a71b,Female,71.1,7.91,-1.11,-1.01,Bangladesh
+p_f8a5836a41a35d71,Female,70,7.35,-1.54,-1.63,Bangladesh
+p_f92398e7990c9fed,Male,75,9.06,-0.33,-0.58,Bangladesh
+p_f939574807a74386,Female,70,8.69,-1.54,-0.23,Bangladesh
+p_f97e1c090101e11d,Male,73.2,8.2,-1.04,-1.46,Bangladesh
+p_faf32d5c956d27b2,Female,72,9.31,-0.75,0.34,Bangladesh
+p_fc88e9cfca554063,Male,74,8.95,-0.75,-0.69,Bangladesh
+p_fcbe7e424b300a6f,Male,67.2,7.03,-3.57,-2.85,Bangladesh
+p_ff33777f4a4a5048,Female,67.5,6.61,-2.54,-2.55,Bangladesh
+p_ffd93e3df9bc938a,Male,69.8,7.75,-2.48,-1.98,Bangladesh
+p_0147fb587aa0e896,Female,80.4,8.13,2.47,-0.79,Brazil
+p_01577be53c458ed9,Male,74.4,10.29,-0.58,0.59,Brazil
+p_03b8d4111b124c2f,Female,78,12.02,1.52,2.32,Brazil
+p_03dfdf53c758051f,Male,78.3,10.72,1.08,0.97,Brazil
+p_04c307717626aef7,Female,78.2,11.95,1.63,2.29,Brazil
+p_071a55e2f401efcd,Female,71,8.45,-1.17,-0.47,Brazil
+p_0b0e8fd18958c151,Male,75.2,10.98,-0.26,1.18,Brazil
+p_0ba2bd4331e6c8ef,Female,72.8,9.5,-0.48,0.48,Brazil
+p_0d7b5a45711ea844,Male,79.6,12.58,1.64,2.46,Brazil
+p_0ddb858b623783d3,Female,76,9.52,0.77,0.5,Brazil
+p_0ddbf0b434e37df2,Female,74.2,10.58,0.09,1.35,Brazil
+p_107931ac962e67d5,Male,75.4,10.44,-0.16,0.72,Brazil
+p_132f9b211b73a514,Male,72.8,11.06,-1.28,1.24,Brazil
+p_135177f7e6abac6a,Female,76.8,8.58,1.05,-0.36,Brazil
+p_15889fb099f4d07e,Female,70.4,8.15,-1.44,-0.79,Brazil
+p_1714ced02149ceb0,Female,76.3,10.36,0.91,1.19,Brazil
+p_171ffa31cfac83bf,Male,70.4,8.75,-2.25,-0.89,Brazil
+p_1b8f503543d5d6e9,Female,78,14.82,1.57,4.07,Brazil
+p_1ba995570ea7e7ad,Female,80,10.96,2.35,1.63,Brazil
+p_22bc75ce7b86a723,Male,75.6,9.16,-0.07,-0.48,Brazil
+p_23e0591b38c8a1b9,Female,76,8.86,0.76,-0.09,Brazil
+p_23f295337e79e8fc,Female,77.7,10,1.4,0.88,Brazil
+p_257fd5c0d9e1e533,Male,74.4,8.86,-0.61,-0.8,Brazil
+p_261824f15c133951,Female,76.2,10.12,0.8,0.97,Brazil
+p_272a10e4a81bc2bf,Male,70.4,7.96,-2.23,-1.74,Brazil
+p_27e844d212972270,Female,76.2,12.5,0.82,2.62,Brazil
+p_2a0f85fa8109dfdf,Male,77,12.19,0.53,2.16,Brazil
+p_2b66e8beed012edb,Male,72,10.51,-1.62,0.77,Brazil
+p_2b8524a2d1258197,Male,73.2,10.08,-1.08,0.4,Brazil
+p_2ebf7b4a2d9f5e5f,Male,76,8.96,0.06,-0.69,Brazil
+p_2fb804a858fae331,Male,80.2,15.19,1.86,4.35,Brazil
+p_3149158eb2c90679,Female,73.2,8.35,-0.31,-0.57,Brazil
+p_31580cf40ee2f251,Male,74.8,9.98,-0.44,0.29,Brazil
+p_322364a037658ccb,Male,78,16,0.93,4.95,Brazil
+p_329a9effa88313c9,Male,77,9.98,0.51,0.3,Brazil
+p_3629e7c284fd064d,Male,74,8.78,-0.78,-0.88,Brazil
+p_36eb94a5b101b186,Female,75.8,11.52,0.65,1.99,Brazil
+p_3732a63fd79de976,Male,76.8,10.51,0.45,0.79,Brazil
+p_387eb63b8d6b6723,Female,72.2,10.2,-0.75,1.04,Brazil
+p_3a10aa7cc375fd8d,Female,77,9.28,1.18,0.3,Brazil
+p_3ac24270055f0f7f,Female,67.8,7.68,-2.44,-1.28,Brazil
+p_3afbcad4a20ce029,Female,75.6,9.92,0.64,0.84,Brazil
+p_3de42b7c135f763b,Male,78.2,9.84,0.98,0.16,Brazil
+p_3ec52d2458f85f01,Male,77,11.82,0.5,1.86,Brazil
+p_4083ebb69e82ec6a,Male,77.8,12.15,0.87,2.13,Brazil
+p_436aaa10e1808b69,Male,76,9.84,0.06,0.16,Brazil
+p_439928ea1da0acbb,Female,72.8,12.56,-0.48,2.67,Brazil
+p_43f01c6b38c766e4,Male,77.2,12.5,0.58,2.38,Brazil
+p_4484150d797c841d,Female,75,9.28,0.37,0.29,Brazil
+p_458b785c71ed6005,Female,75,8.45,0.37,-0.47,Brazil
+p_46a56b608985062e,Male,76.2,10.98,0.14,1.17,Brazil
+p_47a867c836164213,Male,78.1,11.21,0.98,1.37,Brazil
+p_47bb68105073c3ff,Female,74.2,8.38,0.06,-0.54,Brazil
+p_48f94d77c4825c74,Female,74,9.82,0.01,0.76,Brazil
+p_4b52f36f43b02216,Female,81.4,10.09,2.89,0.98,Brazil
+p_4fc9f41a29f384b1,Male,76.8,8.79,0.4,-0.87,Brazil
+p_50ef4c6b080a00a7,Female,75,10.61,0.35,1.35,Brazil
+p_510f6ccfcf045f1d,Female,69.6,7.96,-1.71,-0.96,Brazil
+p_512acc645e9fa4a2,Male,74,10.51,-0.75,0.78,Brazil
+p_54192af8d0e24ad9,Male,74.2,10.11,-0.66,0.42,Brazil
+p_541e4179ad34dd81,Male,77.8,10.91,0.9,1.15,Brazil
+p_57b050628d6c8089,Female,78.4,12.78,1.67,2.79,Brazil
+p_57e48aededfa8071,Male,74.2,10.16,-0.66,0.47,Brazil
+p_5831cb376a53fdfa,Female,78.2,14.42,1.6,3.8,Brazil
+p_585168a61c6645c1,Male,77,13.88,0.48,3.37,Brazil
+p_594c847a4a2372bc,Female,71,6.8,-1.18,-2.31,Brazil
+p_59e258ffaa808d0c,Male,76.2,11.15,0.14,1.31,Brazil
+p_59ef226778dd631c,Female,74,9.48,-0.03,0.46,Brazil
+p_5ba047473b33f7d5,Male,76,11.52,0.09,1.63,Brazil
+p_5cb7847c2692ecac,Female,73.2,9.48,-0.33,0.46,Brazil
+p_6062b812a39bfae4,Female,73.8,8.62,-0.1,-0.31,Brazil
+p_61141bf26c1962fe,Male,71.2,10.65,-1.96,0.89,Brazil
+p_6729b2ae4f3d61c7,Female,76.2,14.61,0.85,3.93,Brazil
+p_681be6b7de40f702,Male,75.2,11.58,-0.24,1.68,Brazil
+p_68f3d9eb07871278,Female,74.6,11,0.25,1.66,Brazil
+p_696e3798faa400f4,Male,81.2,16.18,2.28,5.08,Brazil
+p_6b8b8baf076813b3,Male,83.8,13.82,3.32,3.32,Brazil
+p_6ea1fbc4c80ff7e7,Female,73.4,9.1,-0.27,0.13,Brazil
+p_6eb50d71d02f573c,Female,73.2,8.12,-0.3,-0.79,Brazil
+p_6f26068fb22d1923,Female,70.8,7.44,-1.23,-1.52,Brazil
+p_6faae15232845b20,Female,77,11.8,1.15,2.19,Brazil
+p_6fac2599feeabb97,Female,72.6,8.36,-0.58,-0.57,Brazil
+p_70f4b62ea9eaa39d,Male,72,9.48,-1.59,-0.17,Brazil
+p_71bfebc68ff35d00,Male,71.2,9.7,-1.93,0.04,Brazil
+p_71fc0f8c41b0b86f,Female,74.6,9.52,0.23,0.5,Brazil
+p_723fccdcfbfd24ae,Female,77,8.83,1.16,-0.11,Brazil
+p_7266c88ad78f3387,Male,76,10.08,0.08,0.39,Brazil
+p_73929cc7b2e0bd2a,Male,74.6,10.25,-0.46,0.56,Brazil
+p_7508ae2eec708c53,Female,70.2,8.92,-1.52,-0.04,Brazil
+p_7580710bcb5315b4,Female,77.2,11.6,1.24,2.06,Brazil
+p_7a87e04af7914ab6,Male,74.8,9.48,-0.4,-0.16,Brazil
+p_7a954be172c6c6a4,Male,77.2,10.7,0.56,0.93,Brazil
+p_7b99b31cc26635b2,Female,72,7.95,-0.78,-0.97,Brazil
+p_7babbb73291b0e2c,Female,73.4,8.46,-0.27,-0.47,Brazil
+p_7d626f4019c023e9,Female,78.4,12.14,1.66,2.39,Brazil
+p_7d86daa4e23b1e10,Male,77.4,10.4,0.65,0.67,Brazil
+p_7ee282a546b9f297,Male,78.4,12.55,1.15,2.44,Brazil
+p_81ad4b798d1a1f0c,Female,78.8,10.14,1.85,1,Brazil
+p_8244746097c3b46f,Female,69.8,6.91,-1.65,-2.17,Brazil
+p_85b2fb579c5878b8,Male,76.8,11.02,0.43,1.22,Brazil
+p_88032032df787108,Male,78.4,14.67,1.14,3.99,Brazil
+p_8afe783b2b354848,Male,77.6,13.48,0.78,3.1,Brazil
+p_9091c0c6a65cadff,Male,73.4,11.91,-1.03,1.92,Brazil
+p_90e90d59b9018eef,Male,78.6,10.02,1.22,0.36,Brazil
+p_9207c51fa56b3df7,Female,76,9.8,0.73,0.72,Brazil
+p_92a63064520eebce,Male,76.2,11.95,0.18,1.97,Brazil
+p_957599f5fdb881d5,Female,74.4,13.96,0.15,3.53,Brazil
+p_96296b50929c431e,Male,76.8,10.99,0.41,1.18,Brazil
+p_96f478b8a5994968,Female,72.5,10,-0.57,0.9,Brazil
+p_979afaf32ea5be13,Male,73.2,9.81,-1.1,0.14,Brazil
+p_98a83c2ce5237076,Male,73.2,9.52,-1.1,-0.13,Brazil
+p_9bc90e7567b5f996,Male,81.2,14.61,2.33,3.95,Brazil
+p_9ec6f34c0c8448a0,Female,74.6,12.66,0.22,2.73,Brazil
+p_a7c3a04777102b7c,Female,72.2,9.27,-0.7,0.29,Brazil
+p_aa00d5d8dcdaca47,Female,73.2,10.92,-0.33,1.59,Brazil
+p_ad6ad9563042a458,Female,72.4,8.56,-0.62,-0.36,Brazil
+p_addf1134fc3fa4d1,Male,75.4,11.59,-0.13,1.7,Brazil
+p_b0708a7b143b75d9,Male,77,11.9,0.51,1.93,Brazil
+p_b301589b8fdcfd19,Female,78.8,10.92,1.81,1.57,Brazil
+p_b3e4b76ee947e721,Male,72.8,8.76,-1.24,-0.88,Brazil
+p_b40696a463fec3b2,Male,74.8,8.92,-0.44,-0.74,Brazil
+p_b4ec8d8358c5d519,Male,77,9.72,0.48,0.05,Brazil
+p_b70a10231399a909,Male,71.8,7.92,-1.64,-1.79,Brazil
+p_b70f4318c675178f,Female,77,11.58,1.13,2.04,Brazil
+p_b735c6db63234d37,Female,75.3,9.85,0.5,0.78,Brazil
+p_b96ec6b046c1819b,Female,78,9.4,1.52,0.39,Brazil
+p_b9e898feb3a2b50b,Female,73.6,11.08,-0.14,1.71,Brazil
+p_ba495b9a864f292c,Female,71,9,-1.18,0.04,Brazil
+p_ba817eacdf8cce92,Male,73.4,9.52,-1.03,-0.14,Brazil
+p_bd9364329db4bba4,Female,76.2,10.62,0.85,1.37,Brazil
+p_c16119a8759960b4,Male,74.6,9.24,-0.51,-0.41,Brazil
+p_c3610cb4ff360f9b,Female,72.6,10.48,-0.55,1.27,Brazil
+p_c5817534dea553d6,Male,70,8.93,-2.42,-0.7,Brazil
+p_c5ca1f98e4f5c3aa,Female,73.6,9.13,-0.16,0.17,Brazil
+p_c6b975731c77cb10,Male,77,12.08,0.55,2.08,Brazil
+p_c71e133261cbc95a,Male,77.6,12.8,0.77,2.61,Brazil
+p_c7ac5b7921732e9f,Female,75,10.22,0.35,1.06,Brazil
+p_cabcc810ea1497ba,Male,74.4,9.42,-0.6,-0.23,Brazil
+p_cabe0ea4a721cc6e,Female,73,8.64,-0.42,-0.3,Brazil
+p_cac4f47af17a96e9,Female,74.2,11.4,0.08,1.93,Brazil
+p_cae1febd1a0c4eae,Female,72.4,9.64,-0.64,0.6,Brazil
+p_cae66c4ca18360fd,Female,76.8,13.92,1.02,3.47,Brazil
+p_cc0effe1c6296b35,Male,75.2,10.52,-0.26,0.78,Brazil
+p_d07fadba9868d8c8,Female,78.5,10.98,1.75,1.64,Brazil
+p_d1a1019af668b520,Male,78.6,10.14,1.15,0.44,Brazil
+p_d1e18d367aa7af23,Male,76.2,8.96,0.19,-0.67,Brazil
+p_d32843e39015797a,Male,77,10.21,0.51,0.51,Brazil
+p_d4131dbc673b2874,Female,66.4,7.85,-2.99,-1.1,Brazil
+p_d445ff8bebac62ef,Male,75,9.84,-0.29,0.19,Brazil
+p_d58267468a515f8c,Male,72.6,8.98,-1.35,-0.67,Brazil
+p_d5d14e8d18db5a96,Female,71.2,8.26,-1.12,-0.67,Brazil
+p_d6f80f8d728dcb34,Female,78,10.76,1.5,1.46,Brazil
+p_d84e4dc12d71c9c1,Female,74.2,11.06,0.09,1.7,Brazil
+p_daa73fd479f7f9b1,Female,77,9.78,1.15,0.71,Brazil
+p_dc7d568884e3723c,Male,75,9.56,-0.31,-0.08,Brazil
+p_ded17cf587922a3f,Male,71,8.51,-2.01,-1.15,Brazil
+p_ded25192b88d5d27,Female,74.4,8.82,0.14,-0.12,Brazil
+p_dfdadabfd0e0ffb4,Female,76,9.98,0.76,0.87,Brazil
+p_e0e82e177179e49f,Male,74.6,10.56,-0.48,0.83,Brazil
+p_e12d548e3a6a752c,Male,77.8,11.06,0.87,1.26,Brazil
+p_e1b09630b70c90cb,Male,73.6,8.98,-0.92,-0.66,Brazil
+p_e4e022faf04c2a91,Male,72,10,-1.6,0.32,Brazil
+p_e513fc705f286cdf,Male,74,10.37,-0.73,0.66,Brazil
+p_e5bd4af65f8b6320,Female,79.8,14.17,2.2,3.63,Brazil
+p_e647c7304af06a38,Female,72,7.98,-0.78,-0.94,Brazil
+p_e665445b0b7f99af,Male,75.2,12.22,-0.28,2.16,Brazil
+p_e7c3e2a6bcf26569,Female,73.2,9.91,-0.36,0.81,Brazil
+p_e7e3f750e6615a85,Male,75.2,9.21,-0.26,-0.44,Brazil
+p_e7e79d2f4587aeb1,Male,68.8,8.92,-2.95,-0.73,Brazil
+p_e7f3a01aa0b36fe5,Female,75.6,8.33,0.6,-0.59,Brazil
+p_e823b05c98191249,Female,74.2,9.24,0.06,0.26,Brazil
+p_e8fbff478fa8067c,Male,73,9.52,-1.17,-0.13,Brazil
+p_e9231aa4b70a76cd,Male,76,13.07,0.11,2.81,Brazil
+p_ebf9da44b85cfec0,Male,71,10.4,-2.01,0.68,Brazil
+p_ec2e76aaeef22bb1,Male,73,8.8,-1.14,-0.83,Brazil
+p_ece9f843f0e1a654,Male,79.2,10.29,1.42,0.58,Brazil
+p_edd8d6fdc60b3a2f,Female,79.4,10.12,2.11,1,Brazil
+p_eef892928fc0529f,Female,71.2,9.44,-1.13,0.42,Brazil
+p_ef05060a024f6673,Female,77.2,11.6,1.22,2.06,Brazil
+p_ef1bdfc53ce51064,Male,76,11.32,0.06,1.45,Brazil
+p_f10fb322728c716e,Female,77,10.28,1.13,1.1,Brazil
+p_f14ed9f8d57cc3f1,Male,74.2,8.51,-0.7,-1.16,Brazil
+p_f2458cb0a5234ab8,Male,74,7.79,-0.75,-1.95,Brazil
+p_f261f42b8bf2e596,Male,75.4,10.16,-0.13,0.48,Brazil
+p_f36c04eb091a8089,Female,77.2,9.86,1.19,0.77,Brazil
+p_f37e72cb4e7181a7,Female,72.4,8.99,-0.64,0.03,Brazil
+p_f394dacd809e377e,Female,75.2,8.95,0.46,0,Brazil
+p_f49011870fa615c8,Male,75.2,10.02,-0.23,0.35,Brazil
+p_f5b789aef9ff065c,Male,81,11.8,2.18,1.84,Brazil
+p_f69afe30aa8c5562,Male,80.2,12.54,1.9,2.43,Brazil
+p_f7b780f36d1cf406,Male,75.4,10.67,-0.11,0.94,Brazil
+p_fc585ab71a65f251,Male,75.2,10.65,-0.26,0.89,Brazil
+p_fd89232d5fcef0b5,Male,81,11.98,2.18,1.98,Brazil
+p_019c47c245dc13cb,Male,70.4,7.15,-2.22,-2.7,India
+p_0313bea8af3c7329,Female,69.5,6.76,-1.78,-2.36,India
+p_0412b9aa7e05b297,Male,72.5,8.79,-1.35,-0.84,India
+p_051389e8b28fef6d,Female,71,5.71,-1.2,-3.75,India
+p_055b1ded4e57c459,Female,70.8,7.04,-1.23,-1.99,India
+p_05b01fdc3aaa8b60,Female,71.5,7.67,-0.96,-1.27,India
+p_0737a485994856e7,Female,72.4,8.38,-0.62,-0.54,India
+p_07ab4dfa087da57b,Male,72.5,8.13,-1.39,-1.57,India
+p_0876da3988585ee4,Female,69,7.79,-1.93,-1.14,India
+p_095422c0ec3306ad,Male,75,9.17,-0.31,-0.46,India
+p_095dea5f483f01e3,Female,67,6,-2.72,-3.36,India
+p_0b3712a6ac967752,Female,69,6.62,-1.93,-2.52,India
+p_0d782e670bd77d70,Male,70.5,7.95,-2.19,-1.75,India
+p_0ea715864a9b27ff,Female,70,6.55,-1.57,-2.63,India
+p_0f94f85e0e9783b0,Female,72,7.9,-0.81,-1.04,India
+p_1297c070a85c3867,Male,72,8.22,-1.6,-1.47,India
+p_14418f170982edee,Male,72.4,8.17,-1.37,-1.5,India
+p_15f5f828c75a8401,Male,69.5,6.69,-2.64,-3.3,India
+p_16050043ad6d8cd2,Male,73.4,8.59,-0.95,-1.04,India
+p_16ab18ccc0200629,Male,71.3,7.33,-1.85,-2.48,India
+p_1768d03d59a49abc,Female,70.5,7.59,-1.35,-1.36,India
+p_17aad97219b8005b,Female,69.3,8.15,-1.86,-0.78,India
+p_181d02581012be1d,Female,71.2,7.3,-1.09,-1.69,India
+p_186c79a733d9097b,Male,66.2,6.17,-4.03,-3.93,India
+p_1c0f4514eabd1b03,Female,71.2,7.74,-1.06,-1.18,India
+p_22e63d220bbf4aeb,Male,68,7.05,-3.24,-2.83,India
+p_23120ae99ca3befe,Male,74,7.52,-0.75,-2.27,India
+p_237a456b69273034,Male,72,8.52,-1.56,-1.12,India
+p_252da5ec2dc3579d,Female,73.5,8.65,-0.21,-0.28,India
+p_256184488f143e97,Male,73.6,10.09,-0.88,0.42,India
+p_25bd753839a81bc9,Male,71,7.35,-1.98,-2.46,India
+p_26bccfd7c57e114f,Female,71.5,7.1,-0.97,-1.93,India
+p_2a0a0bf1b228afd5,Female,72.7,9.16,-0.54,0.18,India
+p_2a43d5fae7c1563c,Male,64,6.89,-4.93,-3.04,India
+p_2b4f667eba2109d4,Male,70.4,7.25,-2.26,-2.6,India
+p_2e9c8cf5769ddd45,Female,69.3,7.4,-1.83,-1.58,India
+p_2f822f69fdf0936e,Male,71.9,8.66,-1.62,-0.98,India
+p_30818491e39183d1,Female,74,8.57,-0.03,-0.37,India
+p_30f4bd6a71d07add,Female,70.6,7.53,-1.35,-1.44,India
+p_316534fb1a79656a,Male,68.8,7.02,-2.92,-2.88,India
+p_324fb0e542550f96,Female,69.4,8.06,-1.83,-0.88,India
+p_34739637427b1196,Male,71.1,7.43,-2,-2.39,India
+p_34e92fd5340e69db,Male,74.5,8.52,-0.49,-1.12,India
+p_35e8556a50e31eec,Female,71,8.59,-1.14,-0.32,India
+p_373d0510478a0da4,Male,73.5,9.03,-0.93,-0.6,India
+p_3c529891b233fd41,Female,72.3,7.65,-0.66,-1.3,India
+p_3ced87fd2428e6fd,Male,71.4,7.43,-1.81,-2.36,India
+p_40419b545a883980,Male,71.7,8.07,-1.67,-1.61,India
+p_4042ad001738d243,Female,66.5,6.89,-2.9,-2.18,India
+p_406ae253d9e24641,Female,70,7.92,-1.53,-0.99,India
+p_411bac758a943677,Female,70,7.58,-1.54,-1.37,India
+p_413a792000f7b02e,Male,67.7,7.72,-3.36,-2.01,India
+p_44ae991ccbf273a4,Male,67,7.51,-3.66,-2.27,India
+p_453603a710833a15,Male,67.5,7.21,-3.48,-2.65,India
+p_469a9dfcf510eb05,Male,71.4,8.45,-1.87,-1.23,India
+p_4792df73f6ea7427,Female,72.5,7.61,-0.57,-1.33,India
+p_4835b39560fc9572,Female,70.1,8.72,-1.55,-0.22,India
+p_488bee57afc341ac,Female,65.9,6.71,-3.17,-2.43,India
+p_4a768de3f4e5e36f,Male,75,9.74,-0.28,0.1,India
+p_4c3c084d1ef9c4b5,Female,72.7,8.13,-0.49,-0.78,India
+p_50890aecd5efbb48,Female,73,7.7,-0.42,-1.26,India
+p_52271a35146ff447,Male,72.8,7.73,-1.25,-2.02,India
+p_53b44f5f612263c9,Male,73,8.11,-1.2,-1.6,India
+p_54b41342de11bd38,Female,72.6,8.75,-0.58,-0.19,India
+p_5556f4b54ea88802,Male,70.2,6.63,-2.32,-3.36,India
+p_555d8668bc05dda8,Female,69.6,7.94,-1.7,-0.98,India
+p_566e099cbdc12518,Male,74.6,9.71,-0.46,0.07,India
+p_58b374f9fead7dcf,Female,69.8,6.99,-1.62,-2.06,India
+p_59be432982aab2e2,Male,69.8,7.05,-2.47,-2.83,India
+p_5dbd8a8658d533fc,Female,69.6,7.62,-1.73,-1.34,India
+p_5e23689dfa87aa95,Male,74,9.45,-0.73,-0.19,India
+p_5e513a882881a260,Female,71.1,8.45,-1.13,-0.47,India
+p_5f52342daad1897b,Female,69.4,7.24,-1.83,-1.78,India
+p_5f863002d13badfc,Female,71,7.37,-1.2,-1.63,India
+p_6023e0177c0b7b53,Female,67.6,6.9,-2.52,-2.19,India
+p_60c564e0fbaecde4,Male,68.3,7.75,-3.17,-2.01,India
+p_615314fe0749c018,Female,70.9,7.95,-1.19,-0.97,India
+p_61d1cf87e1675eab,Female,71.5,7.61,-0.96,-1.33,India
+p_62ac4730a0dcd03f,Male,69.3,7.5,-2.7,-2.28,India
+p_62cadca9f3a29ea6,Male,72.6,8.89,-1.31,-0.74,India
+p_64fcf2b740182741,Female,68.9,7.11,-2.01,-1.93,India
+p_65a7d33cfe16fd61,Male,68.5,8.73,-3.08,-0.92,India
+p_65c299d13fa114b0,Male,73,8.98,-1.14,-0.65,India
+p_66be1b155bd825f5,Male,71.5,8.1,-1.75,-1.58,India
+p_66e5294831f1f73a,Male,75.5,9,-0.13,-0.65,India
+p_67eb8fb721b1fa38,Female,72,7.9,-0.78,-1.03,India
+p_69eb6c698982e854,Male,73.5,8.78,-0.97,-0.87,India
+p_6b821e26a415dd1e,Female,71,7.25,-1.14,-1.74,India
+p_6f71e6c704c77aa6,Male,72,8.08,-1.6,-1.63,India
+p_6fd2462d300573b5,Male,71.7,8.39,-1.68,-1.26,India
+p_6fe67e67e41eeb65,Male,70.1,8.17,-2.36,-1.5,India
+p_70cf6ca59ce01d11,Female,71.5,7.04,-1,-2.02,India
+p_74ce0b7342045239,Male,71.5,8.15,-1.75,-1.52,India
+p_75889046287eaebf,Female,71.5,7.87,-1,-1.07,India
+p_774307930329fa5e,Female,70.5,7.35,-1.33,-1.62,India
+p_77459308722897fa,Female,68.1,6.99,-2.27,-2.05,India
+p_78c54c7638049405,Female,69.7,7.19,-1.67,-1.82,India
+p_7935d2d2c4af9955,Female,71.9,8.24,-0.85,-0.69,India
+p_7a5857f2b27dc437,Female,66,7.77,-3.1,-1.16,India
+p_7bac42190408f541,Male,73.8,7.66,-0.82,-2.09,India
+p_7c43fd423be33b6d,Female,68.6,7.05,-2.1,-1.99,India
+p_7d71ede7ae0d98c9,Male,70.4,7.35,-2.26,-2.47,India
+p_7dff0488bdef38c4,Female,69.7,6.84,-1.66,-2.24,India
+p_7e1985ad733d282a,Male,70,7.83,-2.46,-1.92,India
+p_7e707df1cea16e8c,Male,69.1,6.97,-2.79,-2.94,India
+p_834b5a598611ade0,Female,68.9,6.97,-1.98,-2.09,India
+p_83ca5987aca35998,Male,70.2,7.52,-2.36,-2.27,India
+p_83f15cf3fadad906,Female,72.4,7.56,-0.67,-1.42,India
+p_843f682b118994ba,Male,73,8.53,-1.18,-1.14,India
+p_85930990218eabf0,Female,69,6.77,-1.96,-2.34,India
+p_85c8bf151c0bdf64,Female,69,7.37,-1.96,-1.62,India
+p_85ed3198ad13b5c9,Male,75.2,8.42,-0.24,-1.25,India
+p_86ee7dba2d42bab5,Male,68.2,6.54,-3.14,-3.46,India
+p_8949c3bc76796c67,Male,72.6,8.8,-1.31,-0.83,India
+p_8cb9799ecae08016,Female,68.2,7.15,-2.24,-1.86,India
+p_8d466bde23a01ec9,Female,71,7.65,-1.17,-1.3,India
+p_8e098b91ab1f715e,Female,68,6.58,-2.35,-2.59,India
+p_8e1a1428b959b25c,Male,74.5,8.5,-0.55,-1.17,India
+p_9259a30882a6741c,Female,72.8,8.32,-0.44,-0.58,India
+p_926499ffd80c7544,Female,68.4,7.02,-2.15,-2.01,India
+p_9339d256fb0c6420,Male,72,7.32,-1.56,-2.5,India
+p_9637a62ec36d916e,Male,70,8.4,-2.42,-1.26,India
+p_981fae6552820d0b,Female,73.1,8.53,-0.35,-0.39,India
+p_998df0c0257c7a1e,Male,71,8.92,-1.99,-0.71,India
+p_9a2621ccd8e331cc,Female,71.2,7.15,-1.13,-1.89,India
+p_9bafc7cc498309f2,Female,70.3,7.66,-1.42,-1.28,India
+p_9cca4d1d26aa9419,Female,71.5,7.6,-0.99,-1.36,India
+p_9e42ff8f09923d3c,Male,71,8.05,-2.02,-1.66,India
+p_9f5e758ffb9dd77c,Female,72.8,7.22,-0.45,-1.78,India
+p_a047d176721c7f37,Female,72,7.62,-0.78,-1.33,India
+p_a07d7d39941574c9,Female,71,7.85,-1.15,-1.07,India
+p_a11513386d2af8d2,Female,71,7.64,-1.21,-1.33,India
+p_a15bab327adf862a,Female,72.3,7.42,-0.65,-1.55,India
+p_a56e483f8be0834e,Female,69.5,8.32,-1.72,-0.58,India
+p_a7dca6a97345ee26,Female,76.5,10.16,0.94,1.01,India
+p_ab3add2f45efc28f,Male,74.5,9.25,-0.57,-0.4,India
+p_aed3c54d9a5209a7,Male,70.5,8.48,-2.19,-1.17,India
+p_afcbe4dbfe1eb68a,Female,70,6.92,-1.54,-2.14,India
+p_b045b946caa208b5,Male,73.5,8.7,-0.93,-0.93,India
+p_b112c3bb1031127d,Male,74.2,8.16,-0.65,-1.52,India
+p_b20cead425c80c7e,Female,67.6,6.17,-2.49,-3.13,India
+p_b2fa29a7b30375e0,Male,72.5,8.92,-1.39,-0.73,India
+p_b48b664b721234c0,Male,66,6.89,-4.07,-3.03,India
+p_b4b7aacddea46a9c,Male,72.3,8.15,-1.43,-1.53,India
+p_b514db1c691ccb46,Female,67.8,7.1,-2.42,-1.94,India
+p_b67e5506d3c4e5b3,Female,69,7.38,-1.93,-1.59,India
+p_b7e75ba9db2223db,Female,71.5,7.66,-0.96,-1.28,India
+p_ba5ed1daf601b375,Female,69,7.99,-1.97,-0.95,India
+p_bd652ecea6f505aa,Female,69.8,7.02,-1.62,-2.02,India
+p_be47abc353ecf3e1,Female,69.6,6.48,-1.74,-2.73,India
+p_bee4efc1bfef86bc,Male,65.5,6.92,-4.28,-2.99,India
+p_c082560cf357f68c,Female,67.5,7.33,-2.51,-1.65,India
+p_c127c1ecdb55cb9b,Female,70.9,7.2,-1.19,-1.8,India
+p_c1d66172338a6ecb,Female,68.8,8.74,-2.02,-0.19,India
+p_c2ecaf0cbb5282c7,Female,70.9,8.54,-1.19,-0.37,India
+p_c3122d8eae73b332,Female,70.3,7.6,-1.41,-1.34,India
+p_c31e7925ff65642f,Male,71,7.24,-1.99,-2.6,India
+p_c388014e144b1241,Male,70.1,7.14,-2.4,-2.74,India
+p_c54bbe0b243bdbc5,Male,70.1,8.3,-2.4,-1.38,India
+p_c59226d2f0e2a43c,Female,67.3,6.85,-2.62,-2.24,India
+p_c5e6148d20cc6eff,Female,71.6,8,-0.92,-0.91,India
+p_c639a3379517cca8,Female,71,7.38,-1.15,-1.59,India
+p_c7dcc14b19ddafcb,Female,68.7,7.57,-2.05,-1.38,India
+p_c87f92279bd87a9a,Female,69.4,7.87,-1.79,-1.06,India
+p_ca6d9f2bf0ec2025,Female,72.6,8.98,-0.53,0.04,India
+p_cbc9658e4b5f5f52,Male,72.8,8.03,-1.25,-1.68,India
+p_cbd98d0760f0b316,Male,71,7.49,-2.01,-2.3,India
+p_cc1c8c8f69100998,Male,73,8.89,-1.18,-0.76,India
+p_cd2395e98072347c,Male,71.6,8.19,-1.73,-1.48,India
+p_cd6e2c3c49ff6d69,Female,64.3,5.94,-3.74,-3.42,India
+p_ce3bc6c6e344e13e,Female,72,9.01,-0.82,0.04,India
+p_ce710be2f60f68da,Female,72.1,8.05,-0.72,-0.86,India
+p_cf5bdda7495c57f7,Female,71,7.05,-1.2,-2,India
+p_cfc39b16edcc6321,Female,68.5,8.28,-2.12,-0.63,India
+p_d246a0c56708bee0,Female,68.5,7.99,-2.15,-0.94,India
+p_d2dd3dc3f8b550c7,Female,65.6,5.89,-3.29,-3.51,India
+p_d39f03f5e4fa6115,Female,66,6.98,-3.1,-2.07,India
+p_d6291c6ceb389a45,Male,71.5,8.39,-1.8,-1.28,India
+p_d62c37166d67afc6,Female,68,7.25,-2.32,-1.74,India
+p_d679b66f5b211b9d,Female,70.5,7.2,-1.38,-1.82,India
+p_d6b01eaf5413d008,Female,66.5,6.01,-2.89,-3.33,India
+p_d7baee128c6c1c66,Male,71.6,8.21,-1.73,-1.46,India
+p_d800bcbe8f933943,Female,70.1,7.05,-1.49,-1.98,India
+p_d8688f4fa8db22d3,Male,72,8.28,-1.54,-1.38,India
+p_d87789834bbb30db,Male,72,7.47,-1.54,-2.31,India
+p_dae2343a74fe2cc7,Female,68,6.86,-2.32,-2.22,India
+p_dbf448b07030d599,Female,73.4,8,-0.27,-0.94,India
+p_dd570b4b5032a9b5,Male,72,8.17,-1.57,-1.51,India
+p_dde7e063fe4b5db8,Female,70.2,6.19,-1.45,-3.09,India
+p_e00dc29753a12e4e,Female,71.6,8.01,-0.92,-0.9,India
+p_e04e52c000d4a209,Male,70.9,8.92,-2.04,-0.71,India
+p_e1a2e391caa0db0f,Male,75.5,9.45,-0.13,-0.2,India
+p_e2b9e812526e095d,Female,68.5,6.82,-2.12,-2.27,India
+p_e2fa7c62fe70340b,Male,71,8.49,-2.02,-1.18,India
+p_e341e59f4f1b784f,Female,72,8.04,-0.82,-0.9,India
+p_e4891463776ae6bf,Male,72.5,8.23,-1.36,-1.45,India
+p_e73720267c00e900,Male,70,8.39,-2.46,-1.29,India
+p_e830e9fa815bd5e7,Male,69.5,7.63,-2.61,-2.12,India
+p_ea929eae6b834eb4,Female,67,5.87,-2.73,-3.53,India
+p_eae26c268a610f2a,Male,72,8.7,-1.6,-0.96,India
+p_ef21b876764756b3,Male,72.9,8.63,-1.18,-1.01,India
+p_efbb457993683939,Female,65.9,6.26,-3.13,-3.01,India
+p_f1f9df1abf764b54,Female,70,8.19,-1.58,-0.74,India
+p_f33846f60a95212c,Female,67.6,6.45,-2.53,-2.78,India
+p_f3fc9e8bba1bdf1a,Male,68.3,6.6,-3.12,-3.39,India
+p_f51bb63a660a015e,Female,71,9.76,-1.17,0.7,India
+p_f56d78dec25e74ea,Male,72,8.47,-1.57,-1.19,India
+p_f625eb43ffc2564c,Male,72.7,8.4,-1.25,-1.25,India
+p_f6564fc4f3226cff,Male,71,8.01,-1.98,-1.68,India
+p_f79b51164a6f1d09,Male,68,6.56,-3.24,-3.44,India
+p_f81f9062e0f73913,Female,70.8,8.28,-1.23,-0.63,India
+p_f8d98dec93bca74b,Female,65.9,6.47,-3.12,-2.72,India
+p_f934c3580019eca0,Female,70.5,7.81,-1.36,-1.12,India
+p_fa46bf7f2bdb1d2c,Male,71.5,8.48,-1.8,-1.18,India
+p_fa8821687ff66c17,Male,70.7,7.67,-2.14,-2.09,India
+p_fae721bb34998241,Female,67.5,6.75,-2.5,-2.35,India
+p_fb9b002db979ee63,Female,69,7.03,-1.93,-2.01,India
+p_fd3cfe6314245007,Male,74.6,9.98,-0.46,0.32,India
+p_fe3d175f761865dd,Male,70.1,7.01,-2.36,-2.88,India
+p_ffc8fe34349d5896,Female,70.4,8.41,-1.44,-0.53,India
+p_0100c94036101a73,Male,75.8,12.69,0.04,2.54,Nepal
+p_01f4e6a8e4ba769e,Female,72.9,8.74,-0.41,-0.18,Nepal
+p_02ae2a4b6a5a09b8,Male,71.9,8.4,-1.6,-1.25,Nepal
+p_02cbf806d90475c2,Male,73.6,8.61,-0.87,-1.02,Nepal
+p_05cc8e30c16e75f9,Male,75.5,10.09,-0.08,0.42,Nepal
+p_05deab04a8a1ae09,Male,74.8,7.62,-0.4,-2.14,Nepal
+p_076174e6504ea476,Female,75.1,9.3,0.43,0.31,Nepal
+p_07e3b999a6509d7a,Male,71.8,8.3,-1.66,-1.37,Nepal
+p_092a2f8cb68527a6,Male,77.4,10.79,0.68,1.02,Nepal
+p_0a75432ec142ab99,Male,76.5,9.6,0.34,-0.04,Nepal
+p_0bf0e4897f55768f,Male,71.4,8.14,-1.84,-1.55,Nepal
+p_0bf4e6d50a63aa90,Male,69.7,7.28,-2.51,-2.54,Nepal
+p_0ce1482a31afcd1b,Male,69.2,8.77,-2.75,-0.87,Nepal
+p_0e16087705024fe0,Male,77.3,10.2,0.66,0.51,Nepal
+p_138ae02503da6030,Male,73.2,9.06,-1.04,-0.56,Nepal
+p_15426c8dbeb88d74,Female,71,8.02,-1.17,-0.9,Nepal
+p_161e4289afd0892e,Male,75.5,9.9,-0.08,0.25,Nepal
+p_1675b91d184adb26,Female,71.4,8.43,-0.98,-0.47,Nepal
+p_185be8235511ca51,Male,74.1,8.9,-0.71,-0.74,Nepal
+p_187bd573497ffdc3,Male,77,10.4,0.53,0.69,Nepal
+p_19c39816f4f4b71f,Male,74.2,9.25,-0.65,-0.38,Nepal
+p_1b3f9b481cd76bf6,Male,71.1,10.23,-1.92,0.55,Nepal
+p_1bb0ba252c5c5163,Male,77.2,10.6,0.6,0.86,Nepal
+p_1bb94bfe8effb3ae,Male,76.3,9,0.25,-0.63,Nepal
+p_1bd56c0950af5ce1,Female,70,6.95,-1.54,-2.1,Nepal
+p_1cd8c263798db65f,Female,70.2,8.01,-1.45,-0.9,Nepal
+p_1d25186913c354d2,Male,74.9,9.64,-0.34,0,Nepal
+p_1d4b127c2cdb936d,Male,75.8,9.23,0.01,-0.41,Nepal
+p_1d97e9b3247cc862,Female,67,7.6,-2.71,-1.34,Nepal
+p_1f016f10479eb9e1,Male,74,10.34,-0.7,0.65,Nepal
+p_1fabd678eea0022c,Male,72.9,9.16,-1.18,-0.47,Nepal
+p_206f49dd9c26c316,Female,74.1,8.47,0.05,-0.44,Nepal
+p_2094a0dc6f36b4c9,Female,71.5,9.78,-0.96,0.73,Nepal
+p_23628c67288469cb,Male,70.5,8.4,-2.18,-1.25,Nepal
+p_2366e7b30a3a10c9,Female,74.2,8.62,0.09,-0.3,Nepal
+p_24433db4daaebc4d,Female,71,9.3,-1.15,0.32,Nepal
+p_25ec9b80842f3da4,Male,75.9,10.67,0.1,0.94,Nepal
+p_272f87f4e377d4f4,Female,71.3,8.3,-1.04,-0.61,Nepal
+p_27bc5ea8adfcc43a,Female,71.3,9.56,-1.02,0.55,Nepal
+p_27fe9b904ba2f109,Male,73.2,8.81,-1.05,-0.82,Nepal
+p_2984c09dc5c6663f,Female,70,8.17,-1.54,-0.74,Nepal
+p_29c250bdd7a630ec,Female,72.8,9.08,-0.45,0.13,Nepal
+p_2a1c6b2779e8c172,Male,74.3,9.62,-0.61,-0.02,Nepal
+p_2ad0ce7c0bca213f,Female,73.3,7.48,-0.26,-1.48,Nepal
+p_2b93a8925343d8c8,Female,73,8,-0.38,-0.91,Nepal
+p_2bd94594ecd74db3,Female,69.9,7.56,-1.61,-1.4,Nepal
+p_2bed281957a191f9,Male,73.3,8.16,-1.03,-1.52,Nepal
+p_2e859f03512828f1,Female,72.8,9.55,-0.44,0.54,Nepal
+p_2e9cd358cf5eb5b7,Female,74.2,8.4,0.09,-0.51,Nepal
+p_2f00012a83c3e797,Male,71.5,8.35,-1.77,-1.31,Nepal
+p_30ae76b32d08a9c4,Female,72.5,7.92,-0.6,-1.01,Nepal
+p_30cc608d56ffe6df,Male,74.9,7.88,-0.32,-1.82,Nepal
+p_31d2abf4a904f448,Male,74.9,9.3,-0.37,-0.34,Nepal
+p_324555c0e87edf98,Female,71,8.77,-1.14,-0.15,Nepal
+p_32dad4fde84ef029,Female,66.5,7,-2.89,-2.04,Nepal
+p_346c600b1ee8576b,Female,68.7,7.5,-2.09,-1.48,Nepal
+p_346eb218a145ee62,Male,75.8,9.59,0.06,-0.04,Nepal
+p_34787b40a77057a3,Male,78,9.59,0.97,-0.05,Nepal
+p_348295c820b7a78a,Male,76.5,10.14,0.34,0.47,Nepal
+p_35a6645d7c287f70,Female,71.4,7.44,-1.01,-1.53,Nepal
+p_361e177dfc5b46bb,Female,67.5,7.32,-2.51,-1.66,Nepal
+p_385c5a21d9a3bd7a,Female,69.6,7.3,-1.68,-1.68,Nepal
+p_39a2cf52a9857eb7,Female,72,8.95,-0.75,0.02,Nepal
+p_3b27599bee50ec7d,Male,71.5,8.16,-1.77,-1.52,Nepal
+p_3e09928e503ad06e,Male,76.2,10.06,0.23,0.4,Nepal
+p_3f1119b9fa94ae83,Female,72.9,8.44,-0.4,-0.46,Nepal
+p_40f6474a0e8664a8,Male,71.5,9.28,-1.75,-0.34,Nepal
+p_4474d53a11799ff0,Female,75.2,9.44,0.48,0.44,Nepal
+p_44a4bfa9509eec4d,Male,73,9.71,-1.17,0.05,Nepal
+p_4502413143c7c16f,Female,68.9,7.04,-1.97,-1.99,Nepal
+p_45ff927c7810ac90,Male,74.2,9.7,-0.66,0.04,Nepal
+p_463c53e32673368a,Female,72.8,8.63,-0.47,-0.29,Nepal
+p_46bd62b11bb37f6b,Male,71.5,8.56,-1.78,-1.09,Nepal
+p_474bc9673aa17ecc,Male,75.3,9.34,-0.17,-0.29,Nepal
+p_4792fd35259e60fc,Female,72,8.72,-0.76,-0.2,Nepal
+p_49857110c1c0a7eb,Female,74.1,8.28,0.07,-0.62,Nepal
+p_49becf5bb351b5b2,Female,72.8,10.03,-0.44,0.93,Nepal
+p_4d85e28369fd32b2,Female,73.5,8.46,-0.18,-0.45,Nepal
+p_50226c4fefcab3df,Male,68,6.52,-3.23,-3.49,Nepal
+p_50c157e3eed89a14,Male,78.5,9.86,1.2,0.22,Nepal
+p_5104842f82da9aef,Male,68.1,7.2,-3.2,-2.64,Nepal
+p_51c449a224e406fc,Male,71.5,8.91,-1.77,-0.72,Nepal
+p_5220f0370c312927,Female,71,7.86,-1.14,-1.06,Nepal
+p_5272507ca7b56c43,Female,74.2,9.83,0.11,0.77,Nepal
+p_537991b85d3e4bfc,Male,70.4,8.35,-2.25,-1.31,Nepal
+p_53cd2413f33855a3,Female,75.5,8.6,0.61,-0.31,Nepal
+p_54573347af029ac1,Female,72.8,8.36,-0.47,-0.56,Nepal
+p_557c294fd4fd1cd4,Male,72.5,9.96,-1.36,0.29,Nepal
+p_56f92e194fc96e47,Male,73.8,8.43,-0.8,-1.22,Nepal
+p_57201e4714f0ec4a,Female,74.2,10.55,0.09,1.33,Nepal
+p_5725ddd0f5581018,Female,72.8,8.55,-0.45,-0.36,Nepal
+p_58f516f14c1832f1,Female,72,8.46,-0.76,-0.45,Nepal
+p_593eed01b9f2f5ee,Male,77.8,9.55,0.9,-0.08,Nepal
+p_597c9465ff1e10af,Female,73.1,8.67,-0.34,-0.25,Nepal
+p_59de4eff5f820758,Male,77.1,9.83,0.59,0.18,Nepal
+p_5a3d5b41963648e2,Female,69,7.58,-1.93,-1.37,Nepal
+p_5a4595703675777d,Male,76.6,9.94,0.38,0.28,Nepal
+p_5b94a5e81f922295,Male,72.3,9.29,-1.42,-0.33,Nepal
+p_5be011cd491118f5,Female,73,8.24,-0.36,-0.66,Nepal
+p_5cbb79c696138055,Female,71.2,8.53,-1.1,-0.4,Nepal
+p_5d6e545deb8b3039,Female,72.6,10.56,-0.52,1.34,Nepal
+p_5e9580f27e8a22f1,Male,77.2,10.12,0.63,0.45,Nepal
+p_60441a1d95eee068,Male,73,9.5,-1.14,-0.13,Nepal
+p_627552343a9bc445,Female,72.2,9.2,-0.67,0.24,Nepal
+p_63d0953511c2f6f6,Male,75.6,9.12,-0.06,-0.51,Nepal
+p_651c484a9050167a,Male,75,9.61,-0.34,-0.05,Nepal
+p_6579664d35eb91a7,Male,72,8.8,-1.57,-0.84,Nepal
+p_659b414096f92bc9,Male,72.8,9.95,-1.22,0.29,Nepal
+p_690525a78709af53,Female,73.1,9.46,-0.32,0.47,Nepal
+p_6a0d17e4f683301a,Male,73,7.99,-1.14,-1.71,Nepal
+p_6b1f453864a4673c,Male,71.6,7.14,-1.73,-2.72,Nepal
+p_6c2ec24a826afeb7,Male,72.1,8.64,-1.52,-1,Nepal
+p_6d082252dc7e38d4,Female,69,7.07,-1.92,-1.95,Nepal
+p_6db9a440ca86950f,Male,72.8,9.03,-1.22,-0.6,Nepal
+p_6f12614527dee578,Male,74,10.4,-0.75,0.68,Nepal
+p_7195ea313434ed7c,Female,69.5,7.9,-1.75,-1.03,Nepal
+p_724319c5ba8b313d,Male,72.5,9.44,-1.33,-0.18,Nepal
+p_73201b93b7bbe626,Male,76.1,9.02,0.17,-0.61,Nepal
+p_738e8a01d39af206,Female,67.5,6.56,-2.54,-2.62,Nepal
+p_745435abfb701b4b,Male,75,9.66,-0.34,0,Nepal
+p_75bdd649be810a9c,Female,71.5,9.02,-0.99,0.06,Nepal
+p_77b44816452b9d02,Female,69.5,7.63,-1.76,-1.33,Nepal
+p_7901c8f25d513c09,Male,73.5,9.94,-0.93,0.28,Nepal
+p_797a074323f9b0f0,Male,73.9,8.31,-0.77,-1.36,Nepal
+p_7a6b094196d02962,Female,72.2,7.42,-0.67,-1.54,Nepal
+p_7e23a54a5870dc05,Female,71.1,8.72,-1.1,-0.2,Nepal
+p_7e7522be810ebfc9,Male,73.8,9.09,-0.78,-0.53,Nepal
+p_814f7748b91e5791,Female,70,7.73,-1.53,-1.2,Nepal
+p_82adbdcd99e55036,Male,71.8,7.93,-1.63,-1.77,Nepal
+p_83be027745e8cca4,Male,78,9.2,0.97,-0.43,Nepal
+p_87829d3862ff3420,Male,72.3,8.45,-1.42,-1.19,Nepal
+p_87ad9ede80ebb851,Male,73.5,8.71,-0.91,-0.92,Nepal
+p_8a145541b7e0bc95,Male,71.9,8.85,-1.62,-0.79,Nepal
+p_8b258d5d813bdd3f,Female,73,7.87,-0.39,-1.06,Nepal
+p_8b9751d30f4555af,Male,74.8,8.66,-0.36,-0.97,Nepal
+p_8c1ff9331d72aec3,Male,73.5,9.13,-0.97,-0.52,Nepal
+p_8db44ca7bb833492,Male,75,12.07,-0.29,2.07,Nepal
+p_8dd1d1149a1ce5d1,Female,71.8,9.42,-0.9,0.4,Nepal
+p_8dd9db6c8c930e1a,Female,72.5,8.5,-0.55,-0.41,Nepal
+p_8ee0c34abdd25378,Male,72.3,8.41,-1.43,-1.24,Nepal
+p_8fe958bbae04e7fb,Female,67.5,7.56,-2.53,-1.4,Nepal
+p_92286aae8724e31a,Male,67.5,7.29,-3.48,-2.55,Nepal
+p_93ad473cb67c85cd,Female,73.4,8.6,-0.22,-0.32,Nepal
+p_93bf5901ac7c531c,Male,75,8.68,-0.29,-0.96,Nepal
+p_948b9d9b44f260e6,Male,67,6.12,-3.69,-4,Nepal
+p_96d6b07ba4494c01,Male,70.1,7.62,-2.34,-2.13,Nepal
+p_96fb394fb530fec5,Female,71.8,7.41,-0.84,-1.56,Nepal
+p_978454d824250f37,Male,74,11.37,-0.75,1.51,Nepal
+p_9bb379cfd285bb86,Female,68.5,8.61,-2.12,-0.31,Nepal
+p_9c3bd028958be0d9,Male,75.5,10.8,-0.12,1.03,Nepal
+p_9c90779210845906,Male,68.2,8,-3.19,-1.71,Nepal
+p_9dc38931c110cc77,Male,73.8,8.96,-0.83,-0.68,Nepal
+p_9e05d14a93e1c91f,Female,68,6.36,-2.32,-2.87,Nepal
+p_a0ab442401068b59,Female,73,8.23,-0.36,-0.67,Nepal
+p_a5902d065fb4f520,Female,74,7.85,0.03,-1.07,Nepal
+p_a9d8f45c7c9f4a2a,Male,71.4,7.81,-1.8,-1.91,Nepal
+p_aa16207bf41a74a0,Female,71.5,7.58,-0.94,-1.36,Nepal
+p_ab8a55416cc06916,Female,73.8,9.83,-0.06,0.77,Nepal
+p_ac9d6968a78844a6,Male,73.9,10.38,-0.79,0.67,Nepal
+p_adb9baec7bcc97c9,Male,76.2,9.67,0.21,0.03,Nepal
+p_adbad300d5230961,Female,73,7.35,-0.38,-1.63,Nepal
+p_aeb85a1342eb1d73,Male,77.1,9.63,0.61,0,Nepal
+p_aef7c07766cdd0e8,Male,74,9.35,-0.72,-0.28,Nepal
+p_b0587c45bea43bd3,Female,69.5,7.73,-1.74,-1.2,Nepal
+p_b2afa745915e8b89,Male,76,9.64,0.08,-0.02,Nepal
+p_b33f67c0f96f5382,Female,72.7,8.3,-0.51,-0.62,Nepal
+p_b33fa58dd470dd55,Male,72.5,8.9,-1.33,-0.72,Nepal
+p_b5ac7b92b998b1a6,Male,72.8,9.13,-1.24,-0.5,Nepal
+p_bc134db7d21bfe29,Female,69.5,7.88,-1.74,-1.04,Nepal
+p_bc13f1c9305f7903,Female,73.9,8.77,-0.03,-0.16,Nepal
+p_bd2b33b3e53dc65b,Female,72.8,9.28,-0.48,0.29,Nepal
+p_bed135aeaa019180,Female,71.1,7.48,-1.11,-1.48,Nepal
+p_c10555b69504822b,Male,77,11,0.53,1.21,Nepal
+p_c14a6868a66f8095,Female,76.1,10.32,0.83,1.15,Nepal
+p_c3ae59bfb8efb15d,Female,69.5,7.11,-1.75,-1.92,Nepal
+p_c3ccf929777fa009,Male,72.5,8.74,-1.33,-0.89,Nepal
+p_c5bd58b5383f5668,Male,73,9.22,-1.15,-0.41,Nepal
+p_c70a0673c6ed69cf,Male,76.8,9.38,0.46,-0.25,Nepal
+p_c71e62ba6d4afc79,Female,73,8.73,-0.36,-0.19,Nepal
+p_c84a38006d485b07,Female,68.7,6.8,-2.05,-2.29,Nepal
+p_c9c134ef339e8b8d,Male,74.4,9.69,-0.56,0.04,Nepal
+p_ca07ccd30c2815f4,Female,72.8,9.35,-0.45,0.36,Nepal
+p_cb84d7b7db89a739,Female,73.7,9.42,-0.09,0.43,Nepal
+p_cb9f0cef1fbfa721,Female,71.4,8.02,-1,-0.89,Nepal
+p_ce0355e6b536735e,Female,67.3,7.13,-2.58,-1.88,Nepal
+p_cebd01b057dc4c22,Male,73.3,8.58,-1.01,-1.06,Nepal
+p_d60bf1c843c47723,Male,74.1,8.15,-0.66,-1.52,Nepal
+p_d61cb842a8cc416a,Male,72.5,8.69,-1.35,-0.94,Nepal
+p_d658757fd058fa31,Female,70,8.51,-1.53,-0.4,Nepal
+p_d65f1140f3379312,Female,73.2,7.76,-0.33,-1.18,Nepal
+p_d6f131e139333d39,Male,72,7.46,-1.54,-2.32,Nepal
+p_d7563e634a09aad9,Female,72.1,9.02,-0.72,0.07,Nepal
+p_d77761ecaace3b67,Female,71.9,7.98,-0.83,-0.95,Nepal
+p_da83250bc6094e9a,Female,67,6.89,-2.69,-2.17,Nepal
+p_db701d92d0f7f80f,Male,73.5,8.21,-0.93,-1.46,Nepal
+p_e05e58fe5d451436,Male,73.1,10.2,-1.09,0.52,Nepal
+p_e0d28ce5c3ad86d3,Female,70,7.26,-1.54,-1.73,Nepal
+p_e1a4bb2c4ceb2ad7,Female,74.2,10.62,0.08,1.37,Nepal
+p_e3d13291bdae2416,Female,73.7,8.67,-0.09,-0.24,Nepal
+p_e44525b98ffa81b6,Female,75.9,9.01,0.77,0.07,Nepal
+p_e452af2463161fdb,Female,72,9.87,-0.79,0.79,Nepal
+p_e5d23fb90f4f6aac,Male,74.2,8.54,-0.63,-1.1,Nepal
+p_e65739306dbed296,Female,75,8.97,0.42,0.04,Nepal
+p_e71c84740804b0cf,Male,73.1,10.12,-1.08,0.45,Nepal
+p_e7341530259c9ae1,Male,74,8.77,-0.73,-0.87,Nepal
+p_e769e890260df3ff,Female,70.4,6.75,-1.39,-2.36,Nepal
+p_e90f78778340baf6,Male,74.1,9.91,-0.66,0.26,Nepal
+p_e9975de0a2857c35,Female,71.5,8.11,-0.96,-0.8,Nepal
+p_eae0ff5235500079,Male,73.5,9,-0.94,-0.63,Nepal
+p_eb2fe639f1b6fd2c,Male,72.2,8.96,-1.46,-0.66,Nepal
+p_ee0c5a90fa2af22f,Male,74.5,9.6,-0.51,-0.04,Nepal
+p_ee8d4fe99481c189,Male,71.2,8.8,-1.88,-0.82,Nepal
+p_efdce73576d1421a,Female,75,8.69,0.4,-0.23,Nepal
+p_f37ecf038c003513,Male,76.7,9.83,0.44,0.19,Nepal
+p_f4d7dff1b1b74bd0,Female,71.3,8,-1.05,-0.92,Nepal
+p_f5f8b75490d35d42,Male,76.5,10.57,0.35,0.85,Nepal
+p_f6df98bc10fc28e0,Male,74.5,9.12,-0.54,-0.52,Nepal
+p_f79a6d2bfd24034f,Male,75.2,8.46,-0.19,-1.18,Nepal
+p_f8fde45bc2210238,Male,70.8,5.6,-2.09,-4.63,Nepal
+p_f9bf2ef1bd12b156,Male,73.2,9.01,-1.04,-0.61,Nepal
+p_fba53502a4522594,Female,67,8.63,-2.72,-0.29,Nepal
+p_fd0e51c7e070144c,Female,72,8.6,-0.76,-0.32,Nepal
+p_fd2e09c63bf75304,Male,71.5,8.74,-1.75,-0.89,Nepal
+p_fd35b35d5a3981ef,Female,74,7.44,0,-1.53,Nepal
+p_fdc4713ef84edb5f,Female,71.8,8.72,-0.87,-0.22,Nepal
+p_fe0176b34e208f34,Female,74,8.08,0.01,-0.83,Nepal
+p_fe893cfcfcce23b6,Female,71.4,7.92,-1.01,-1.01,Nepal
+p_007c8df165091d3b,Male,NA,7.77,NA,-1.95,Pakistan
+p_00933f3d08aef1ce,Male,NA,8.82,NA,-0.81,Pakistan
+p_017d1b95151ad2ec,Male,NA,8.2,NA,-1.47,Pakistan
+p_021459477a60fece,Male,NA,8.31,NA,-1.34,Pakistan
+p_0323829f75b7bd60,Female,NA,7.86,NA,-1.07,Pakistan
+p_03b2e096f2fd9cff,Male,NA,7.15,NA,-2.7,Pakistan
+p_04293c0226e98da6,Male,NA,7.81,NA,-1.91,Pakistan
+p_04bc2e6e69401100,Female,NA,7.48,NA,-1.48,Pakistan
+p_055e3802b7c72478,Male,NA,8.44,NA,-1.21,Pakistan
+p_062cd4a1c70f94e7,Female,NA,7.18,NA,-1.83,Pakistan
+p_070218d16ce7617e,Male,NA,8.36,NA,-1.29,Pakistan
+p_076f1d7c7d21671d,Male,NA,7.36,NA,-2.48,Pakistan
+p_0903bf2676f34980,Female,NA,8.58,NA,-0.33,Pakistan
+p_090958b2866b7af0,Male,NA,6.46,NA,-3.57,Pakistan
+p_09e03f9473eef807,Male,NA,7.93,NA,-1.77,Pakistan
+p_0a5d0a6f64fd6eaf,Male,NA,7.96,NA,-1.74,Pakistan
+p_0adce69928fc177a,Female,NA,7.49,NA,-1.46,Pakistan
+p_0c1d44c3e013aea0,Male,NA,7.15,NA,-2.7,Pakistan
+p_0e446917c17e811e,Male,NA,9.05,NA,-0.58,Pakistan
+p_100056e527bc02a9,Male,NA,8.83,NA,-0.79,Pakistan
+p_11d9ed5784a0f8a3,Male,NA,7.34,NA,-2.46,Pakistan
+p_12d163a9e63db4ba,Male,NA,10.32,NA,0.63,Pakistan
+p_12f2868f53b9e177,Female,NA,7.42,NA,-1.55,Pakistan
+p_13576c82b38c09a8,Female,NA,7.64,NA,-1.29,Pakistan
+p_1388c51d7db3c32c,Male,NA,10.26,NA,0.57,Pakistan
+p_148fcf11971669b8,Female,NA,7.36,NA,-1.62,Pakistan
+p_14ce3f273a441411,Female,NA,8.25,NA,-0.67,Pakistan
+p_14ea827c02c1218a,Male,NA,9.32,NA,-0.32,Pakistan
+p_152ca3046aea895d,Male,NA,6.8,NA,-3.15,Pakistan
+p_17064ab604893895,Male,NA,6.68,NA,-3.3,Pakistan
+p_1c3bf0396c57c342,Male,NA,8.25,NA,-1.42,Pakistan
+p_1c8ddd84724f589b,Male,NA,8.05,NA,-1.63,Pakistan
+p_1d85648a57048e17,Female,NA,7.46,NA,-1.5,Pakistan
+p_1ded5de2696e2c0a,Female,NA,6.97,NA,-2.08,Pakistan
+p_1e13fbefd919abdd,Male,NA,7.56,NA,-2.21,Pakistan
+p_1e3ba19a46751cbc,Female,NA,7.39,NA,-1.6,Pakistan
+p_2021196d35af3a03,Male,NA,7.97,NA,-1.74,Pakistan
+p_2034023e064012bf,Male,NA,6.98,NA,-2.92,Pakistan
+p_2256d13645efe1a6,Female,NA,7.69,NA,-1.25,Pakistan
+p_2377317dcedbb8f8,Male,NA,7.32,NA,-2.49,Pakistan
+p_248aacb6b26a72ad,Female,NA,9,NA,0.05,Pakistan
+p_257fec30a6c0be10,Male,NA,8.2,NA,-1.46,Pakistan
+p_26b394c19331894f,Male,NA,7.25,NA,-2.58,Pakistan
+p_28ba50dafef2f5c8,Female,NA,8.39,NA,-0.53,Pakistan
+p_29b44690ea8c01e0,Male,NA,8.44,NA,-1.2,Pakistan
+p_2abf395694f5e2cc,Male,NA,8.63,NA,-1,Pakistan
+p_2b5041d1ff1f6fb7,Male,NA,8,NA,-1.7,Pakistan
+p_2b8cfd0aa84b5c0b,Male,NA,9.62,NA,-0.01,Pakistan
+p_2c069c6820f0f019,Male,NA,6.97,NA,-2.93,Pakistan
+p_2d8290bf31c83871,Male,NA,8.87,NA,-0.75,Pakistan
+p_2dfee171081d58cc,Female,NA,6.06,NA,-3.28,Pakistan
+p_2eae54cd38771dfc,Male,NA,8.05,NA,-1.63,Pakistan
+p_2f974bb685e5b1ea,Female,NA,8.11,NA,-0.8,Pakistan
+p_2fb941daae83b161,Male,NA,8.01,NA,-1.68,Pakistan
+p_308fee433c2d6de1,Male,NA,10.17,NA,0.5,Pakistan
+p_3115bc2b848b80b0,Female,NA,7.93,NA,-1,Pakistan
+p_327ae3e1c1c79850,Male,NA,8.05,NA,-1.65,Pakistan
+p_34ee0edeeb3a7ff8,Male,NA,7.45,NA,-2.34,Pakistan
+p_353c2b2254fe350d,Female,NA,7.1,NA,-1.93,Pakistan
+p_355fe5a48b0e4a52,Male,NA,7.93,NA,-1.77,Pakistan
+p_36895765cb1f28a3,Female,NA,6.48,NA,-2.71,Pakistan
+p_37203b5a3b4f71be,Female,NA,8.2,NA,-0.71,Pakistan
+p_3747007f9ed960b4,Male,NA,9.43,NA,-0.21,Pakistan
+p_37b0538761e5f072,Female,NA,7.5,NA,-1.46,Pakistan
+p_381564405c4df06b,Female,NA,8.65,NA,-0.26,Pakistan
+p_3876b78be380ae47,Male,NA,8.95,NA,-0.68,Pakistan
+p_39a11ab107048673,Female,NA,7.61,NA,-1.33,Pakistan
+p_39cb3ae2fb712eb2,Female,NA,7.84,NA,-1.08,Pakistan
+p_3eedcfef15fd2d8e,Female,NA,6.7,NA,-2.42,Pakistan
+p_4016b81c2531d468,Female,NA,8.04,NA,-0.87,Pakistan
+p_41d7ab5774d13661,Male,NA,9.17,NA,-0.45,Pakistan
+p_421d1815ac8d695b,Male,NA,8.75,NA,-0.88,Pakistan
+p_428d62b9bd4c4445,Female,NA,6.76,NA,-2.34,Pakistan
+p_42c51dc9c5e9d94f,Female,NA,6.46,NA,-2.74,Pakistan
+p_42d233ad93616c0d,Male,NA,9.94,NA,0.28,Pakistan
+p_4476edd0640f1c4b,Female,NA,7.58,NA,-1.37,Pakistan
+p_48a510b2823ad420,Male,NA,10.34,NA,0.65,Pakistan
+p_49eb379030d1ae2a,Male,NA,5.74,NA,-4.45,Pakistan
+p_4a679efa0a0c2509,Female,NA,8.16,NA,-0.74,Pakistan
+p_4d1cef318478e961,Female,NA,6.87,NA,-2.2,Pakistan
+p_5046bc5c9aa3c23d,Male,NA,9.18,NA,-0.45,Pakistan
+p_5101e6a7721acabd,Female,NA,5.93,NA,-3.45,Pakistan
+p_51160bfc184cbd93,Male,NA,7.38,NA,-2.42,Pakistan
+p_511c18758b303b97,Female,NA,7.44,NA,-1.53,Pakistan
+p_5198d1cbda058558,Female,NA,7.2,NA,-1.8,Pakistan
+p_52b25c7c7c489dd6,Female,NA,8.14,NA,-0.77,Pakistan
+p_54d543a72f734020,Female,NA,7.75,NA,-1.17,Pakistan
+p_54e763f658f85d20,Female,NA,6.74,NA,-2.36,Pakistan
+p_55012295a9c4a06e,Female,NA,7.94,NA,-0.99,Pakistan
+p_558ee01123d3fa8e,Female,NA,7.98,NA,-0.94,Pakistan
+p_5596cbc5009d18f6,Female,NA,8.92,NA,-0.01,Pakistan
+p_55d9741a764d2a76,Male,NA,7.95,NA,-1.75,Pakistan
+p_564e4328d10fe645,Male,NA,10.05,NA,0.39,Pakistan
+p_56b94d55d9e201e2,Female,NA,5.42,NA,-4.1,Pakistan
+p_57037f4f33f8c326,Female,NA,7.13,NA,-1.88,Pakistan
+p_5777405e670fc338,Male,NA,8.85,NA,-0.79,Pakistan
+p_588a1a8f32b8b59a,Male,NA,7.6,NA,-2.16,Pakistan
+p_5a3e04d0e5b6727c,Male,NA,9.38,NA,-0.25,Pakistan
+p_5a4e15c13f2cf297,Female,NA,8.98,NA,0.04,Pakistan
+p_5a6d0d4a687171d9,Female,NA,6.12,NA,-3.19,Pakistan
+p_5b53b03648dd3874,Male,NA,8.38,NA,-1.28,Pakistan
+p_5b7b711a6379e883,Male,NA,8.63,NA,-1.02,Pakistan
+p_5be4d0fb77b6a5eb,Female,NA,4.55,NA,-5.23,Pakistan
+p_5e9b6859ff555869,Male,NA,8.05,NA,-1.64,Pakistan
+p_6031723824df525a,Female,NA,6.82,NA,-2.27,Pakistan
+p_604366de634adb27,Female,NA,7.83,NA,-1.09,Pakistan
+p_60f8aa2ae75a1a67,Female,NA,8.05,NA,-0.86,Pakistan
+p_6219cb5ed270627f,Male,NA,8.16,NA,-1.51,Pakistan
+p_64a47e21f3288e81,Male,NA,8.68,NA,-0.96,Pakistan
+p_67f1ecb33eda6b60,Male,NA,8.42,NA,-1.24,Pakistan
+p_69b49155275d249b,Male,NA,7.42,NA,-2.37,Pakistan
+p_6cd5b2024bc6fc23,Female,NA,10.37,NA,1.2,Pakistan
+p_6f991d28a7f480a9,Female,NA,6.8,NA,-2.29,Pakistan
+p_701326ff05746435,Male,NA,8.04,NA,-1.65,Pakistan
+p_71c84aa7deaa13c7,Male,NA,7.15,NA,-2.7,Pakistan
+p_723c7706d34e29ff,Female,NA,7.74,NA,-1.19,Pakistan
+p_72a2584fcdc00bec,Female,NA,9.18,NA,0.22,Pakistan
+p_745b7cc5027723cb,Female,NA,6.66,NA,-2.46,Pakistan
+p_747eab6fe8fde027,Female,NA,9.21,NA,0.24,Pakistan
+p_749a1c3c236589bb,Male,NA,7.8,NA,-1.92,Pakistan
+p_7625c09371bb5653,Male,NA,7.22,NA,-2.62,Pakistan
+p_770ba51db0808a5a,Female,NA,8.58,NA,-0.33,Pakistan
+p_77c5087cbb9819b0,Male,NA,10.19,NA,0.52,Pakistan
+p_78dcea8f9cbeb95a,Female,NA,8.49,NA,-0.44,Pakistan
+p_7a7663167a7c3359,Male,NA,9.45,NA,-0.19,Pakistan
+p_7a7f7f87ec94741e,Male,NA,8.1,NA,-1.58,Pakistan
+p_7b0f30c8b2bfe95f,Male,NA,7.49,NA,-2.29,Pakistan
+p_7b9c53655e68e342,Male,NA,8.25,NA,-1.42,Pakistan
+p_7d45a9f348dcd34c,Female,NA,7.04,NA,-2.01,Pakistan
+p_7d81e8b9ce2a6563,Male,NA,9.2,NA,-0.43,Pakistan
+p_7dd72af3c7e46fc4,Male,NA,6.52,NA,-3.49,Pakistan
+p_7dda6ced79f646f5,Male,NA,8.78,NA,-0.87,Pakistan
+p_7eae533b2e62eed1,Male,NA,7.66,NA,-2.08,Pakistan
+p_81c54c70f5553093,Male,NA,7.44,NA,-2.34,Pakistan
+p_8470a3666aa1124b,Female,NA,6.18,NA,-3.11,Pakistan
+p_855be2e86dc65c67,Female,NA,6.8,NA,-2.29,Pakistan
+p_88577b51ab37fb9c,Female,NA,7.97,NA,-0.95,Pakistan
+p_89bdaa1ce3a5fd16,Female,NA,9.25,NA,0.28,Pakistan
+p_8c579f2580642702,Female,NA,6.74,NA,-2.37,Pakistan
+p_8d0c84ebc91e5b54,Female,NA,6.07,NA,-3.25,Pakistan
+p_8f46e5696189ead8,Male,NA,7.17,NA,-2.68,Pakistan
+p_9102c4cc6cde2e0e,Male,NA,6.24,NA,-3.83,Pakistan
+p_92b198e23844fd6a,Female,NA,7.08,NA,-1.95,Pakistan
+p_93a677f6e8dca5db,Female,NA,8.68,NA,-0.25,Pakistan
+p_93ad86e33b143b0e,Female,NA,8.58,NA,-0.34,Pakistan
+p_93b2eb32dfb45f8a,Female,NA,5.74,NA,-3.69,Pakistan
+p_95850f4e1d0b0025,Female,NA,8.05,NA,-0.86,Pakistan
+p_9859e68b9f36316f,Male,NA,7.3,NA,-2.51,Pakistan
+p_989ccf1a666c4bdc,Female,NA,6.6,NA,-2.55,Pakistan
+p_991ca40967a72979,Male,NA,8.52,NA,-1.13,Pakistan
+p_991e56eb81eb7810,Male,NA,7.8,NA,-1.92,Pakistan
+p_9a00209572a18d3d,Male,NA,8.05,NA,-1.64,Pakistan
+p_9e6bea1b3d2de6a7,Male,NA,9.26,NA,-0.36,Pakistan
+p_a009dc0397c58368,Female,NA,8.46,NA,-0.45,Pakistan
+p_a132db141a48065b,Male,NA,9.04,NA,-0.59,Pakistan
+p_a150f59bf3655ec2,Male,NA,6.87,NA,-3.07,Pakistan
+p_a2f03dc72e572234,Male,NA,10.15,NA,0.47,Pakistan
+p_a3922b77bd647416,Male,NA,7.87,NA,-1.84,Pakistan
+p_a3a1268d7ca23923,Male,NA,8.72,NA,-0.91,Pakistan
+p_a440e7ca151549cf,Male,NA,10.87,NA,1.11,Pakistan
+p_a4ad83f18a821d9a,Male,NA,6.92,NA,-3.03,Pakistan
+p_a530ee5b53cf984d,Male,NA,8.62,NA,-1.02,Pakistan
+p_a5b2330842377b7f,Female,NA,6.59,NA,-2.56,Pakistan
+p_a62b0f579e3919bc,Female,NA,5.22,NA,-4.36,Pakistan
+p_a7b2069b675ffe7e,Female,NA,7.35,NA,-1.62,Pakistan
+p_a9491d9b53c87d11,Female,NA,7.93,NA,-0.98,Pakistan
+p_ac70db025ab69b1e,Female,NA,8.29,NA,-0.62,Pakistan
+p_acc3f491e54cdbb2,Male,NA,9.37,NA,-0.26,Pakistan
+p_ad601ec35ed59e00,Male,NA,7.98,NA,-1.73,Pakistan
+p_ad6b06e5767f8016,Male,NA,8.55,NA,-1.11,Pakistan
+p_ad8020405b630a31,Female,NA,7.57,NA,-1.38,Pakistan
+p_adefb8dacaa7fa4c,Male,NA,7.65,NA,-2.09,Pakistan
+p_b0556eead55c65fa,Male,NA,7.94,NA,-1.76,Pakistan
+p_b0bb74b041b4772a,Male,NA,9.4,NA,-0.24,Pakistan
+p_b0dd6b96be1ebef6,Female,NA,7.18,NA,-1.82,Pakistan
+p_b24698e4a93fe963,Female,NA,8.42,NA,-0.5,Pakistan
+p_b24a170e479c8b1b,Female,NA,7.12,NA,-1.9,Pakistan
+p_b2ace3ca48dc648c,Female,NA,7.7,NA,-1.23,Pakistan
+p_b3c48fe615866994,Male,NA,7.84,NA,-1.88,Pakistan
+p_b4e05084c036dd2a,Female,NA,6.88,NA,-2.18,Pakistan
+p_b74b53a3eb1c06ff,Male,NA,6.48,NA,-3.53,Pakistan
+p_b95fa59fcd0ce5d4,Male,NA,8.58,NA,-1.05,Pakistan
+p_b9f0a1cd6605e86d,Male,NA,8.98,NA,-0.65,Pakistan
+p_bbbc8579b11a7300,Female,NA,7.63,NA,-1.31,Pakistan
+p_bc87b66ac6dea6a1,Female,NA,9.53,NA,0.53,Pakistan
+p_bd1476fa7e62a272,Female,NA,7.73,NA,-1.2,Pakistan
+p_bfefabb98abf0fd5,Female,NA,9.03,NA,0.08,Pakistan
+p_c095e54262d39907,Female,NA,9.62,NA,0.6,Pakistan
+p_c09b1c62dedd2493,Female,NA,8.34,NA,-0.58,Pakistan
+p_c13506f105649d66,Female,NA,7.27,NA,-1.71,Pakistan
+p_c14e6b32b9b80207,Male,NA,9.5,NA,-0.13,Pakistan
+p_c1e90e84ab4ee593,Male,NA,8.98,NA,-0.65,Pakistan
+p_c1ec1c8038defb41,Male,NA,7.84,NA,-1.88,Pakistan
+p_c4606818894a9b44,Female,NA,7.6,NA,-1.34,Pakistan
+p_c7a81e62ec24344e,Male,NA,9.82,NA,0.16,Pakistan
+p_cb5759d4adde57cc,Female,NA,6.68,NA,-2.46,Pakistan
+p_cde2409bce5788cc,Male,NA,7.46,NA,-2.32,Pakistan
+p_cde5a8d18de7b54a,Female,NA,6.64,NA,-2.5,Pakistan
+p_ce2c6348e222f1b4,Female,NA,7.57,NA,-1.37,Pakistan
+p_ce30b184957027ec,Female,NA,8.18,NA,-0.72,Pakistan
+p_cff67ddc7b6e7f52,Female,NA,7.56,NA,-1.38,Pakistan
+p_d018f84cf2645d76,Male,NA,9.45,NA,-0.17,Pakistan
+p_d0c8775ac8e151ef,Female,NA,8.35,NA,-0.55,Pakistan
+p_d14278c94d2dcb30,Female,NA,8,NA,-0.91,Pakistan
+p_d22fc5b348cbece7,Female,NA,7.65,NA,-1.28,Pakistan
+p_d32ee469acf67e3c,Female,NA,8.78,NA,-0.17,Pakistan
+p_d32f73c9ea9b21a3,Female,NA,8.18,NA,-0.72,Pakistan
+p_d33c2521b65236c2,Male,NA,8.99,NA,-0.65,Pakistan
+p_d3815e5c27929e0b,Female,NA,7.16,NA,-1.85,Pakistan
+p_d43e315035f36d92,Female,NA,7.99,NA,-0.92,Pakistan
+p_d5c2266edd4a42a8,Female,NA,10.38,NA,1.2,Pakistan
+p_d65d10f1a33e89d7,Male,NA,6.48,NA,-3.54,Pakistan
+p_d66a87435f7acb38,Female,NA,8.37,NA,-0.53,Pakistan
+p_d68fb200ae741506,Female,NA,7.93,NA,-0.99,Pakistan
+p_d699453bf9fc48e9,Female,NA,7.11,NA,-1.91,Pakistan
+p_d7bb4d849ddea080,Female,NA,7.61,NA,-1.33,Pakistan
+p_d8dd868d518042bc,Male,NA,9.07,NA,-0.55,Pakistan
+p_d9637dfac61b4c37,Female,NA,5.7,NA,-3.73,Pakistan
+p_daba462d3499ddd9,Female,NA,7.54,NA,-1.43,Pakistan
+p_db289aff3054c91b,Female,NA,6.66,NA,-2.46,Pakistan
+p_dd56234363eeada4,Female,NA,6.81,NA,-2.27,Pakistan
+p_debebb93022c3901,Male,NA,8.45,NA,-1.21,Pakistan
+p_df7887170e187532,Female,NA,6.56,NA,-2.6,Pakistan
+p_e011368a6b862991,Male,NA,8.77,NA,-0.85,Pakistan
+p_e100a218e2d70985,Female,NA,7.4,NA,-1.57,Pakistan
+p_e3c472dc827e461b,Male,NA,8.92,NA,-0.72,Pakistan
+p_e4b01f33e7514620,Female,NA,7.8,NA,-1.13,Pakistan
+p_e4e8a951afd19365,Female,NA,8.14,NA,-0.77,Pakistan
+p_e53e22a5009a7288,Female,NA,8.06,NA,-0.87,Pakistan
+p_e54b7d3bb09a923d,Female,NA,8.2,NA,-0.71,Pakistan
+p_e5ccbf073fff61e6,Female,NA,6.11,NA,-3.2,Pakistan
+p_e5d2fe16bb7acd0d,Male,NA,9.3,NA,-0.32,Pakistan
+p_e69bf9b72e238f9f,Male,NA,8.8,NA,-0.82,Pakistan
+p_ee5872f09863908f,Female,NA,6.77,NA,-2.33,Pakistan
+p_ee60da7cb69b95e1,Male,NA,8.3,NA,-1.36,Pakistan
+p_ee65cfed766d3160,Female,NA,6.66,NA,-2.46,Pakistan
+p_f143c37eaa6b566b,Female,NA,8.68,NA,-0.23,Pakistan
+p_f25bae01daf1c4e0,Female,NA,9.06,NA,0.11,Pakistan
+p_f3b1cd259aa45c49,Male,NA,8.76,NA,-0.86,Pakistan
+p_f4640d9349656637,Female,NA,7.97,NA,-0.94,Pakistan
+p_f63436236bcaace9,Female,NA,7.53,NA,-1.42,Pakistan
+p_f800db9b03848a39,Male,NA,9.48,NA,-0.16,Pakistan
+p_f8893cd57e26146b,Male,NA,7.63,NA,-2.12,Pakistan
+p_f9389f2d1265de4b,Male,NA,10,NA,0.34,Pakistan
+p_f9af7277673cbf2e,Female,NA,7.46,NA,-1.49,Pakistan
+p_fa1ced0a256bf7aa,Female,NA,7.12,NA,-1.89,Pakistan
+p_fa8239cd95eb238c,Male,NA,6.3,NA,-3.76,Pakistan
+p_fbb01f0ae20d5605,Male,NA,7.5,NA,-2.28,Pakistan
+p_fd904767f7c11b7e,Male,NA,9.85,NA,0.18,Pakistan
+p_fe39f387d8a5123b,Female,NA,8.19,NA,-0.71,Pakistan
+p_ffbc7b42254d00b6,Male,NA,7.94,NA,-1.77,Pakistan
+p_00c80941c87d98ab,Male,70.8,8.78,-2.09,-0.87,Peru
+p_010e6df71b4eafe0,Male,73.1,9.9,-1.16,0.22,Peru
+p_0182f3c60e8b9f5e,Male,68.2,9.57,-3.19,-0.08,Peru
+p_0204042126430e09,Male,74,9.73,-0.76,0.07,Peru
+p_041c6ba92b55e570,Female,64.8,6.52,-3.59,-2.67,Peru
+p_047f30e35d62bdd8,Male,71,8.6,-1.99,-1.05,Peru
+p_04ebb15d1426e0da,Male,70.5,9.52,-2.23,-0.13,Peru
+p_0584565692f4f996,Male,71.5,8.75,-1.83,-0.91,Peru
+p_060bbc5ea3897fc6,Female,71.4,7.99,-1.03,-0.94,Peru
+p_06499d32903957ba,Female,69.5,8.86,-1.75,-0.08,Peru
+p_06fe09eed6e8d582,Male,72.5,9.04,-1.39,-0.61,Peru
+p_07080bc9f7f704b3,Female,73,9.66,-0.39,0.62,Peru
+p_084e3920822edf65,Female,70,9.02,-1.56,0.07,Peru
+p_090cac34f78f8465,Male,71.2,8.55,-1.94,-1.11,Peru
+p_09f28aea115db3ad,Female,74.7,10.09,0.24,0.96,Peru
+p_0af9db428c70bfd8,Female,71,9.81,-1.17,0.74,Peru
+p_0c35c0100f4648ff,Male,70.6,9.54,-2.18,-0.11,Peru
+p_0dd4246de62215ed,Female,70,10.89,-1.58,1.56,Peru
+p_10baa7d1d935ebe7,Male,76.3,10.68,0.17,0.91,Peru
+p_10cc5bd19b9a648d,Female,70,8.1,-1.57,-0.83,Peru
+p_11541e669f3fb0f7,Male,67.4,6.92,-3.54,-3.02,Peru
+p_11a4dc4b72477932,Male,73.8,9.66,-0.86,-0.01,Peru
+p_12274a58ec863589,Male,70.4,8.23,-2.29,-1.47,Peru
+p_124fca2ec9806182,Female,70.4,8.08,-1.43,-0.85,Peru
+p_1320911e37ab7e1d,Female,66.4,8.25,-2.97,-0.67,Peru
+p_135236c45224ee64,Female,73.2,8.48,-0.36,-0.46,Peru
+p_13bc74608a860ae8,Male,72.5,10.62,-1.36,0.88,Peru
+p_13c08aaec7da1ff9,Female,68,7.01,-2.33,-2.04,Peru
+p_13cac2d1d3aead2f,Male,72.8,8.89,-1.28,-0.77,Peru
+p_14cd00df20bf5465,Female,76.4,10.35,0.91,1.16,Peru
+p_150d78df58ab1485,Male,72.2,7.41,-1.54,-2.41,Peru
+p_16485a243354859f,Male,72.5,8.36,-1.41,-1.32,Peru
+p_16cd501fc04d0669,Male,71.2,9.94,-1.91,0.28,Peru
+p_17ce6625928680f1,Female,72.4,9.3,-0.65,0.3,Peru
+p_186873cb6f6771a4,Male,71.3,9.2,-1.9,-0.45,Peru
+p_1a60881466aed72e,Female,71.3,9.75,-1.05,0.7,Peru
+p_1a960bc6ae03ceab,Female,70.5,8.9,-1.39,-0.06,Peru
+p_1ace19ef63890f54,Male,69.6,9.68,-2.63,0.01,Peru
+p_1b63a0849d28248f,Male,73.6,10.16,-0.95,0.45,Peru
+p_1d9462f8c2ade40a,Female,72.4,9.98,-0.65,0.87,Peru
+p_1e3c3b5116ad385b,Female,70.5,8.18,-1.41,-0.76,Peru
+p_1ed6d7f94828059d,Female,66,7.22,-3.14,-1.8,Peru
+p_1ef485ffbc322c93,Female,68.2,6.9,-2.28,-2.19,Peru
+p_2114184f60e9d940,Female,68.5,8.1,-2.15,-0.83,Peru
+p_2192d8ba1bcbf98a,Female,68.2,8.41,-2.27,-0.51,Peru
+p_21c2fb6fe3870caf,Male,72.4,8.44,-1.42,-1.22,Peru
+p_228f5143067a508b,Female,69.5,7.77,-1.79,-1.19,Peru
+p_230146e61467a8bd,Male,70,8.05,-2.46,-1.67,Peru
+p_23927307f625df27,Female,69.5,8.13,-1.78,-0.8,Peru
+p_241236ebcd1dd983,Male,67.5,7.6,-3.5,-2.18,Peru
+p_24a591585944e008,Female,72.7,8.67,-0.51,-0.26,Peru
+p_25404afbec22d198,Male,75.8,10.96,0.01,1.17,Peru
+p_2648cc149d1b6c8a,Female,69.7,7.84,-1.72,-1.11,Peru
+p_28574d7a386ad277,Female,72.2,9.1,-0.75,0.12,Peru
+p_2b71745bbb87474b,Male,68,7.45,-3.3,-2.37,Peru
+p_2c43894b9da8d684,Male,69.9,9.99,-2.46,0.32,Peru
+p_2d12576ee1f5d98a,Female,69.8,8.12,-1.68,-0.82,Peru
+p_2df3781f35b425b4,Female,74.5,9.03,0.19,0.08,Peru
+p_2fc174d26edaadc8,Female,71,8.3,-1.2,-0.63,Peru
+p_30425d2b9dee65fc,Male,69.2,8.28,-2.75,-1.39,Peru
+p_320912f67b1ed8bd,Female,71.5,9.07,-0.99,0.11,Peru
+p_32ba17f8efc93822,Male,75,10.26,-0.34,0.55,Peru
+p_344d8fd5e2527884,Male,70.6,9.23,-2.18,-0.41,Peru
+p_35b39e564684e93b,Male,69.3,8.96,-2.71,-0.67,Peru
+p_387cfc76e57d520f,Female,71.5,8.9,-0.97,-0.04,Peru
+p_388a2e1f690a27a9,Male,74.2,9.06,-0.66,-0.58,Peru
+p_38eccc38f1d72a99,Male,69.5,8.68,-2.67,-0.98,Peru
+p_3ea86df1dff35ee3,Female,67.5,7.6,-2.55,-1.37,Peru
+p_3eb932a9feccee52,Female,71,9.6,-1.21,0.55,Peru
+p_3f8d8f29a278cb8c,Female,69,9,-1.96,0.04,Peru
+p_403aba6511683646,Female,71,9.47,-1.17,0.46,Peru
+p_407f6530624bc0da,Female,68.2,8.22,-2.25,-0.7,Peru
+p_42c12341f0ec7e3a,Female,72,9.36,-0.82,0.35,Peru
+p_447ce3c3807122d6,Male,69.5,8.32,-2.67,-1.37,Peru
+p_457d033f3fd27647,Male,73.5,10.22,-0.97,0.52,Peru
+p_472170d361666d55,Female,71.8,8.8,-0.89,-0.15,Peru
+p_498b4562290566e7,Female,71,9.11,-1.2,0.13,Peru
+p_4c8afe946c1f9431,Female,72,9.88,-0.78,0.8,Peru
+p_4e91e04feb8cdb18,Male,71,10.26,-2.01,0.56,Peru
+p_4fac6e4f27274d04,Female,66.3,7.59,-3.03,-1.38,Peru
+p_536276efca4b98ec,Male,73,10.16,-1.15,0.48,Peru
+p_53856fdc7e8ec62f,Male,69.5,9.29,-2.64,-0.35,Peru
+p_53a077aac325dbe9,Female,73.5,10.06,-0.2,0.95,Peru
+p_55c94d5a94696acc,Male,75,10.52,-0.31,0.8,Peru
+p_5678a246504c3696,Male,69.2,7.52,-2.8,-2.28,Peru
+p_57b04d5019cbb4b6,Male,71,10.29,-2.01,0.59,Peru
+p_57bb5a50efdee496,Male,70.1,9.09,-2.4,-0.56,Peru
+p_58ea3439359ff245,Female,68.5,7.5,-2.15,-1.47,Peru
+p_592f118d068b5e0c,Male,69.7,7.52,-2.59,-2.28,Peru
+p_5b829d8cd02a0834,Male,70.8,8.67,-2.08,-0.97,Peru
+p_5c9ea811cf59d888,Female,73.8,11.13,-0.11,1.73,Peru
+p_5cc0b9563f29e106,Male,73,8.63,-1.17,-1.02,Peru
+p_5ee90bcfe7884af7,Male,72.4,9.93,-1.42,0.26,Peru
+p_61452df902a3db80,Female,70.9,7.83,-1.22,-1.11,Peru
+p_61fa4e8d5323fc9b,Male,71,9.24,-2.02,-0.41,Peru
+p_623b41ab7e52b9af,Female,68.7,8.07,-2.09,-0.86,Peru
+p_63af1944bbcdc2b5,Male,71.4,8.72,-1.84,-0.93,Peru
+p_6780bac56725f766,Male,73.8,10.15,-0.83,0.46,Peru
+p_678cd319f3e51280,Male,72.9,8.62,-1.24,-1.05,Peru
+p_6ade2506b20eef39,Female,70.9,7.88,-1.25,-1.07,Peru
+p_6b5b34d5252065f3,Female,68.3,8.39,-2.22,-0.53,Peru
+p_6b8ca45fa5803e6c,Male,71.5,9.05,-1.83,-0.6,Peru
+p_6b93fe0554973a6a,Female,70.9,8.91,-1.25,-0.05,Peru
+p_6bf5f4d195ffabd3,Female,73.5,9.71,-0.24,0.64,Peru
+p_6c40b3d91bbfd50a,Male,71.9,8.39,-1.63,-1.28,Peru
+p_6d5a904c35424cb7,Male,72.8,9.56,-1.22,-0.07,Peru
+p_6edc21e61ac958dc,Male,73.5,9.55,-0.96,-0.1,Peru
+p_71751d49ea5842d7,Male,72.7,8.07,-1.33,-1.64,Peru
+p_75a79abccfd0a9c0,Male,74.6,11.61,-0.5,1.7,Peru
+p_78ab8c9bf28f8976,Female,71.4,8.25,-1.03,-0.67,Peru
+p_790235cf0a824d16,Female,74.5,10.22,0.16,1.06,Peru
+p_7a5dfaec97740973,Female,69.8,9.66,-1.66,0.61,Peru
+p_7b91528daf9c4e65,Male,72.4,9.62,-1.45,-0.05,Peru
+p_7e2604ac95b7b366,Male,70,7.27,-2.42,-2.56,Peru
+p_7e50b690c1103fc1,Male,72,9.97,-1.6,0.29,Peru
+p_7f109218a320439d,Male,73,8.11,-1.2,-1.6,Peru
+p_7f7d9f68ff6cf1fe,Female,71.9,9.28,-0.83,0.29,Peru
+p_80121a072e570e87,Male,71.5,9.03,-1.8,-0.61,Peru
+p_809c3ef2d2657800,Male,72.2,9.3,-1.54,-0.36,Peru
+p_80e5fd32857f1ea0,Male,70,8.14,-2.45,-1.56,Peru
+p_829768c6310d292f,Female,66.2,7,-3.03,-2.05,Peru
+p_829a8358b0798d29,Female,71.5,8.64,-1.02,-0.31,Peru
+p_82d0c197d1855ce0,Male,75.5,10.66,-0.13,0.9,Peru
+p_82e6e05ed8fd6ee1,Female,70.3,9.68,-1.44,0.64,Peru
+p_83488b85c6001e2f,Male,71.1,8.5,-2,-1.17,Peru
+p_83720e78cda50478,Male,74,10.74,-0.78,0.96,Peru
+p_83cfa0f46c438f63,Male,73.5,10.27,-0.96,0.57,Peru
+p_83f474e204ed58be,Male,71.3,8.91,-1.87,-0.72,Peru
+p_8a6b75f68020e3fe,Male,72.5,10.47,-1.39,0.74,Peru
+p_8b2c43dff7b8245e,Female,70.8,8.5,-1.29,-0.44,Peru
+p_8b7fcef52abad96b,Female,71,9.07,-1.2,0.1,Peru
+p_8b8d3016ba4109cc,Female,68.8,7.67,-2.05,-1.29,Peru
+p_8cb704bcbdacbce7,Male,70.2,8.25,-2.33,-1.42,Peru
+p_8cd8f790b9fe01d9,Male,67.8,8.17,-3.34,-1.51,Peru
+p_8d18a0f56fc7ee53,Female,72,9.28,-0.78,0.3,Peru
+p_8f23972d21baa94f,Female,70,7.89,-1.58,-1.05,Peru
+p_90a50998bb421f1b,Male,77.9,11.02,0.86,1.2,Peru
+p_9285f9b8fdd25a2e,Female,70.2,8.37,-1.51,-0.56,Peru
+p_92c57a63ff8b2471,Female,71.8,9.43,-0.9,0.41,Peru
+p_93d810a8be5d7c53,Female,71,8.58,-1.17,-0.34,Peru
+p_95dce5d54ab9c8c8,Male,72,11.18,-1.59,1.35,Peru
+p_968dd0ad14f44646,Male,74.6,9.56,-0.53,-0.1,Peru
+p_96b2d9711c2b64db,Female,70.4,8.88,-1.44,-0.08,Peru
+p_97f7fbb420214674,Female,67.5,8.74,-2.57,-0.21,Peru
+p_981ca7fa3c363574,Female,71.5,8.37,-1.02,-0.57,Peru
+p_98a0fec65166d24b,Female,75.2,11.91,0.45,2.26,Peru
+p_99bd49c626ac52f1,Male,72.2,8.48,-1.52,-1.19,Peru
+p_9b74a15d17794de3,Male,70.7,8.85,-2.17,-0.81,Peru
+p_9d97d04a4c28bd6d,Male,72.6,8.13,-1.35,-1.57,Peru
+p_9f8a2500fab37ed0,Male,73.7,9.6,-0.86,-0.04,Peru
+p_a197a3517d20907f,Female,70.3,8.09,-1.47,-0.84,Peru
+p_a1a55fbad56cce87,Male,71.5,8.32,-1.8,-1.35,Peru
+p_a3506a82ba9947ed,Female,67.7,8.52,-2.49,-0.42,Peru
+p_a3cfc056a5f91c29,Female,67.4,8.78,-2.61,-0.17,Peru
+p_a439cc6240ad14b3,Male,71,9.99,-2.01,0.31,Peru
+p_a5000565a69961e1,Female,73.8,10.71,-0.13,1.42,Peru
+p_a5487e49badb9bef,Female,68.6,9.19,-2.13,0.21,Peru
+p_a6a7ef4bd88f58b1,Male,71.8,9.12,-1.7,-0.53,Peru
+p_a7cc518c17440405,Male,73,9.65,-1.17,0,Peru
+p_a96cd49a83e6dede,Male,68.9,9.79,-2.89,0.13,Peru
+p_aac4b8afa5f4f15f,Female,69,7.61,-1.94,-1.34,Peru
+p_aac89b47000bfcb0,Female,72.2,9.3,-0.73,0.3,Peru
+p_aad26a03be67664e,Male,72,8.63,-1.6,-1.03,Peru
+p_aafe2abb5243d83c,Male,71,8.91,-2.01,-0.73,Peru
+p_ac724b59538f5864,Male,69.7,7.12,-2.57,-2.77,Peru
+p_ad9b8c5b24e9de6d,Male,67.9,7.9,-3.31,-1.82,Peru
+p_b02a937f972e8a2a,Male,71.4,9.38,-1.83,-0.26,Peru
+p_b05831991e1f44d7,Female,70.2,8.3,-1.52,-0.64,Peru
+p_b17808b6eb97c6cf,Male,68.8,7.37,-2.92,-2.44,Peru
+p_b2519edf33aad933,Male,71.4,8.59,-1.83,-1.06,Peru
+p_b28a4d4e80b655b1,Male,71.6,8.17,-1.79,-1.53,Peru
+p_b54ef695d9448457,Female,67.2,6.61,-2.67,-2.56,Peru
+p_b58b9fbdfdebac58,Female,72.2,9.39,-0.73,0.38,Peru
+p_b6f8c13eae5a5caf,Male,74.8,9.34,-0.44,-0.32,Peru
+p_b88d214dcf0d8f38,Female,68.5,8.15,-2.17,-0.78,Peru
+p_ba1f1cbdbb5bf7ef,Male,72.8,12.59,-1.28,2.44,Peru
+p_bb125be19f906007,Male,73.1,9.91,-1.16,0.23,Peru
+p_bec67082410be34d,Female,69,7.65,-1.97,-1.31,Peru
+p_c185c447fbe0677f,Female,68.5,6.52,-2.17,-2.68,Peru
+p_c4935e8c87ed8e85,Male,70.5,9.38,-2.25,-0.28,Peru
+p_c554155f4ccd69ed,Male,73.5,10,-0.99,0.31,Peru
+p_c64cbfce5da4c06d,Male,72,8.62,-1.6,-1.04,Peru
+p_c8a93ab4c177e856,Female,67.3,7.36,-2.63,-1.64,Peru
+p_cad851f310255ec9,Male,65.8,6.79,-4.21,-3.18,Peru
+p_cb50ea59a47f4b09,Male,73.7,9.71,-0.91,0.04,Peru
+p_cc93900e956dec91,Male,70,8.96,-2.45,-0.69,Peru
+p_cd4a9734598a26ff,Female,70,8.55,-1.57,-0.38,Peru
+p_ce552b2f9285b0aa,Female,71.2,8.22,-1.1,-0.7,Peru
+p_d003994fc7dd9166,Male,68,8.62,-3.3,-1.05,Peru
+p_d1185c1990fb7df7,Male,69.6,8.11,-2.58,-1.58,Peru
+p_d30eb3eb070df422,Female,68.8,8.29,-2.04,-0.63,Peru
+p_d35f205fed249b0e,Male,70.8,7.87,-2.12,-1.87,Peru
+p_d4969505cacd0da4,Female,69,8.14,-1.99,-0.8,Peru
+p_d4d5e5d5c0b8782f,Male,70.8,9.04,-2.11,-0.61,Peru
+p_d5d66783966c04fb,Male,74.6,9.14,-0.5,-0.5,Peru
+p_d6fd2af53f7fe331,Male,73,9.85,-1.17,0.18,Peru
+p_d7e97eada3e7c62a,Female,66.4,7.49,-2.97,-1.48,Peru
+p_d800aace0fe72667,Male,69.1,9.05,-2.79,-0.58,Peru
+p_d91f462f53e0869a,Male,72.8,9.34,-1.28,-0.32,Peru
+p_d9830aab484cb05b,Female,72.6,8.96,-0.58,0,Peru
+p_da718c9253a01c1b,Male,72,8.89,-1.6,-0.76,Peru
+p_dbb5f3163be2885e,Female,71.5,8.43,-1,-0.5,Peru
+p_dc4b284d6365b346,Female,70.4,9.72,-1.42,0.66,Peru
+p_dcbe6c8b55b8c619,Male,71.7,10,-1.7,0.33,Peru
+p_dddce70d99f548ec,Female,70.9,8.3,-1.24,-0.63,Peru
+p_e0793f4de0681609,Male,74.3,9.66,-0.61,0.01,Peru
+p_e0b40cd1b41dff6a,Female,71.5,8.81,-0.96,-0.12,Peru
+p_e3aaf5fe0ff262f2,Female,68,7.76,-2.36,-1.19,Peru
+p_e5f4635bc1b7c7d7,Female,66.5,7,-2.91,-2.05,Peru
+p_e7111d940e1dab0c,Female,69.8,8.46,-1.63,-0.46,Peru
+p_e7f42d1924922cad,Female,68.2,7.18,-2.25,-1.83,Peru
+p_e81323ad0772699e,Female,68.6,8.61,-2.1,-0.31,Peru
+p_e9609fe90146b7bb,Male,72.8,10.5,-1.27,0.76,Peru
+p_eb6c856b1b4f54bc,Female,69.4,7.67,-1.82,-1.29,Peru
+p_eba734a8f957edfa,Female,70.8,9.84,-1.24,0.77,Peru
+p_ebb46cebc7187907,Male,73.5,8.65,-0.94,-0.99,Peru
+p_ece5f83d67e3a864,Male,73.1,8.94,-1.14,-0.71,Peru
+p_edc5ebfa313c615c,Male,72.2,7.92,-1.54,-1.81,Peru
+p_edc60cad5b5cf5ae,Male,74.2,9.1,-0.7,-0.55,Peru
+p_f05bc89661eb3718,Male,76,11.5,0.11,1.62,Peru
+p_f0e553d6a07ac5b7,Female,67.9,7.56,-2.41,-1.42,Peru
+p_f117d72ea03479f1,Male,74.2,11,-0.66,1.2,Peru
+p_f365b42824332ea2,Male,70.5,9.46,-2.23,-0.19,Peru
+p_f54b640ec6691fdd,Female,71,7.29,-1.21,-1.72,Peru
+p_f627370cdc8172ea,Female,71.8,9.35,-0.87,0.35,Peru
+p_f7afb8026355ec54,Male,70.3,8.95,-2.32,-0.7,Peru
+p_f7de9292c96bca39,Male,71.4,7.1,-1.84,-2.78,Peru
+p_f8b943f8344fcd42,Female,72,9.31,-0.78,0.32,Peru
+p_f90e6cb4fe80a88a,Male,71.1,9.29,-1.98,-0.36,Peru
+p_f967427024d02f78,Male,72.3,7.89,-1.49,-1.85,Peru
+p_f97227e56c363c2e,Female,74,10.52,-0.05,1.28,Peru
+p_f9ad6bdfc2b5a9c2,Male,76.5,9.85,0.27,0.17,Peru
+p_f9bad36390d7036f,Male,72.8,10.41,-1.24,0.7,Peru
+p_fb85b06a6ccd7303,Male,71.5,8.25,-1.83,-1.44,Peru
+p_fc7c2bd836e7f9e2,Male,74,9.04,-0.78,-0.61,Peru
+p_fd02367de69061d9,Male,74.6,10.01,-0.53,0.32,Peru
+p_fd30cd4fe0cce311,Male,74,10.42,-0.75,0.7,Peru
+p_001d1593a9e4104c,Male,72,8.18,-1.6,-1.51,South Africa
+p_01043c0d1beeed66,Male,76,10.2,0.08,0.5,South Africa
+p_0105a5e27d989924,Male,75,8.65,-0.34,-1.01,South Africa
+p_0184d8cb399aaef4,Female,75.2,10.3,0.43,1.12,South Africa
+p_01eee86a7c373d1f,Male,70.6,8.59,-2.16,-1.06,South Africa
+p_027e467ce5f64f6d,Female,67,7.7,-2.71,-1.23,South Africa
+p_02c08d0e8197a9ac,Female,72,9.47,-0.81,0.45,South Africa
+p_03c79bb7f51b40e1,Male,70,8.09,-2.4,-1.59,South Africa
+p_07e159dc61499fee,Female,76,9.68,0.74,0.62,South Africa
+p_08612bf5765fdb50,Female,71.5,8.96,-0.99,0.01,South Africa
+p_0c4990d41ede3360,Female,67.4,7.38,-2.61,-1.62,South Africa
+p_0c52fe8b2e9a09c4,Male,66.6,9.02,-3.83,-0.61,South Africa
+p_0d0ffb49e200bbdd,Female,72,7.52,-0.82,-1.46,South Africa
+p_0e635be5257436f2,Male,69,9.18,-2.85,-0.46,South Africa
+p_104a07197c5b8137,Male,72.6,8.63,-1.31,-1.01,South Africa
+p_110dacb6372a3148,Male,69.8,10.04,-2.5,0.37,South Africa
+p_142794a26933ce14,Female,69,10,-1.94,0.9,South Africa
+p_1743f538ae8e1b2f,Male,71,8.83,-1.98,-0.8,South Africa
+p_176e653ba1c85704,Male,75.2,13.1,-0.28,2.81,South Africa
+p_190f05a7e66cbc49,Female,73.2,9.55,-0.34,0.52,South Africa
+p_19503ee39c4b7229,Male,72.4,8.77,-1.42,-0.88,South Africa
+p_1b87139690f7b70c,Male,69,7.71,-2.84,-2.04,South Africa
+p_1dc251e7e0b21fde,Male,70.4,8.2,-2.26,-1.49,South Africa
+p_1decacb991db4419,Male,74,10,-0.78,0.31,South Africa
+p_1e23dd476ebdc0b8,Male,72,9.52,-1.59,-0.13,South Africa
+p_1e2dd8651f9e9ea3,Male,70,8.8,-2.43,-0.84,South Africa
+p_1f88a02310b4785a,Male,73,9.98,-1.14,0.32,South Africa
+p_24bf500290ec2591,Male,73,9.3,-1.2,-0.36,South Africa
+p_24c86c605fea854c,Male,75,9.92,-0.33,0.25,South Africa
+p_271dc240b8a9abaa,Male,70,9,-2.42,-0.63,South Africa
+p_2b4d8e9a61347f68,Male,73.4,10.94,-0.98,1.16,South Africa
+p_2cb8e319fd21513b,Female,67,8.24,-2.73,-0.68,South Africa
+p_2d4b25b9727c693f,Female,69.4,7.01,-1.77,-2.03,South Africa
+p_2d96c7853b7a0faf,Male,75.6,8.6,-0.03,-1.03,South Africa
+p_2f3951a99424d880,Male,73,9.61,-1.15,-0.03,South Africa
+p_2f50f00206518a06,Male,71,8.21,-2.02,-1.48,South Africa
+p_2f6a6075ae128a4e,Female,69.2,8.3,-1.89,-0.63,South Africa
+p_35096fe4a457b391,Female,71.4,8.08,-1,-0.83,South Africa
+p_3556af75445f97f6,Male,77,10.03,0.53,0.36,South Africa
+p_355d13dabd5b25b2,Female,69,7.8,-1.93,-1.13,South Africa
+p_380a9edc5ed33b91,Female,73,8.93,-0.38,-0.01,South Africa
+p_394bbd992650b019,Female,70.2,8.27,-1.51,-0.66,South Africa
+p_3a68d6e980a43d08,Male,71,6.63,-2.02,-3.38,South Africa
+p_3a6c548be95b77d1,Male,71,9,-1.99,-0.63,South Africa
+p_3b1a09e6de198f4e,Male,72,8.91,-1.6,-0.74,South Africa
+p_3b252f3a77bc0dee,Male,72.4,8.89,-1.37,-0.73,South Africa
+p_3cacc964ff85c949,Female,72,9.7,-0.82,0.63,South Africa
+p_400cdf19de3463b6,Male,75,10.56,-0.29,0.84,South Africa
+p_42ed252614294350,Female,71.4,9.41,-1.01,0.41,South Africa
+p_46a97a3b0febb1b4,Male,74.6,11.17,-0.45,1.36,South Africa
+p_47bcf1996be646f1,Female,73.6,8.74,-0.16,-0.19,South Africa
+p_48c4cadceed8209d,Male,72,9,-1.54,-0.62,South Africa
+p_48d73e17aa267cd1,Female,72.4,10.25,-0.62,1.09,South Africa
+p_4936db4ff5af8d13,Female,74.4,9.4,0.11,0.38,South Africa
+p_4a5c76cd681d7e10,Female,73,9.35,-0.41,0.35,South Africa
+p_4b1f7abada952904,Female,71,8.89,-1.17,-0.05,South Africa
+p_4bc2ed384b63aa5d,Male,75.8,10.73,0.03,0.98,South Africa
+p_4c6360bf1fda67f3,Female,77.2,10.61,1.21,1.35,South Africa
+p_4fc02dc4227b36c5,Female,75.4,9.28,0.53,0.29,South Africa
+p_51149262ff400588,Male,69.4,7.76,-2.67,-1.98,South Africa
+p_53a5f45dc8556689,Female,72,9.08,-0.82,0.1,South Africa
+p_551161df3c446677,Female,72,7.74,-0.76,-1.19,South Africa
+p_575e191f2d22431f,Female,72,8.62,-0.76,-0.3,South Africa
+p_57b0bf75efa9bb4f,Male,71,7.08,-2.01,-2.81,South Africa
+p_581dfe8dad8ced0b,Female,77.2,10.8,1.26,1.51,South Africa
+p_58b6b1b255e3328e,Female,66,6.58,-3.1,-2.58,South Africa
+p_592d00089bf34b20,Male,76,10.2,0.06,0.49,South Africa
+p_59dca928a2f80864,Male,70,8.9,-2.46,-0.76,South Africa
+p_5c6db0121eaf2281,Male,77,9.43,0.51,-0.21,South Africa
+p_5cc963e8de4e7a3c,Male,69,8.31,-2.88,-1.38,South Africa
+p_5e460343c561289e,Female,71.6,9.04,-0.9,0.1,South Africa
+p_60b8ba87084897f3,Male,74,7.9,-0.72,-1.81,South Africa
+p_60dfb31605301f9f,Female,70.8,8.37,-1.24,-0.55,South Africa
+p_614953fd32e492ca,Male,75,8.82,-0.29,-0.81,South Africa
+p_617ce000431feb94,Female,75,10.74,0.4,1.47,South Africa
+p_635fc049c98c9281,Female,66.6,6.98,-2.88,-2.07,South Africa
+p_65dfb48a062ffec0,Male,72,8.38,-1.54,-1.27,South Africa
+p_65e65d178a67737b,Male,67.2,7.78,-3.61,-1.96,South Africa
+p_660cc6bb92804466,Female,69,7.92,-1.96,-1.01,South Africa
+p_6683e907fd108c3f,Male,73.6,9.08,-0.88,-0.55,South Africa
+p_671825f226eb7c4b,Female,72,8.88,-0.81,-0.07,South Africa
+p_673dc790fdae31d7,Male,75.6,10.36,-0.06,0.66,South Africa
+p_67a160bb04c5a5e2,Female,72,8.39,-0.76,-0.52,South Africa
+p_68984f6dcb815115,Female,66,7.88,-3.1,-1.04,South Africa
+p_68a0fd9ffdfe289c,Female,72.1,6.51,-0.76,-2.68,South Africa
+p_69d4748c4cd6e2f4,Female,69,8.5,-1.93,-0.41,South Africa
+p_6b694b8f80e954cb,Female,68.6,7,-2.1,-2.05,South Africa
+p_6bf4126a33d3fd0e,Female,72,8.33,-0.79,-0.59,South Africa
+p_6c3dc6776dad666e,Male,70,7.3,-2.45,-2.54,South Africa
+p_6d82db799db6c8e2,Male,72,8.63,-1.59,-1.02,South Africa
+p_6dd907ce8a542ff9,Female,69.2,8.36,-1.89,-0.57,South Africa
+p_6f1ddb8842c2e081,Female,70.9,8.17,-1.24,-0.76,South Africa
+p_6f2ca17004f649c4,Female,70,7.81,-1.58,-1.14,South Africa
+p_6f5759ac723aff6f,Male,72,10,-1.56,0.34,South Africa
+p_6fd647e089fd42bc,Male,69,8.93,-2.82,-0.7,South Africa
+p_6fd8e2d88e8807bb,Male,75,9.67,-0.33,0.02,South Africa
+p_7033ff13e6c7486d,Female,71.1,9.23,-1.13,0.25,South Africa
+p_72404695e15e87ff,Male,68,9.65,-3.24,0.01,South Africa
+p_72f9137e3a206b92,Female,72,8.66,-0.76,-0.26,South Africa
+p_7387b3c9e194521f,Female,73,9.89,-0.42,0.8,South Africa
+p_749da036d4c000f3,Female,72,8.07,-0.81,-0.86,South Africa
+p_76190a2bee21cbb1,Male,72.2,9.91,-1.49,0.25,South Africa
+p_778e51ec06d44460,Female,73.8,10,-0.1,0.89,South Africa
+p_7989344133886962,Male,75,8.39,-0.31,-1.27,South Africa
+p_79e42684628d8d6d,Male,70,8.45,-2.39,-1.19,South Africa
+p_79ead36773748f32,Male,74,9.1,-0.76,-0.55,South Africa
+p_7a6a710570882e28,Female,70,7.35,-1.53,-1.62,South Africa
+p_7ab80f6e0f984a6f,Female,73.4,9.21,-0.23,0.24,South Africa
+p_7af7a7f2d2c7b0b2,Male,71.4,8.55,-1.8,-1.09,South Africa
+p_7b0e1d2be808f162,Female,78.2,9.17,1.65,0.21,South Africa
+p_7b0f8ff5ec783741,Male,71.2,8.84,-1.88,-0.78,South Africa
+p_7b19fa48df0c54fb,Male,74,9.38,-0.75,-0.26,South Africa
+p_7b608127c9eb1d4f,Female,70,7.15,-1.54,-1.86,South Africa
+p_7c0f96578f865f13,Female,70,8.67,-1.58,-0.27,South Africa
+p_7f19d9156aa99520,Male,71.2,9.5,-1.91,-0.14,South Africa
+p_8072d84e8ace53e6,Female,73.6,8.47,-0.16,-0.45,South Africa
+p_82570539d22a9fb4,Female,71.6,8.84,-0.92,-0.09,South Africa
+p_827927d3f864303c,Male,73,7.93,-1.12,-1.77,South Africa
+p_83d86f3e80ba5f34,Female,69,7.94,-1.99,-1.01,South Africa
+p_844c577fb7e6e496,Female,72,7.89,-0.78,-1.04,South Africa
+p_84e722c4d4187914,Male,67.2,6.3,-3.58,-3.76,South Africa
+p_8597bf9cc8d72586,Male,75.3,10.26,-0.17,0.57,South Africa
+p_86104a1646366ce9,Female,69.4,9.4,-1.83,0.38,South Africa
+p_861baef948cf5005,Female,70.3,9.61,-1.44,0.58,South Africa
+p_8785e2f77d363366,Female,75,12.46,0.37,2.61,South Africa
+p_8b7fe6b05f1b4f3a,Male,69.4,7.73,-2.65,-2.01,South Africa
+p_8e769c737a1bdfd5,Male,76,9.41,0.09,-0.23,South Africa
+p_8f58db58a5341ba4,Female,74,9.94,0.03,0.86,South Africa
+p_8f698748f3de3268,Male,71,10.34,-1.98,0.64,South Africa
+p_8f738ce6446d39f7,Male,72.4,9.6,-1.42,-0.05,South Africa
+p_90d2bae37b2cefcc,Female,70,7.29,-1.54,-1.7,South Africa
+p_912d2df1f8853862,Female,67,6.63,-2.73,-2.53,South Africa
+p_921d5a424e02c477,Male,75,10.64,-0.34,0.89,South Africa
+p_9229b8dd58cd3931,Male,74.2,9.46,-0.65,-0.18,South Africa
+p_937c38f636096cc8,Female,75,9.68,0.35,0.62,South Africa
+p_94191d5a58313a9e,Male,69.2,8.83,-2.74,-0.8,South Africa
+p_965fcdf224c0980f,Male,72.4,8.43,-1.45,-1.25,South Africa
+p_97ed45a900540bbd,Female,71,6.85,-1.18,-2.24,South Africa
+p_980b188ac63bbd96,Female,71.2,9.21,-1.06,0.25,South Africa
+p_9a031d7ac4974c67,Female,66.4,6.44,-2.95,-2.77,South Africa
+p_9b0bc9fd4d4af5dd,Male,73.3,8.79,-1.01,-0.84,South Africa
+p_9bd16674fe48c7b4,Male,68.2,7.32,-3.19,-2.51,South Africa
+p_9c33abf8d06794ed,Male,71.2,9.04,-1.94,-0.61,South Africa
+p_9cf9a3c7174e1e23,Female,74,8.42,0,-0.5,South Africa
+p_9e5ec4abcb7bf0d4,Male,67,8.03,-3.71,-1.68,South Africa
+p_9ef902e7aecd172c,Female,76,8.64,0.77,-0.28,South Africa
+p_9f73ac0ea4749748,Female,72.4,9.01,-0.65,0.04,South Africa
+p_a3ffff5034b7d2e3,Male,73,10.26,-1.15,0.57,South Africa
+p_a413015a1334bcb0,Male,70.4,8.52,-2.28,-1.15,South Africa
+p_a4dace1a4e53051c,Male,73.4,9.7,-1,0.04,South Africa
+p_a5734c3d18c8b2fe,Female,71,8.69,-1.14,-0.22,South Africa
+p_a5b103f777aac749,Female,74.2,9.43,0.09,0.43,South Africa
+p_a62884b8a35d0958,Male,70.4,10.12,-2.26,0.43,South Africa
+p_a735e10f9d36c7ca,Female,68,6.9,-2.37,-2.2,South Africa
+p_a7870050d7acba37,Male,71.5,10.2,-1.8,0.5,South Africa
+p_a8f9b49a14ca9f7f,Male,71,8.94,-2.01,-0.7,South Africa
+p_ac46f7b9cf4fd95c,Male,71,8.56,-1.96,-1.07,South Africa
+p_b0561a1cfaf2140c,Female,66.2,7.23,-3.03,-1.77,South Africa
+p_b2ebb94ddf92bf56,Female,72,7.94,-0.81,-1,South Africa
+p_b438999c1c34a2e9,Male,74.4,9.57,-0.58,-0.08,South Africa
+p_b4b1512f542253ab,Female,69.2,7.62,-1.87,-1.33,South Africa
+p_b4b76a1752930552,Male,74,7.73,-0.78,-2.03,South Africa
+p_b60a80697e1fee7e,Female,71.4,8.43,-1,-0.48,South Africa
+p_b708c8f794080314,Female,73,8.29,-0.38,-0.62,South Africa
+p_b919a8a74d618c59,Female,73.2,8.95,-0.3,0.01,South Africa
+p_b939b7b6a2ea04f5,Male,75.4,11.67,-0.11,1.77,South Africa
+p_b94f94d2d68525f2,Male,68,7.17,-3.27,-2.7,South Africa
+p_bae55e8bd19993ae,Female,69.2,8.75,-1.84,-0.17,South Africa
+p_bbd378ee8ef8f4a4,Male,76.6,9.2,0.36,-0.43,South Africa
+p_bc5bd8452d45cd12,Female,69,8.84,-1.96,-0.1,South Africa
+p_bc62fb27c8c778ac,Female,74,8.95,-0.02,0,South Africa
+p_bd7888d9c454f338,Female,70.4,8.55,-1.43,-0.38,South Africa
+p_bd9d1b8f307eaa34,Male,74,10.72,-0.78,0.95,South Africa
+p_bda2e7d990a1b6d6,Male,70.6,7.6,-2.13,-2.15,South Africa
+p_bdaab09c7b88ba0a,Female,75,9.23,0.42,0.27,South Africa
+p_bdccf33d7fea70cc,Female,72.8,9.58,-0.47,0.55,South Africa
+p_bfd4c1941339a0b3,Female,75,10.32,0.37,1.14,South Africa
+p_c1c470a56575e99a,Female,73,9.23,-0.41,0.25,South Africa
+p_c4be08759e1e333d,Male,72,9.05,-1.59,-0.59,South Africa
+p_c50ff670bca4036f,Male,72,9.14,-1.6,-0.51,South Africa
+p_c771c7d0f8777d53,Male,72,9.3,-1.6,-0.35,South Africa
+p_c7c362a023f1df2b,Male,70.2,8.82,-2.33,-0.82,South Africa
+p_c7cdf8479d0fc882,Male,69,8.42,-2.85,-1.25,South Africa
+p_c84cde93b94a41c5,Female,72.2,9.54,-0.72,0.51,South Africa
+p_cb3719c7b0e3b4be,Female,66.2,7.3,-3.03,-1.69,South Africa
+p_cbbc308548b95c8b,Female,72,7.86,-0.76,-1.06,South Africa
+p_cca455ce6433c2e2,Female,69,7.6,-1.97,-1.37,South Africa
+p_cf5f51de68da0e65,Male,69.6,8.1,-2.61,-1.6,South Africa
+p_cf7055191595f745,Male,70.6,8.8,-2.16,-0.84,South Africa
+p_cfc3e77974c067c8,Female,66,6.42,-3.1,-2.79,South Africa
+p_d0ac0a66c0b04e2b,Male,68.6,7.32,-3.05,-2.52,South Africa
+p_d3f6b5fc985e8bd9,Female,67,7.09,-2.73,-1.95,South Africa
+p_d69c30a439b3fb67,Female,73,9.22,-0.41,0.24,South Africa
+p_d7bb7ab868972a34,Female,70.4,9.45,-1.39,0.45,South Africa
+p_d8a32b69ae2dfdcc,Female,72.6,8.53,-0.58,-0.4,South Africa
+p_d9e089d0425dd634,Female,70.2,11.88,-1.52,2.23,South Africa
+p_da34d84ef3f48c3d,Male,72,9.58,-1.6,-0.08,South Africa
+p_da3e57906bc0b417,Female,69.8,7.72,-1.62,-1.21,South Africa
+p_dc641914c33a9a6a,Male,68,7.66,-3.24,-2.09,South Africa
+p_dce98c58bfeda6d0,Male,72,8.3,-1.56,-1.36,South Africa
+p_dd2ed6780595536f,Female,70,8.9,-1.56,-0.04,South Africa
+p_ddf59f175b7e3ed7,Female,70.6,10.24,-1.37,1.07,South Africa
+p_de51628cd501ccd1,Male,75.4,9.71,-0.13,0.07,South Africa
+p_df4a573078986a65,Male,73.2,10.29,-1.05,0.6,South Africa
+p_df71070ecd30a02b,Male,69,6.47,-2.81,-3.55,South Africa
+p_df933904446c2cde,Male,73,9.74,-1.17,0.08,South Africa
+p_e2117de7b1cc18a9,Female,68,6.47,-2.35,-2.74,South Africa
+p_e211f4236f560f3f,Male,64.4,6.4,-4.81,-3.66,South Africa
+p_e24d5f945329e5ef,Female,72.4,8,-0.62,-0.92,South Africa
+p_e302a4e166f7ddb1,Female,67,7.89,-2.72,-1.04,South Africa
+p_e33c56e322c91bb1,Female,70,8.82,-1.54,-0.11,South Africa
+p_e33c71e605a3a9fc,Male,74,9.3,-0.73,-0.33,South Africa
+p_e442bf31fadbaf22,Female,68,7.9,-2.36,-1.04,South Africa
+p_e5079f92cde6682d,Male,75.2,10.4,-0.19,0.71,South Africa
+p_e6a89fc8fd0b5d2d,Female,73,9.7,-0.39,0.65,South Africa
+p_e836779e410dbd14,Female,71.4,8.95,-0.98,0.02,South Africa
+p_eac3dd1ea30e1798,Male,70.4,9.32,-2.29,-0.34,South Africa
+p_ec0777f274cac7f0,Male,68.8,8.76,-2.91,-0.87,South Africa
+p_eeced532e8c5dc00,Male,72.2,9.8,-1.54,0.12,South Africa
+p_efca57413180109b,Male,75.5,14.09,-0.07,3.57,South Africa
+p_f34eb71fd87daa52,Female,67,6.82,-2.75,-2.29,South Africa
+p_f3566b8891722e7f,Female,68.2,7.81,-2.24,-1.12,South Africa
+p_f494a15c5b982976,Female,70,8.47,-1.57,-0.46,South Africa
+p_f50ce92acf9ad653,Male,71.6,8.47,-1.77,-1.2,South Africa
+p_f57d44df22b5c63c,Female,73,9.71,-0.39,0.66,South Africa
+p_f65302fff71db92a,Male,72,10.4,-1.56,0.7,South Africa
+p_f6ffe4222b1aba1c,Female,72,6.22,-0.82,-3.09,South Africa
+p_f7340ffa8915615e,Female,69,8.5,-1.93,-0.41,South Africa
+p_f8c298c375e1698f,Male,74,9.42,-0.72,-0.21,South Africa
+p_fbf73a4cb32494a4,Male,71,8.51,-2.02,-1.16,South Africa
+p_fcc26dadaab5c079,Male,77,9.24,0.51,-0.4,South Africa
+p_fcd6598e7c47097f,Female,71.4,8.94,-1.03,-0.01,South Africa
+p_fd56771b6881c6bb,Male,77,11.02,0.53,1.22,South Africa
+p_fdd8902292195b65,Female,71,9.63,-1.17,0.6,South Africa
+p_fe9863d80a93f0e9,Female,71.6,10.3,-0.98,1.11,South Africa
+p_fedefc798b4015f0,Male,73.6,9.68,-0.88,0.04,South Africa
+p_00541d8f6796dd38,Male,69.8,9.5,-2.5,-0.14,Tanzania
+p_047bceb144a186c8,Male,73,8.3,-1.17,-1.38,Tanzania
+p_04afca90ec573bd9,Male,68,9,-3.26,-0.63,Tanzania
+p_054615f07cbf1b81,Female,63,7.6,-4.3,-1.37,Tanzania
+p_06d7e28e453ddc6f,Female,67,8.8,-2.72,-0.13,Tanzania
+p_0a1a21cd22151a08,Male,73,8.9,-1.12,-0.72,Tanzania
+p_0b50b0e1bd2fce65,Female,71,8.3,-1.14,-0.6,Tanzania
+p_0c6c5191f885ca6c,Male,75,8.6,-0.31,-1.05,Tanzania
+p_0e05973d645e4f0a,Male,69,8.8,-2.82,-0.83,Tanzania
+p_0f5697105d3ffaab,Male,70.4,8.3,-2.22,-1.35,Tanzania
+p_0fa6d00cae560f17,Female,67,7.4,-2.76,-1.6,Tanzania
+p_112acb02950ac4c2,Male,71,8,-1.96,-1.69,Tanzania
+p_1212c6508885c5bd,Female,67,8.6,-2.71,-0.32,Tanzania
+p_12786354f33492ae,Male,70.2,8.2,-2.32,-1.47,Tanzania
+p_12b64a5065361c2e,Female,72.8,9,-0.47,0.05,Tanzania
+p_12ff34dcdd39d0c5,Male,71,9.5,-1.99,-0.14,Tanzania
+p_14e29bb3c22787d8,Female,72,8.9,-0.76,-0.04,Tanzania
+p_15c561c4c6dad182,Female,65.4,7.6,-3.36,-1.36,Tanzania
+p_161b44035bbe4281,Female,68,7.5,-2.33,-1.46,Tanzania
+p_16a20402ab3d813c,Female,69,8.4,-1.94,-0.52,Tanzania
+p_18d1521e46cde66e,Male,69,9,-2.85,-0.64,Tanzania
+p_1a870e3b361dae8d,Male,67.6,8.5,-3.43,-1.15,Tanzania
+p_1a9cf070bafa453b,Male,72.4,9.1,-1.37,-0.52,Tanzania
+p_1ac7ab69e73110a0,Male,74,7.09,-0.7,-2.78,Tanzania
+p_1c02f8d9f0cfa67d,Male,71,9.9,-1.99,0.24,Tanzania
+p_1c3d74e1cd1a0624,Male,72,9,-1.54,-0.62,Tanzania
+p_1d29d4339b779c6b,Male,72,9.2,-1.57,-0.43,Tanzania
+p_1d999446f2c765bd,Female,66,7,-3.08,-2.04,Tanzania
+p_1ea6895d81861015,Female,73,9.8,-0.41,0.73,Tanzania
+p_20d793c4c484d8e6,Female,68,8,-2.36,-0.94,Tanzania
+p_20ef61397e3b5916,Female,69,8,-1.93,-0.91,Tanzania
+p_210457ae8c2964b9,Male,69.2,8.2,-2.74,-1.47,Tanzania
+p_2244f6879641ac24,Female,68,7.5,-2.35,-1.47,Tanzania
+p_23b79f9fe75ed31b,Female,66,6.8,-3.11,-2.3,Tanzania
+p_25c5a262314507b6,Male,72,9.2,-1.54,-0.42,Tanzania
+p_298a6265064f4515,Female,72,10.2,-0.78,1.06,Tanzania
+p_2d7fbb43721d0406,Female,71,9.2,-1.14,0.24,Tanzania
+p_2e3dfc2a13492c12,Female,69,7.4,-1.92,-1.56,Tanzania
+p_2f951a9271252d63,Male,72.4,9,-1.39,-0.63,Tanzania
+p_3046e866fe2df646,Female,72,8.4,-0.75,-0.5,Tanzania
+p_32d63d1e43091ec8,Female,69,7.7,-1.94,-1.24,Tanzania
+p_3334cf2d4c40e773,Male,71,10.5,-2.02,0.76,Tanzania
+p_3422353caffc4abb,Female,68.6,9,-2.14,0.03,Tanzania
+p_358a2e38e9f7e871,Female,71,7.5,-1.21,-1.48,Tanzania
+p_37487a1658239c3d,Male,68,7,-3.24,-2.9,Tanzania
+p_3855df98b8e752d3,Male,69,7.8,-2.82,-1.92,Tanzania
+p_39779c399851c04f,Male,74,9.4,-0.72,-0.23,Tanzania
+p_3a739e83bfe4213c,Male,69,8.5,-2.81,-1.14,Tanzania
+p_3a813543d6472be6,Female,71,8.3,-1.14,-0.6,Tanzania
+p_3deeb7b2edeab2e3,Female,68,7.4,-2.3,-1.56,Tanzania
+p_3e27a1dd3a16e05a,Male,72,8.1,-1.54,-1.58,Tanzania
+p_419e25cb3f9ae9df,Female,67.4,8.1,-2.55,-0.81,Tanzania
+p_427838e865230c41,Male,72.2,9.1,-1.47,-0.53,Tanzania
+p_43119142cff096c9,Female,69,8,-1.93,-0.91,Tanzania
+p_4462d6af7032f076,Male,69.8,8.4,-2.47,-1.25,Tanzania
+p_44679511f0f2746b,Female,66,7.2,-3.1,-1.8,Tanzania
+p_46806812a94bf8b3,Male,73.2,9.9,-1.07,0.24,Tanzania
+p_4685bca3a8b83412,Male,70,8.4,-2.4,-1.25,Tanzania
+p_489c73cfe62ec94a,Female,70,9.7,-1.54,0.66,Tanzania
+p_4932cedde8887895,Male,71,11.8,-1.96,1.87,Tanzania
+p_4c505b65051cb37c,Male,70,8.1,-2.43,-1.6,Tanzania
+p_4dc71dd98f7e0d03,Female,NA,8,NA,-0.92,Tanzania
+p_4e89b256095dcafe,Male,72.2,10.1,-1.46,0.44,Tanzania
+p_4fe09ba48f3ca791,Female,69,8.6,-1.94,-0.32,Tanzania
+p_512903117e6e9224,Female,73.4,8,-0.2,-0.91,Tanzania
+p_51c0a6fafcfb52d4,Female,73,9.2,-0.39,0.23,Tanzania
+p_5483211e91bc298e,Male,73.4,9.8,-0.95,0.16,Tanzania
+p_5680c0d94f2d7451,Male,69.2,8,-2.74,-1.7,Tanzania
+p_582ab51cf5e0ab01,Male,72.4,9,-1.37,-0.62,Tanzania
+p_5b8de139922d7438,Female,70,8.2,-1.53,-0.7,Tanzania
+p_5bfdc33169b90a23,Male,66,8.9,-4.07,-0.72,Tanzania
+p_5c5ffdff8e204390,Female,66.4,8,-2.95,-0.92,Tanzania
+p_5c9353d8ec3505bb,Female,70.2,8.5,-1.48,-0.42,Tanzania
+p_5d52ddceb896bb00,Male,73,8.4,-1.17,-1.27,Tanzania
+p_5da0aeeb0e2889de,Male,71,7.5,-1.99,-2.28,Tanzania
+p_5e100cbf2c08d89d,Male,69,7.9,-2.81,-1.8,Tanzania
+p_5e2f82d03d84be01,Female,66.2,7.6,-3.02,-1.34,Tanzania
+p_5f8b6ff7a73ec303,Female,69,8.8,-1.93,-0.13,Tanzania
+p_608392a640f05f70,Male,72,9.5,-1.56,-0.13,Tanzania
+p_61238a578af92478,Male,67,7.3,-3.68,-2.53,Tanzania
+p_61ae0d1d72d4a206,Female,67,7.2,-2.73,-1.82,Tanzania
+p_6241c23a8278b764,Male,70,NA,-2.42,NA,Tanzania
+p_62f9c52d3cea0b2c,Male,70,8.4,-2.39,-1.25,Tanzania
+p_63b59abbabd94c04,Male,70,7.7,-2.4,-2.04,Tanzania
+p_648cfd5a634cec17,Female,65.6,7.4,-3.25,-1.57,Tanzania
+p_6530e8955af1af16,Female,68,7.9,-2.33,-1.03,Tanzania
+p_6551a4a017deb2cc,Male,74,9.8,-0.7,0.16,Tanzania
+p_6664ab7bc88b74c6,Male,69,9,-2.82,-0.63,Tanzania
+p_6664b76b57b31306,Female,68.2,9.4,-2.25,0.4,Tanzania
+p_6772543b20cadb75,Male,67,7.5,-3.66,-2.28,Tanzania
+p_6981d145d521436e,Male,68,8.4,-3.26,-1.26,Tanzania
+p_6a82475d506b702b,Female,66.8,6.7,-2.79,-2.42,Tanzania
+p_6ab9a0fdf836308b,Male,70.2,9,-2.33,-0.63,Tanzania
+p_6b3f2a7a8f991c30,Female,68,7.3,-2.32,-1.69,Tanzania
+p_6bd938d8f0806146,Female,66,9.5,-3.12,0.48,Tanzania
+p_6ca9afbda528fce0,Female,68.2,7.1,-2.24,-1.92,Tanzania
+p_6f4cc896764b59dd,Male,73,8,-1.12,-1.69,Tanzania
+p_6faef8895bd31990,Male,72,9.4,-1.56,-0.23,Tanzania
+p_6fd222b5d20f3283,Male,68,8.2,-3.27,-1.49,Tanzania
+p_7044e122b1c449b0,Female,68,8.2,-2.3,-0.7,Tanzania
+p_70d4f8b4d2b273af,Male,69,8.1,-2.84,-1.59,Tanzania
+p_713d39454e95ef2d,Male,70.9,10.5,-2.05,0.77,Tanzania
+p_725a64d119eee7e1,Male,73,9.8,-1.17,0.14,Tanzania
+p_72ca9cf27a042aca,Female,68.4,8,-2.16,-0.91,Tanzania
+p_7331d39453ab97a2,Male,69,8.4,-2.81,-1.25,Tanzania
+p_7391978ce2068bcf,Male,71,8.4,-1.98,-1.25,Tanzania
+p_77dadd610714fb99,Female,75,9.5,0.42,0.5,Tanzania
+p_7aee2cd09572629d,Female,67.2,7.9,-2.63,-1.02,Tanzania
+p_7bb4ab6103c446b1,Female,68,8.8,-2.32,-0.13,Tanzania
+p_7e4b9365dbbdbbaf,Female,70,9.2,-1.54,0.23,Tanzania
+p_7e6fb4c124b232d9,Female,68,6.8,-2.33,-2.3,Tanzania
+p_7f2b7394e1927a1d,Female,72.2,8,-0.7,-0.92,Tanzania
+p_7f3052b8316b85b3,Female,70.2,8.4,-1.46,-0.51,Tanzania
+p_7f3aa0245d454d09,Female,71,10.5,-1.15,1.29,Tanzania
+p_80494865972d02ee,Male,69,7.9,-2.82,-1.81,Tanzania
+p_80f12e39b01031c0,Female,69,9.8,-1.93,0.74,Tanzania
+p_80f2bb8965430d82,Male,70,9.9,-2.39,0.25,Tanzania
+p_82cc51c9c1cdae9f,Female,69.8,8,-1.62,-0.91,Tanzania
+p_83844122fc69969c,Male,68,8,-3.24,-1.7,Tanzania
+p_84bc4972106a3c59,Male,70,6.9,-2.4,-3.03,Tanzania
+p_85318b5032a46fbd,Female,65.4,7.5,-3.33,-1.46,Tanzania
+p_859b1435b919dbf1,Male,72.1,11.4,-1.5,1.55,Tanzania
+p_893b3a6761770426,Male,65,8,-4.51,-1.7,Tanzania
+p_89b798044848a8dc,Female,70.3,7.8,-1.42,-1.13,Tanzania
+p_8b13bb5ef1f261a8,Male,69,7.8,-2.82,-1.92,Tanzania
+p_8d996dabb5b2ec6c,Female,65.8,7.6,-3.16,-1.34,Tanzania
+p_9157019e157670dd,Male,66.4,7.7,-3.94,-2.05,Tanzania
+p_9278aba7cfb55609,Male,67,8.3,-3.66,-1.36,Tanzania
+p_92e54abb66f362a7,Male,71,8.4,-1.98,-1.25,Tanzania
+p_9516be7cfac99a2a,Female,67,7.8,-2.71,-1.13,Tanzania
+p_95d7e92739229260,Female,70,9,-1.57,0.04,Tanzania
+p_96b6dee7679e6768,Male,71.8,8.2,-1.63,-1.46,Tanzania
+p_975bd10863cb16b9,Male,64,6.4,-4.94,-3.65,Tanzania
+p_97d4bc1de14c80d5,Male,71,9.1,-1.98,-0.53,Tanzania
+p_97e889092b756267,Female,69,7.8,-1.93,-1.13,Tanzania
+p_9888c5dcbecfe1c6,Female,72,9,-0.78,0.05,Tanzania
+p_99ff37d630be8be5,Male,69,8.2,-2.81,-1.46,Tanzania
+p_9a213b01bb587e32,Female,68,6.5,-2.33,-2.69,Tanzania
+p_9a3c4165d7ad7a0a,Male,75.4,9.8,-0.18,0.13,Tanzania
+p_9a6aba54ff54a809,Male,70.6,8.3,-2.13,-1.35,Tanzania
+p_9a77ffa709015fec,Female,68.4,8.4,-2.16,-0.51,Tanzania
+p_9b0f80559330d403,Male,71,9,-2.01,-0.64,Tanzania
+p_9ca914bbcfdfa824,Female,67.4,7.3,-2.61,-1.71,Tanzania
+p_9e399038f6e724c0,Female,67,8,-2.71,-0.91,Tanzania
+p_9f25b265e8bebf6c,Male,70.1,8.4,-2.34,-1.25,Tanzania
+p_a075453bd798d3d6,Male,70,7,-2.39,-2.89,Tanzania
+p_a1971f077e171e93,Male,70,8.3,-2.4,-1.36,Tanzania
+p_a4e9a62c2b5a1e43,Male,70.8,9,-2.06,-0.63,Tanzania
+p_a52fc8c0f188ea00,Female,71.6,8.2,-0.9,-0.7,Tanzania
+p_a67a5be49ba92ca9,Male,74,11.5,-0.73,1.62,Tanzania
+p_a8885d8934c04d15,Female,64.2,5.8,-3.8,-3.61,Tanzania
+p_ab4a298f4217b641,Male,69,8.5,-2.82,-1.15,Tanzania
+p_ab63c92bee830bf3,Male,72,8.4,-1.57,-1.26,Tanzania
+p_acd5acb63239a82a,Female,70,9.9,-1.56,0.82,Tanzania
+p_ad890d49e54e8868,Male,68.6,7.3,-3,-2.53,Tanzania
+p_adc43a0e4181f8d6,Male,71,8.1,-1.96,-1.58,Tanzania
+p_af712a2b41291e2c,Female,69,8.7,-1.97,-0.24,Tanzania
+p_b00a2315b7b29a1e,Male,68,9.2,-3.26,-0.43,Tanzania
+p_b05c1e61142a2f4c,Female,70.6,8.5,-1.32,-0.42,Tanzania
+p_b0862f458d6a42a7,Female,69,7.7,-1.94,-1.24,Tanzania
+p_b27c356c958af471,Female,71,8.8,-1.17,-0.13,Tanzania
+p_b2d37b88bc3e4f34,Female,69.4,7.8,-1.8,-1.14,Tanzania
+p_b2da021be4c8b30a,Male,67,6.4,-3.72,-3.66,Tanzania
+p_b3fadc0ab47ab28b,Female,70.4,8.8,-1.39,-0.13,Tanzania
+p_b43f88515ed810c9,Male,70,9,-2.4,-0.63,Tanzania
+p_b9c739b7ca78b765,Female,64.1,6,-3.82,-3.34,Tanzania
+p_ba0288cbd92eb90e,Female,69,7.9,-1.93,-1.02,Tanzania
+p_ba36e72891434750,Male,71.2,9.1,-1.91,-0.53,Tanzania
+p_bb6448f9b5657d42,Female,75,9,0.42,0.06,Tanzania
+p_bb665e43ddd3a25e,Male,68,7.1,-3.23,-2.76,Tanzania
+p_bb998179684aead4,Male,70,8.3,-2.4,-1.36,Tanzania
+p_bbb946ab6180c0ed,Male,72,9.5,-1.56,-0.13,Tanzania
+p_bc18e1606ce06c98,Female,69,7.8,-1.93,-1.13,Tanzania
+p_be48a26ecd622c00,Male,69,8.6,-2.82,-1.04,Tanzania
+p_c021ab8b3f524066,Female,62,6.4,-4.65,-2.82,Tanzania
+p_c0eadbb6ea441c66,Female,70,7.5,-1.53,-1.45,Tanzania
+p_c0f6dc7a9657f0b9,Female,75.6,8.2,0.64,-0.71,Tanzania
+p_c13741dc69f1b23e,Female,66.6,8,-2.86,-0.91,Tanzania
+p_c18d2197b6fc603b,Female,69,7.7,-1.94,-1.24,Tanzania
+p_c1dd98ffeea47ee6,Female,69,9,-1.92,0.06,Tanzania
+p_c3a3d13f90e6fab5,Female,71.8,6.8,-0.83,-2.28,Tanzania
+p_c48b8ec8541e9717,Male,72,8.8,-1.54,-0.82,Tanzania
+p_c544e782acdc3f11,Male,69,8.6,-2.82,-1.04,Tanzania
+p_c68cf94fc2c798a5,Female,68.4,6.6,-2.19,-2.56,Tanzania
+p_cb15968fce93de3e,Female,69.2,8.9,-1.84,-0.03,Tanzania
+p_cb54e41064213dfd,Male,72.3,10.8,-1.45,1.04,Tanzania
+p_cbfac0bf691e6c4d,Female,71,7.3,-1.15,-1.69,Tanzania
+p_cc288f19887dd938,Male,69.2,8.2,-2.74,-1.47,Tanzania
+p_cc81367a40d9a814,Male,70,NA,-2.42,NA,Tanzania
+p_d24c9ca96fdab7ba,Female,66,8,-3.12,-0.93,Tanzania
+p_d479a7d4a9294495,Female,67.2,7.8,-2.64,-1.13,Tanzania
+p_d4db33d32d1b98f8,Male,72.2,9,-1.47,-0.63,Tanzania
+p_d648418d4b20753e,Male,70,8.4,-2.4,-1.25,Tanzania
+p_d6f2ca4664ee88bb,Male,74.6,9.5,-0.48,-0.14,Tanzania
+p_d86ab08833ba16a7,Female,75.2,11.3,0.48,1.87,Tanzania
+p_d8d864b9dfcd6522,Male,71,8,-1.96,-1.69,Tanzania
+p_d928e4e35f202be3,Female,71,9.5,-1.18,0.48,Tanzania
+p_da5aaa778dec49cc,Female,72,9,-0.78,0.05,Tanzania
+p_dbee0bfac6c3f96d,Female,69,7.4,-1.93,-1.57,Tanzania
+p_dcee026ca817ec79,Male,66,8,-4.07,-1.69,Tanzania
+p_dd3ad705a2263ed2,Female,68,9.5,-2.32,0.49,Tanzania
+p_e00dbc59ba9034af,Female,67.2,8.2,-2.63,-0.71,Tanzania
+p_e1b98d4167514f2b,Male,72.4,9.4,-1.41,-0.24,Tanzania
+p_e1d69417b6d40242,Female,71,9.5,-1.17,0.49,Tanzania
+p_e568c08cef6cdbbf,Male,73,9.9,-1.14,0.25,Tanzania
+p_e57e41eefff8e60a,Male,69.4,7.2,-2.65,-2.64,Tanzania
+p_e674020cd804a8aa,Male,70,7.4,-2.42,-2.41,Tanzania
+p_e7419e227ffa0337,Female,63.4,6.5,-4.11,-2.68,Tanzania
+p_e8dd75eb569b1578,Male,72.2,9.1,-1.49,-0.53,Tanzania
+p_e9622a1dc371e641,Male,74,9,-0.8,-0.66,Tanzania
+p_ea1a8216d4797ce7,Female,70,8.4,-1.56,-0.52,Tanzania
+p_ead1a877795a865f,Female,69.6,8.9,-1.68,-0.03,Tanzania
+p_eae57d6ca927dba4,Female,72,7.8,-0.79,-1.14,Tanzania
+p_ede6844176d1ab3e,Female,68,7.8,-2.3,-1.12,Tanzania
+p_eed2a553c13a7779,Female,65.4,7,-3.32,-2.04,Tanzania
+p_f0a327e59b448b15,Male,67,8.2,-3.66,-1.47,Tanzania
+p_f146a4ba8aa25f34,Male,70,9.8,-2.39,0.16,Tanzania
+p_f1bc31b04630ee48,Female,72.2,8.4,-0.67,-0.5,Tanzania
+p_f272803b16ce90f0,Female,72,9.5,-0.75,0.5,Tanzania
+p_f291bbf4160bcbb5,Female,69,7.7,-1.97,-1.26,Tanzania
+p_f3e8e7da045fa41d,Female,64,5.6,-3.86,-3.86,Tanzania
+p_f54ca7df15c30e95,Male,69,8.2,-2.88,-1.5,Tanzania
+p_f620beb7831604e9,Female,70,9.5,-1.53,0.5,Tanzania
+p_f6263413e343b52c,Female,73,9.1,-0.41,0.13,Tanzania
+p_f85b352663a956ba,Male,65,7,-4.51,-2.9,Tanzania
+p_f9a3df58f8c194d3,Female,70,9.6,-1.57,0.56,Tanzania
+p_fa564325d3547c8b,Male,68,9.1,-3.26,-0.53,Tanzania
+p_fab5d1393644e68a,Male,73,9.2,-1.18,-0.45,Tanzania
+p_fc16acf1d189132e,Male,70,9,-2.39,-0.62,Tanzania
+p_fe7a0f7fceca02f4,Male,72,10,-1.62,0.31,Tanzania
+1,Male,79,14.5,1.35,3.84,United States
+2,Male,73,8.4,-1.17,-1.27,United States
+7,Male,79,12.6,1.35,2.46,United States
+8,Male,81,11.3,2.2,1.45,United States
+9,Female,77,10.7,1.15,1.43,United States
+11,Male,78,9,0.93,-0.64,United States
+13,Male,79,11.5,1.35,1.61,United States
+14,Male,71,9.3,-2.01,-0.34,United States
+15,Male,70,9.2,-2.43,-0.44,United States
+16,Male,75,10.5,-0.33,0.77,United States
+17,Female,77,10.1,1.15,0.97,United States
+18,Female,73,10.1,-0.41,0.97,United States
+19,Male,81,11.9,2.2,1.93,United States
+21,Female,76,11.2,0.76,1.78,United States
+22,Male,75,10.3,-0.33,0.59,United States
+23,Male,75,9.8,-0.33,0.14,United States
+24,Male,79,11.9,1.35,1.93,United States
+25,Male,77,11.5,0.51,1.61,United States
+26,Female,76,11.1,0.76,1.71,United States
+29,Male,78,10.5,0.93,0.77,United States
+30,Female,76,11,0.76,1.64,United States
+31,Male,78,10.4,0.93,0.68,United States
+32,Male,78,10.9,0.93,1.12,United States
+33,Female,77,10.3,1.15,1.13,United States
+34,Female,72,9.9,-0.79,0.81,United States
+35,Male,71,9,-2.01,-0.64,United States
+36,Female,74,8.8,-0.02,-0.14,United States
+37,Male,76,13.6,0.09,3.18,United States
+38,Female,74,10,-0.02,0.89,United States
+39,Female,74,10,-0.02,0.89,United States
+40,Female,71,10.2,-1.18,1.05,United States
+41,Male,NA,13.2,NA,2.89,United States
+42,Female,78,10.9,1.54,1.57,United States
+43,Male,78,9.6,0.93,-0.05,United States
+44,Female,75,11.3,0.37,1.85,United States
+45,Female,75,9.8,0.37,0.73,United States
+46,Male,76,10,0.09,0.32,United States
+47,Female,70,9.3,-1.57,0.31,United States
+48,Male,77,10,0.51,0.32,United States
+49,Female,77,10.7,1.15,1.43,United States
+50,Male,75,9.2,-0.33,-0.44,United States
+51,Female,75,9.2,0.37,0.22,United States
+52,Male,75,9.9,-0.33,0.23,United States
+53,Male,77,10,0.51,0.32,United States
+54,Female,73,9.1,-0.41,0.13,United States
+56,Female,74,8.8,-0.02,-0.14,United States
+57,Female,77,10.1,1.15,0.97,United States
+58,Female,76,10.4,0.76,1.2,United States
+59,Female,73,8.8,-0.41,-0.14,United States
+61,Male,79,11.5,1.35,1.61,United States
+62,Male,76,9.2,0.09,-0.44,United States
+63,Male,71,9.5,-2.01,-0.15,United States
+64,Female,72,9.8,-0.79,0.73,United States
+65,Female,77,10.9,1.15,1.57,United States
+67,Female,75,10.6,0.37,1.35,United States
+70,Male,79,11.9,1.35,1.93,United States
+71,Male,73,9.3,-1.17,-0.34,United States
+73,Female,77,10.6,1.15,1.35,United States
+74,Male,78,10.7,0.93,0.95,United States
+75,Female,75,8.8,0.37,-0.14,United States
+76,Male,79,12.4,1.35,2.31,United States
+77,Male,89,13.7,5.56,3.26,United States
+78,Male,77,9.4,0.51,-0.24,United States
+79,Male,69,7.9,-2.85,-1.82,United States
+80,Male,67,7.8,-3.69,-1.94,United States
+81,Male,71,8.9,-2.01,-0.74,United States
+82,Male,78,9.9,0.93,0.23,United States
+83,Male,79,10.7,1.35,0.95,United States
+84,Female,72,8.4,-0.79,-0.52,United States
+85,Male,80,10,1.78,0.32,United States
+86,Male,80,11.6,1.78,1.69,United States
+87,Female,75,9.4,0.37,0.39,United States
+88,Female,81,10.5,2.7,1.28,United States
+89,Male,80,9.9,1.78,0.23,United States
+90,Female,76,9.8,0.76,0.73,United States
+91,Male,74,10.7,-0.75,0.95,United States
+92,Male,77,9.8,0.51,0.14,United States
+93,Male,77,11.4,0.51,1.53,United States
+94,Male,74,9.1,-0.75,-0.54,United States
+95,Male,76,9.8,0.09,0.14,United States
+96,Female,77,9.8,1.15,0.73,United States
+98,Male,80,11.1,1.78,1.28,United States
+99,Female,79,8.2,1.92,-0.72,United States
+102,Male,83,12.9,3.04,2.68,United States
+103,Female,72,9,-0.79,0.04,United States
+104,Male,76,10.7,0.09,0.95,United States
+105,Female,77,10.2,1.15,1.05,United States
+106,Male,76,10.5,0.09,0.77,United States
+107,Male,73,9.2,-1.17,-0.44,United States
+108,Female,72,10,-0.79,0.89,United States
+109,Male,76,9.8,0.09,0.14,United States
+110,Male,81,11.8,2.2,1.85,United States
+111,Female,80,11.1,2.31,1.71,United States
+113,Female,73,10.3,-0.41,1.13,United States
+114,Male,71,8.3,-2.01,-1.38,United States
+115,Female,70,8.7,-1.57,-0.23,United States
+116,Male,78,12,0.93,2.01,United States
+117,Male,76,9.5,0.09,-0.15,United States
+118,Male,74,9.9,-0.75,0.23,United States
+119,Female,71,10.4,-1.18,1.2,United States
+120,Female,74,10,-0.02,0.89,United States
+121,Male,76,9.3,0.09,-0.34,United States
+122,Male,73,10,-1.17,0.32,United States
+123,Female,80,11.8,2.31,2.19,United States
+124,Male,78,9.6,0.93,-0.05,United States
+125,Male,79,9.5,1.35,-0.15,United States
+126,Female,76,10.4,0.76,1.2,United States
+127,Female,77,11.3,1.15,1.85,United States
+128,Female,72,9.1,-0.79,0.13,United States
+129,Male,76,10.2,0.09,0.5,United States
+130,Female,75,9.8,0.37,0.73,United States
+131,Female,NA,10,NA,0.89,United States
+132,Female,74,10.5,-0.02,1.28,United States
+134,Male,79,11.1,1.35,1.28,United States
+135,Female,74,8.4,-0.02,-0.52,United States
+136,Male,76,9.7,0.09,0.04,United States
+137,Female,72,9.1,-0.79,0.13,United States
+138,Female,73,10.3,-0.41,1.13,United States
+139,Female,69,7.9,-1.96,-1.03,United States
+140,Female,76,9.4,0.76,0.39,United States
+142,Male,79,10.9,1.35,1.12,United States
+143,Male,79,11.7,1.35,1.77,United States
+144,Male,76,9.7,0.09,0.04,United States
+145,Female,76,9.4,0.76,0.39,United States
+146,Male,77,10,0.51,0.32,United States
+147,Male,79,10.3,1.35,0.59,United States
+148,Female,78,10.2,1.54,1.05,United States
+149,Female,75,9.1,0.37,0.13,United States
+150,Female,72,7.9,-0.79,-1.03,United States
+151,Female,71,8.8,-1.18,-0.14,United States
+154,Female,77,10.9,1.15,1.57,United States
+156,Female,74,9.9,-0.02,0.81,United States
+157,Female,70,8.2,-1.57,-0.72,United States
+158,Female,73,8.2,-0.41,-0.72,United States
+159,Female,79,12.1,1.92,2.38,United States
+160,Male,78,11.1,0.93,1.28,United States
+161,Male,77,9.9,0.51,0.23,United States
+162,Female,73,8.9,-0.41,-0.05,United States
+163,Male,76,9.2,0.09,-0.44,United States
+164,Female,77,9.2,1.15,0.22,United States
+165,Male,73,10,-1.17,0.32,United States
+166,Male,77,11,0.51,1.2,United States
+167,Male,74,9.8,-0.75,0.14,United States
+169,Male,72,9.6,-1.59,-0.05,United States
+170,Female,73,9.8,-0.41,0.73,United States
+171,Male,71,8.4,-2.01,-1.27,United States
+172,Female,75,10.3,0.37,1.13,United States
+173,Female,76,11.7,0.76,2.12,United States
+174,Male,71,10,-2.01,0.32,United States
+176,Female,73,9.1,-0.41,0.13,United States
+177,Female,74,8.4,-0.02,-0.52,United States
+178,Male,79,11.4,1.35,1.53,United States
+179,Male,72,8.9,-1.59,-0.74,United States
+180,Female,76,12.8,0.76,2.81,United States
+183,Male,75,10.8,-0.33,1.03,United States
+184,Male,77,10,0.51,0.32,United States
+185,Female,80,12,2.31,2.32,United States
+187,Male,75,10.1,-0.33,0.41,United States
+188,Female,79,11.1,1.92,1.71,United States
+189,Female,78,11.3,1.54,1.85,United States
+190,Female,74,9.9,-0.02,0.81,United States
+191,Male,77,10.7,0.51,0.95,United States
+192,Female,71,9.3,-1.18,0.31,United States
+193,Male,76,9.9,0.09,0.23,United States
+194,Female,75,9.8,0.37,0.73,United States
+196,Male,74,9.3,-0.75,-0.34,United States
+197,Male,77,9.9,0.51,0.23,United States
+198,Female,71,8.6,-1.18,-0.33,United States
+199,Male,73,10.1,-1.17,0.41,United States
+200,Male,74,10.8,-0.75,1.03,United States
+201,Female,73,10.9,-0.41,1.57,United States
+202,Male,78,11,0.93,1.2,United States
+203,Female,78,12,1.54,2.32,United States
+205,Female,72,9.6,-0.79,0.56,United States
+206,Male,75,9,-0.33,-0.64,United States
+207,Male,77,11,0.51,1.2,United States
+208,Male,71,9.2,-2.01,-0.44,United States
+209,Male,78,11.7,0.93,1.77,United States
+210,Male,76,11.3,0.09,1.45,United States
+211,Female,76,10.7,0.76,1.43,United States
+212,Female,74,9.2,-0.02,0.22,United States
+213,Male,78,10.7,0.93,0.95,United States
+214,Female,76,10.2,0.76,1.05,United States
+215,Female,72,8.2,-0.79,-0.72,United States
+216,Male,74,10.9,-0.75,1.12,United States
+217,Male,77,9.4,0.51,-0.24,United States
+218,Male,80,11.1,1.78,1.28,United States
+219,Male,75,11.3,-0.33,1.45,United States
+220,Male,75,10.4,-0.33,0.68,United States
+221,Female,75,10.3,0.37,1.13,United States
+222,Male,76,11.7,0.09,1.77,United States
+223,Female,77,10.7,1.15,1.43,United States
+224,Female,72,9.7,-0.79,0.65,United States
+225,Female,78,9.1,1.54,0.13,United States
+226,Male,70,6.3,-2.43,-3.77,United States
+227,Female,71,7.6,-1.18,-1.36,United States
+228,Female,66,7.3,-3.12,-1.7,United States
+229,Female,71,8.8,-1.18,-0.14,United States
+231,Female,76,10.3,0.76,1.13,United States
+232,Female,73,11,-0.41,1.64,United States
+234,Male,76,10.7,0.09,0.95,United States
+235,Male,73,10.6,-1.17,0.86,United States
+236,Male,79,9.6,1.35,-0.05,United States
+237,Female,73,8.7,-0.41,-0.23,United States
+238,Male,77,9.5,0.51,-0.15,United States
+239,Male,77,9.7,0.51,0.04,United States
+240,Female,72,8.2,-0.79,-0.72,United States
+241,Male,73,9.6,-1.17,-0.05,United States
+242,Female,76,10.6,0.76,1.35,United States
+243,Male,78,11.4,0.93,1.53,United States
+244,Female,74,10.9,-0.02,1.57,United States
+245,Male,78,11,0.93,1.2,United States
+247,Male,77,11,0.51,1.2,United States
+248,Male,76,9.4,0.09,-0.24,United States
+249,Male,79,9.8,1.35,0.14,United States
+251,Female,73,8.3,-0.41,-0.62,United States
+252,Female,68,7.5,-2.35,-1.47,United States
+253,Female,73,10.9,-0.41,1.57,United States
+254,Female,74,9.7,-0.02,0.65,United States
+255,Male,77,10.3,0.51,0.59,United States
+256,Female,76,11.5,0.76,1.99,United States
+258,Female,71,10.5,-1.18,1.28,United States
+259,Female,77,9.6,1.15,0.56,United States
+260,Female,72,8.6,-0.79,-0.33,United States
+261,Female,71,8.2,-1.18,-0.72,United States
+262,Male,72,9.6,-1.59,-0.05,United States
+263,Female,72,8.7,-0.79,-0.23,United States
+264,Female,75,9.9,0.37,0.81,United States
+266,Female,74,10.2,-0.02,1.05,United States
+268,Female,70,9.8,-1.57,0.73,United States
+269,Male,75,9.9,-0.33,0.23,United States
+270,Male,72,9.9,-1.59,0.23,United States
+271,Male,71,9.8,-2.01,0.14,United States
+272,Male,77,9.5,0.51,-0.15,United States
+273,Male,82,10.3,2.62,0.59,United States
+274,Male,81,10.9,2.2,1.12,United States
+277,Female,74,9.7,-0.02,0.65,United States
+278,Female,76,10,0.76,0.89,United States
+279,Male,79,11.3,1.35,1.45,United States
+280,Female,70,10,-1.57,0.89,United States
+281,Female,76,9.5,0.76,0.48,United States
+282,Female,NA,15,NA,4.16,United States
+284,Female,76,9.4,0.76,0.39,United States
+288,Female,73,10,-0.41,0.89,United States
+289,Female,75,8.7,0.37,-0.23,United States
+290,Male,74,8.7,-0.75,-0.95,United States
+291,Female,81,11.8,2.7,2.19,United States
+292,Female,74,8.8,-0.02,-0.14,United States
+293,Female,77,10.8,1.15,1.5,United States
+294,Male,84,13.8,3.46,3.33,United States
+295,Male,75,10.2,-0.33,0.5,United States
+296,Male,78,13.8,0.93,3.33,United States
+297,Female,81,12.9,2.7,2.87,United States
+298,Male,70,8.3,-2.43,-1.38,United States
+299,Female,81,11.6,2.7,2.06,United States
+304,Male,78,10.1,0.93,0.41,United States
+306,Female,77,9.2,1.15,0.22,United States
+307,Male,78,10.4,0.93,0.68,United States
+308,Female,74,9.2,-0.02,0.22,United States
+309,Male,76,8.5,0.09,-1.16,United States
+310,Female,74,7.8,-0.02,-1.14,United States
+311,Female,73,10.3,-0.41,1.13,United States
+313,Female,73,9.2,-0.41,0.22,United States
+314,Male,76,9.9,0.09,0.23,United States
+315,Female,73,8.5,-0.41,-0.43,United States
+316,Male,77,10,0.51,0.32,United States
+318,Female,75,9.6,0.37,0.56,United States
+322,Male,74,10.1,-0.75,0.41,United States
+323,Female,70,8.6,-1.57,-0.33,United States
+324,Female,76,11,0.76,1.64,United States
+325,Female,75,9.1,0.37,0.13,United States
+327,Female,75,11.9,0.37,2.25,United States
+328,Male,77,10.8,0.51,1.03,United States
+329,Male,76,10.1,0.09,0.41,United States
+330,Female,73,8.7,-0.41,-0.23,United States
+331,Female,79,10.1,1.92,0.97,United States
+332,Female,73,9.8,-0.41,0.73,United States
+333,Female,74,8.6,-0.02,-0.33,United States
+334,Female,68,8.3,-2.35,-0.62,United States
+335,Male,76,10.9,0.09,1.12,United States
+336,Female,72,9.6,-0.79,0.56,United States
+337,Male,78,11.5,0.93,1.61,United States
+340,Male,76,10.3,0.09,0.59,United States
+341,Male,75,9.7,-0.33,0.04,United States
+342,Male,79,10.7,1.35,0.95,United States
+343,Male,76,10.3,0.09,0.59,United States
+344,Male,81,14.6,2.2,3.92,United States
+345,Female,77,11,1.15,1.64,United States
+346,Male,77,10.9,0.51,1.12,United States
+347,Female,80,11.4,2.31,1.92,United States
+348,Female,75,8.8,0.37,-0.14,United States
+349,Female,75,9.7,0.37,0.65,United States
+350,Female,75,9.1,0.37,0.13,United States
+351,Female,76,11.6,0.76,2.06,United States
+352,Male,75,9.6,-0.33,-0.05,United States
+353,Female,74,9.4,-0.02,0.39,United States
+355,Female,77,11,1.15,1.64,United States
+356,Female,75,10.8,0.37,1.5,United States
+357,Male,73,10.3,-1.17,0.59,United States
+358,Male,77,10.8,0.51,1.03,United States
+359,Male,76,11.2,0.09,1.37,United States
+360,Female,74,9.7,-0.02,0.65,United States
+361,Male,78,10.5,0.93,0.77,United States
+362,Male,80,11.2,1.78,1.37,United States
+363,Male,77,10.4,0.51,0.68,United States
+364,Male,78,10.5,0.93,0.77,United States
+365,Male,75,9.5,-0.33,-0.15,United States
+366,Female,74,10.1,-0.02,0.97,United States
+367,Male,78,10.4,0.93,0.68,United States
+369,Male,80,12.9,1.78,2.68,United States
+370,Female,77,10.5,1.15,1.28,United States
+371,Female,72,9.2,-0.79,0.22,United States
+372,Female,69,7.6,-1.96,-1.36,United States
+374,Female,77,10.2,1.15,1.05,United States
+375,Male,75,10.4,-0.33,0.68,United States
+376,Female,73,8.8,-0.41,-0.14,United States
+377,Male,77,10.1,0.51,0.41,United States
+378,Female,73,10.9,-0.41,1.57,United States
+379,Female,73,8.5,-0.41,-0.43,United States
+380,Male,74,10.7,-0.75,0.95,United States
+381,Female,73,7.5,-0.41,-1.47,United States
+382,Male,71,8.8,-2.01,-0.84,United States
+383,Male,79,11.1,1.35,1.28,United States
+384,Male,74,9.6,-0.75,-0.05,United States
+385,Male,76,10.2,0.09,0.5,United States
+386,Male,74,9.5,-0.75,-0.15,United States
+388,Female,77,10.4,1.15,1.2,United States
+389,Male,81,12.7,2.2,2.53,United States
+390,Male,79,11.3,1.35,1.45,United States
+391,Female,76,11.7,0.76,2.12,United States
+392,Male,79,10.6,1.35,0.86,United States
+393,Male,74,9.8,-0.75,0.14,United States
+394,Female,73,7.7,-0.41,-1.25,United States
+395,Female,76,9.9,0.76,0.81,United States
+396,Male,73,10.6,-1.17,0.86,United States
+397,Male,79,10.6,1.35,0.86,United States
+398,Female,79,9.3,1.92,0.31,United States
+399,Female,77,9.3,1.15,0.31,United States
+400,Male,79,9.1,1.35,-0.54,United States
+401,Female,74,9.4,-0.02,0.39,United States
+402,Male,75,10.1,-0.33,0.41,United States
+403,Female,79,13.1,1.92,2.99,United States
+404,Female,76,11.9,0.76,2.25,United States
+405,Male,81,11.5,2.2,1.61,United States
+406,Male,74,10,-0.75,0.32,United States
+407,Male,79,10.2,1.35,0.5,United States
+408,Male,82,11.4,2.62,1.53,United States
+409,Female,74,9.6,-0.02,0.56,United States
+410,Male,72,8.8,-1.59,-0.84,United States
+411,Male,78,9.8,0.93,0.14,United States
+412,Female,71,10.2,-1.18,1.05,United States
+413,Male,76,10,0.09,0.32,United States
+414,Female,78,9.3,1.54,0.31,United States
+415,Male,79,10.8,1.35,1.03,United States
+416,Male,77,11.5,0.51,1.61,United States
+417,Male,77,11.9,0.51,1.93,United States
+418,Female,72,9.6,-0.79,0.56,United States
+420,Male,76,10.3,0.09,0.59,United States
+421,Female,68,9,-2.35,0.04,United States
+422,Female,68,9.1,-2.35,0.13,United States
+423,Female,74,9.1,-0.02,0.13,United States
+424,Female,74,9.8,-0.02,0.73,United States
+425,Female,77,9.4,1.15,0.39,United States
+426,Male,75,9.6,-0.33,-0.05,United States
+428,Male,71,8.7,-2.01,-0.95,United States
+430,Male,78,12,0.93,2.01,United States
+432,Male,81,12,2.2,2.01,United States
+433,Male,76,10,0.09,0.32,United States
+434,Female,76,8.9,0.76,-0.05,United States
+435,Male,78,11.5,0.93,1.61,United States
+436,Male,75,10.1,-0.33,0.41,United States
+437,Female,70,8.2,-1.57,-0.72,United States
+438,Female,77,10.5,1.15,1.28,United States
+439,Male,76,10.2,0.09,0.5,United States
+440,Female,75,11,0.37,1.64,United States
+441,Male,77,9.8,0.51,0.14,United States
+443,Female,80,10.4,2.31,1.2,United States
+445,Female,75,9.1,0.37,0.13,United States
+446,Female,73,9.1,-0.41,0.13,United States
+447,Female,73,8.9,-0.41,-0.05,United States
+449,Male,81,12.8,2.2,2.61,United States
+450,Male,78,12.2,0.93,2.16,United States
+451,Male,72,10.5,-1.59,0.77,United States
+453,Male,74,10.5,-0.75,0.77,United States
+454,Male,71,9.4,-2.01,-0.24,United States
+455,Male,72,9.8,-1.59,0.14,United States
+456,Male,79,10.5,1.35,0.77,United States
+457,Female,73,10.4,-0.41,1.2,United States
+458,Male,74,10.7,-0.75,0.95,United States
+459,Female,72,10.1,-0.79,0.97,United States
+460,Male,78,10.7,0.93,0.95,United States
+461,Female,73,8.8,-0.41,-0.14,United States
+463,Female,74,8.3,-0.02,-0.62,United States
+464,Female,76,10,0.76,0.89,United States
+465,Female,70,9.4,-1.57,0.39,United States
+467,Female,71,8.5,-1.18,-0.43,United States
+468,Female,74,9.1,-0.02,0.13,United States
+469,Female,74,9.8,-0.02,0.73,United States
+470,Male,77,11.1,0.51,1.28,United States
+471,Male,76,12,0.09,2.01,United States
+472,Female,65,12.2,-3.51,2.44,United States
+473,Male,76,10.7,0.09,0.95,United States
+474,Male,74,10.5,-0.75,0.77,United States
+475,Male,77,11.9,0.51,1.93,United States
+476,Female,75,8.4,0.37,-0.52,United States
+477,Male,78,11.2,0.93,1.37,United States
+478,Male,80,11.3,1.78,1.45,United States
+479,Male,78,11.3,0.93,1.45,United States
+480,Female,77,11.9,1.15,2.25,United States
+481,Female,71,9.2,-1.18,0.22,United States
+482,Male,74,10,-0.75,0.32,United States
+483,Female,74,9.9,-0.02,0.81,United States
+484,Male,81,10.9,2.2,1.12,United States
+485,Female,76,10.4,0.76,1.2,United States
+486,Male,75,9.6,-0.33,-0.05,United States
+487,Female,77,9.7,1.15,0.65,United States
+488,Female,75,8.8,0.37,-0.14,United States
+489,Male,74,9.7,-0.75,0.04,United States
+490,Female,74,10,-0.02,0.89,United States
+491,Male,76,11.5,0.09,1.61,United States
+492,Male,78,12.2,0.93,2.16,United States
+493,Female,79,10.1,1.92,0.97,United States
+494,Female,80,11,2.31,1.64,United States
+496,Male,74,11.2,-0.75,1.37,United States
+498,Female,79,11.5,1.92,1.99,United States
+499,Male,78,12,0.93,2.01,United States
+500,Female,77,10.9,1.15,1.57,United States
+501,Male,77,9.7,0.51,0.04,United States

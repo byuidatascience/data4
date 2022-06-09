@@ -1,0 +1,581 @@
+country,region,candidate,number,first,last
+US,Alabama,Obama,813479,8,9
+US,Alabama,McCain,1266546,1,6
+US,Alabama,Nader,6788,6,8
+US,Alabama,Barr,4991,4,1
+US,Alabama,Baldwin,4310,4,0
+US,Alabama,Others votes,3705,3,5
+US,Alaska,Obama,123594,1,4
+US,Alaska,McCain,193841,1,1
+US,Alaska,Nader,3783,3,3
+US,Alaska,Barr,1589,1,9
+US,Alaska,Baldwin,1660,1,0
+US,Alaska,Others votes,1730,1,0
+US,Arizona,Obama,1034707,1,7
+US,Arizona,McCain,1230111,1,1
+US,Arizona,Nader,11301,1,1
+US,Arizona,Barr,12555,1,5
+US,Arizona,Baldwin,1371,1,1
+US,Arizona,McKinney,3406,3,6
+US,Arizona,Others votes,24,2,4
+US,Arkansas,Obama,422310,4,0
+US,Arkansas,McCain,638017,6,7
+US,Arkansas,Nader,12882,1,2
+US,Arkansas,Barr,4776,4,6
+US,Arkansas,Baldwin,4023,4,3
+US,Arkansas,McKinney,3470,3,0
+US,Arkansas,Others votes,1139,1,9
+US,California,Obama,8274473,8,3
+US,California,McCain,5011781,5,1
+US,California,Nader,108381,1,1
+US,California,Barr,67582,6,2
+US,California,Baldwin,3145,3,5
+US,California,McKinney,38774,3,4
+US,California,Others votes,57764,5,4
+US,Colorado,Obama,1288576,1,6
+US,Colorado,McCain,1073589,1,9
+US,Colorado,Nader,13350,1,0
+US,Colorado,Barr,10897,1,7
+US,Colorado,Baldwin,6233,6,3
+US,Colorado,McKinney,2822,2,2
+US,Colorado,Others votes,5894,5,4
+US,Connecticut,Obama,997772,9,2
+US,Connecticut,McCain,629428,6,8
+US,Connecticut,Nader,19162,1,2
+US,Connecticut,Baldwin,311,3,1
+US,Connecticut,McKinney,90,9,0
+US,Connecticut,Others votes,29,2,9
+US,Delaware,Obama,255459,2,9
+US,Delaware,McCain,152374,1,4
+US,Delaware,Nader,2401,2,1
+US,Delaware,Barr,1109,1,9
+US,Delaware,Baldwin,626,6,6
+US,Delaware,McKinney,385,3,5
+US,Delaware,Others votes,58,5,8
+US,District of Columbia,Obama,245800,2,0
+US,District of Columbia,McCain,17367,1,7
+US,District of Columbia,Nader,958,9,8
+US,District of Columbia,McKinney,590,5,0
+US,District of Columbia,Others votes,1138,1,8
+US,Florida,Obama,4282074,4,4
+US,Florida,McCain,4045624,4,4
+US,Florida,Nader,28124,2,4
+US,Florida,Barr,17218,1,8
+US,Florida,Baldwin,7915,7,5
+US,Florida,McKinney,2887,2,7
+US,Florida,Others votes,6902,6,2
+US,Georgia,Obama,1844123,1,3
+US,Georgia,McCain,2048759,2,9
+US,Georgia,Nader,1158,1,8
+US,Georgia,Barr,28731,2,1
+US,Georgia,Baldwin,1402,1,2
+US,Georgia,McKinney,250,2,0
+US,Georgia,Others votes,63,6,3
+US,Hawaii,Obama,325871,3,1
+US,Hawaii,McCain,120566,1,6
+US,Hawaii,Nader,3825,3,5
+US,Hawaii,Barr,1314,1,4
+US,Hawaii,Baldwin,1013,1,3
+US,Hawaii,McKinney,979,9,9
+US,Idaho,Obama,236440,2,0
+US,Idaho,McCain,403012,4,2
+US,Idaho,Nader,7175,7,5
+US,Idaho,Barr,3658,3,8
+US,Idaho,Baldwin,4747,4,7
+US,Illinois,Obama,3419348,3,8
+US,Illinois,McCain,2031179,2,9
+US,Illinois,Nader,30948,3,8
+US,Illinois,Barr,19642,1,2
+US,Illinois,Baldwin,8256,8,6
+US,Illinois,McKinney,11838,1,8
+US,Illinois,Others votes,1160,1,0
+US,Indiana,Obama,1374039,1,9
+US,Indiana,McCain,1345648,1,8
+US,Indiana,Nader,909,9,9
+US,Indiana,Barr,29257,2,7
+US,Indiana,Baldwin,1024,1,4
+US,Indiana,McKinney,87,8,7
+US,Indiana,Others votes,90,9,0
+US,Iowa,Obama,828940,8,0
+US,Iowa,McCain,682379,6,9
+US,Iowa,Nader,8014,8,4
+US,Iowa,Barr,4590,4,0
+US,Iowa,Baldwin,4445,4,5
+US,Iowa,McKinney,1423,1,3
+US,Iowa,Others votes,7332,7,2
+US,Kansas,Obama,514765,5,5
+US,Kansas,McCain,699655,6,5
+US,Kansas,Nader,10527,1,7
+US,Kansas,Barr,6706,6,6
+US,Kansas,Baldwin,4148,4,8
+US,Kansas,McKinney,35,3,5
+US,Kansas,Others votes,36,3,6
+US,Kentucky,Obama,751985,7,5
+US,Kentucky,McCain,1048462,1,2
+US,Kentucky,Nader,15378,1,8
+US,Kentucky,Barr,5989,5,9
+US,Kentucky,Baldwin,4694,4,4
+US,Louisiana,Obama,782989,7,9
+US,Louisiana,McCain,1148275,1,5
+US,Louisiana,Nader,6997,6,7
+US,Louisiana,Baldwin,2581,2,1
+US,Louisiana,McKinney,9187,9,7
+US,Louisiana,Others votes,10732,1,2
+US,ME 1st Dist.,Obama,232145,2,5
+US,ME 1st Dist.,McCain,144604,1,4
+US,ME 1st Dist.,Nader,5263,5,3
+US,ME 1st Dist.,McKinney,1362,1,2
+US,ME 1st Dist.,Others votes,252,2,2
+US,ME 2nd Dist.,Obama,189778,1,8
+US,ME 2nd Dist.,McCain,150669,1,9
+US,ME 2nd Dist.,Nader,5373,5,3
+US,ME 2nd Dist.,McKinney,1538,1,8
+US,ME 2nd Dist.,Others votes,179,1,9
+US,Maryland,Obama,1629467,1,7
+US,Maryland,McCain,959862,9,2
+US,Maryland,Nader,14713,1,3
+US,Maryland,Barr,9842,9,2
+US,Maryland,Baldwin,3760,3,0
+US,Maryland,McKinney,4747,4,7
+US,Maryland,Others votes,9205,9,5
+US,Massachusetts,Obama,1904097,1,7
+US,Massachusetts,McCain,1108854,1,4
+US,Massachusetts,Nader,28841,2,1
+US,Massachusetts,Barr,13189,1,9
+US,Massachusetts,Baldwin,4971,4,1
+US,Massachusetts,McKinney,6550,6,0
+US,Massachusetts,Others votes,14483,1,3
+US,Michigan,Obama,2872579,2,9
+US,Michigan,McCain,2048639,2,9
+US,Michigan,Nader,33085,3,5
+US,Michigan,Barr,23716,2,6
+US,Michigan,Baldwin,14685,1,5
+US,Michigan,McKinney,8892,8,2
+US,Michigan,Others votes,170,1,0
+US,Minnesota,Obama,1573354,1,4
+US,Minnesota,McCain,1275409,1,9
+US,Minnesota,Nader,30152,3,2
+US,Minnesota,Barr,9174,9,4
+US,Minnesota,Baldwin,6787,6,7
+US,Minnesota,McKinney,5174,5,4
+US,Minnesota,Others votes,10319,1,9
+US,Mississippi,Obama,554662,5,2
+US,Mississippi,McCain,724597,7,7
+US,Mississippi,Nader,4011,4,1
+US,Mississippi,Barr,2529,2,9
+US,Mississippi,Baldwin,2551,2,1
+US,Mississippi,McKinney,1034,1,4
+US,Mississippi,Others votes,481,4,1
+US,Missouri,Obama,1441911,1,1
+US,Missouri,McCain,1445814,1,4
+US,Missouri,Nader,17813,1,3
+US,Missouri,Barr,11386,1,6
+US,Missouri,Baldwin,8201,8,1
+US,Missouri,McKinney,80,8,0
+US,Montana,Obama,231667,2,7
+US,Montana,McCain,242763,2,3
+US,Montana,Nader,3686,3,6
+US,Montana,Barr,1355,1,5
+US,Montana,Baldwin,143,1,3
+US,Montana,McKinney,23,2,3
+US,Montana,Others votes,10638,1,8
+US,NE 1st Dist.,Obama,121468,1,8
+US,NE 1st Dist.,McCain,148179,1,9
+US,NE 1st Dist.,Nader,1970,1,0
+US,NE 1st Dist.,Barr,929,9,9
+US,NE 1st Dist.,Baldwin,1019,1,9
+US,NE 1st Dist.,McKinney,393,3,3
+US,NE 2nd Dist.,Obama,138752,1,2
+US,NE 2nd Dist.,McCain,135439,1,9
+US,NE 2nd Dist.,Nader,1621,1,1
+US,NE 2nd Dist.,Barr,1007,1,7
+US,NE 2nd Dist.,Baldwin,604,6,4
+US,NE 2nd Dist.,McKinney,321,3,1
+US,NE 3rd Dist.,Obama,73099,7,9
+US,NE 3rd Dist.,McCain,169361,1,1
+US,NE 3rd Dist.,Nader,1815,1,5
+US,NE 3rd Dist.,Barr,804,8,4
+US,NE 3rd Dist.,Baldwin,1349,1,9
+US,NE 3rd Dist.,McKinney,314,3,4
+US,Nevada,Obama,533736,5,6
+US,Nevada,McCain,412827,4,7
+US,Nevada,Nader,6150,6,0
+US,Nevada,Barr,4263,4,3
+US,Nevada,Baldwin,3194,3,4
+US,Nevada,McKinney,1411,1,1
+US,Nevada,Others votes,6267,6,7
+US,New Hampshire,Obama,384826,3,6
+US,New Hampshire,McCain,316534,3,4
+US,New Hampshire,Nader,3503,3,3
+US,New Hampshire,Barr,2217,2,7
+US,New Hampshire,Baldwin,226,2,6
+US,New Hampshire,McKinney,40,4,0
+US,New Hampshire,Others votes,3624,3,4
+US,New Jersey,Obama,2215422,2,2
+US,New Jersey,McCain,1613207,1,7
+US,New Jersey,Nader,21298,2,8
+US,New Jersey,Barr,8441,8,1
+US,New Jersey,Baldwin,3956,3,6
+US,New Jersey,McKinney,3636,3,6
+US,New Jersey,Others votes,2277,2,7
+US,New Mexico,Obama,472422,4,2
+US,New Mexico,McCain,346832,3,2
+US,New Mexico,Nader,5327,5,7
+US,New Mexico,Barr,2428,2,8
+US,New Mexico,Baldwin,1597,1,7
+US,New Mexico,McKinney,1552,1,2
+US,New York,Obama,4804701,4,1
+US,New York,McCain,2752728,2,8
+US,New York,Nader,41248,4,8
+US,New York,Barr,19595,1,5
+US,New York,Baldwin,634,6,4
+US,New York,McKinney,12801,1,1
+US,New York,Others votes,8936,8,6
+US,North Carolina,Obama,2142651,2,1
+US,North Carolina,McCain,2128474,2,4
+US,North Carolina,Nader,1448,1,8
+US,North Carolina,Barr,25722,2,2
+US,North Carolina,McKinney,158,1,8
+US,North Carolina,Others votes,13942,1,2
+US,North Dakota,Obama,141278,1,8
+US,North Dakota,McCain,168601,1,1
+US,North Dakota,Nader,4189,4,9
+US,North Dakota,Barr,1354,1,4
+US,North Dakota,Baldwin,1199,1,9
+US,Ohio,Obama,2940044,2,4
+US,Ohio,McCain,2677820,2,0
+US,Ohio,Nader,42337,4,7
+US,Ohio,Barr,19917,1,7
+US,Ohio,Baldwin,12565,1,5
+US,Ohio,McKinney,8518,8,8
+US,Ohio,Others votes,7149,7,9
+US,Oklahoma,Obama,502496,5,6
+US,Oklahoma,McCain,960165,9,5
+US,Oregon,Obama,1037291,1,1
+US,Oregon,McCain,738475,7,5
+US,Oregon,Nader,18614,1,4
+US,Oregon,Barr,7635,7,5
+US,Oregon,Baldwin,7693,7,3
+US,Oregon,McKinney,4543,4,3
+US,Oregon,Others votes,13613,1,3
+US,Pennsylvania,Obama,3276363,3,3
+US,Pennsylvania,McCain,2655885,2,5
+US,Pennsylvania,Nader,42977,4,7
+US,Pennsylvania,Barr,19912,1,2
+US,Pennsylvania,Baldwin,1092,1,2
+US,Rhode Island,Obama,296571,2,1
+US,Rhode Island,McCain,165391,1,1
+US,Rhode Island,Nader,4829,4,9
+US,Rhode Island,Barr,1382,1,2
+US,Rhode Island,Baldwin,675,6,5
+US,Rhode Island,McKinney,797,7,7
+US,Rhode Island,Others votes,122,1,2
+US,South Carolina,Obama,862449,8,9
+US,South Carolina,McCain,1034896,1,6
+US,South Carolina,Nader,5053,5,3
+US,South Carolina,Barr,7283,7,3
+US,South Carolina,Baldwin,6827,6,7
+US,South Carolina,McKinney,4461,4,1
+US,South Dakota,Obama,170924,1,4
+US,South Dakota,McCain,203054,2,4
+US,South Dakota,Nader,4267,4,7
+US,South Dakota,Barr,1835,1,5
+US,South Dakota,Baldwin,1895,1,5
+US,Tennessee,Obama,1087437,1,7
+US,Tennessee,McCain,1479178,1,8
+US,Tennessee,Nader,11560,1,0
+US,Tennessee,Barr,8547,8,7
+US,Tennessee,Baldwin,8191,8,1
+US,Tennessee,McKinney,2499,2,9
+US,Tennessee,Others votes,2337,2,7
+US,Texas,Obama,3528633,3,3
+US,Texas,McCain,4479328,4,8
+US,Texas,Nader,5440,5,0
+US,Texas,Barr,56116,5,6
+US,Texas,Baldwin,5395,5,5
+US,Texas,McKinney,831,8,1
+US,Texas,Others votes,2781,2,1
+US,Utah,Obama,327670,3,0
+US,Utah,McCain,596030,5,0
+US,Utah,Nader,8416,8,6
+US,Utah,Barr,6966,6,6
+US,Utah,Baldwin,12012,1,2
+US,Utah,McKinney,982,9,2
+US,Utah,Others votes,294,2,4
+US,Vermont,Obama,219262,2,2
+US,Vermont,McCain,98974,9,4
+US,Vermont,Nader,3339,3,9
+US,Vermont,Barr,1067,1,7
+US,Vermont,Baldwin,500,5,0
+US,Vermont,McKinney,66,6,6
+US,Vermont,Others votes,1904,1,4
+US,Virginia,Obama,1959532,1,2
+US,Virginia,McCain,1725005,1,5
+US,Virginia,Nader,11483,1,3
+US,Virginia,Barr,11067,1,7
+US,Virginia,Baldwin,7474,7,4
+US,Virginia,McKinney,2344,2,4
+US,Virginia,Others votes,6355,6,5
+US,Washington,Obama,1750848,1,8
+US,Washington,McCain,1229216,1,6
+US,Washington,Nader,29489,2,9
+US,Washington,Barr,12728,1,8
+US,Washington,Baldwin,9432,9,2
+US,Washington,McKinney,3819,3,9
+US,Washington,Others votes,1346,1,6
+US,West Virginia,Obama,303857,3,7
+US,West Virginia,McCain,397466,3,6
+US,West Virginia,Nader,7219,7,9
+US,West Virginia,Baldwin,2465,2,5
+US,West Virginia,McKinney,2355,2,5
+US,West Virginia,Others votes,89,8,9
+US,Wisconsin,Obama,1677211,1,1
+US,Wisconsin,McCain,1262393,1,3
+US,Wisconsin,Nader,17605,1,5
+US,Wisconsin,Barr,8858,8,8
+US,Wisconsin,Baldwin,5072,5,2
+US,Wisconsin,McKinney,4216,4,6
+US,Wisconsin,Others votes,8062,8,2
+US,Wyoming,Obama,82868,8,8
+US,Wyoming,McCain,164958,1,8
+US,Wyoming,Nader,2525,2,5
+US,Wyoming,Barr,1594,1,4
+US,Wyoming,Baldwin,1192,1,2
+US,Wyoming,Others votes,1521,1,1
+Iran,East Azerbaijan,Ahmadinejad,1131111,1,1
+Iran,East Azerbaijan,Rezai,16920,1,0
+Iran,East Azerbaijan,Karrubi,7246,7,6
+Iran,East Azerbaijan,Mousavi,837858,8,8
+Iran,East Azerbaijan,Total votes,2010340,2,0
+Iran,East Azerbaijan,Invalid votes,17205,1,5
+Iran,East Azerbaijan,Valid votes,1993135,1,5
+Iran,East Azerbaijan,Eligible voters,2461553,2,3
+Iran,West Azerbaijan,Ahmadinejad,623946,6,6
+Iran,West Azerbaijan,Rezai,12199,1,9
+Iran,West Azerbaijan,Karrubi,21609,2,9
+Iran,West Azerbaijan,Mousavi,656508,6,8
+Iran,West Azerbaijan,Total votes,1334356,1,6
+Iran,West Azerbaijan,Invalid votes,20094,2,4
+Iran,West Azerbaijan,Valid votes,1314262,1,2
+Iran,West Azerbaijan,Eligible voters,1883144,1,4
+Iran,Ardabil,Ahmadinejad,325911,3,1
+Iran,Ardabil,Rezai,6578,6,8
+Iran,Ardabil,Karrubi,2319,2,9
+Iran,Ardabil,Mousavi,302825,3,5
+Iran,Ardabil,Total votes,642005,6,5
+Iran,Ardabil,Invalid votes,4372,4,2
+Iran,Ardabil,Valid votes,637633,6,3
+Iran,Ardabil,Eligible voters,804881,8,1
+Iran,Isfahan,Ahmadinejad,1799255,1,5
+Iran,Isfahan,Rezai,51788,5,8
+Iran,Isfahan,Karrubi,14579,1,9
+Iran,Isfahan,Mousavi,746697,7,7
+Iran,Isfahan,Total votes,2637482,2,2
+Iran,Isfahan,Invalid votes,25163,2,3
+Iran,Isfahan,Valid votes,2612319,2,9
+Iran,Isfahan,Eligible voters,2987946,2,6
+Iran,Ilam,Ahmadinejad,199654,1,4
+Iran,Ilam,Rezai,5221,5,1
+Iran,Ilam,Karrubi,7471,7,1
+Iran,Ilam,Mousavi,96826,9,6
+Iran,Ilam,Total votes,312667,3,7
+Iran,Ilam,Invalid votes,3495,3,5
+Iran,Ilam,Valid votes,309172,3,2
+Iran,Ilam,Eligible voters,357687,3,7
+Iran,Bushehr,Ahmadinejad,299357,2,7
+Iran,Bushehr,Rezai,7608,7,8
+Iran,Bushehr,Karrubi,3563,3,3
+Iran,Bushehr,Mousavi,177268,1,8
+Iran,Bushehr,Total votes,493989,4,9
+Iran,Bushehr,Invalid votes,6193,6,3
+Iran,Bushehr,Valid votes,487796,4,6
+Iran,Bushehr,Eligible voters,580822,5,2
+Iran,Tehran,Ahmadinejad,3819495,3,5
+Iran,Tehran,Rezai,147487,1,7
+Iran,Tehran,Karrubi,67334,6,4
+Iran,Tehran,Mousavi,3371523,3,3
+Iran,Tehran,Total votes,7521540,7,0
+Iran,Tehran,Invalid votes,115701,1,1
+Iran,Tehran,Valid votes,7405839,7,9
+Iran,Tehran,Eligible voters,8796466,8,6
+Iran,Chahar Mahaal and Bakhtiari,Ahmadinejad,359578,3,8
+Iran,Chahar Mahaal and Bakhtiari,Rezai,22689,2,9
+Iran,Chahar Mahaal and Bakhtiari,Karrubi,4127,4,7
+Iran,Chahar Mahaal and Bakhtiari,Mousavi,106099,1,9
+Iran,Chahar Mahaal and Bakhtiari,Total votes,495446,4,6
+Iran,Chahar Mahaal and Bakhtiari,Invalid votes,2953,2,3
+Iran,Chahar Mahaal and Bakhtiari,Valid votes,492493,4,3
+Iran,Chahar Mahaal and Bakhtiari,Eligible voters,562238,5,8
+Iran,South Khorasan,Ahmadinejad,285984,2,4
+Iran,South Khorasan,Rezai,3962,3,2
+Iran,South Khorasan,Karrubi,928,9,8
+Iran,South Khorasan,Mousavi,90363,9,3
+Iran,South Khorasan,Total votes,383157,3,7
+Iran,South Khorasan,Invalid votes,1920,1,0
+Iran,South Khorasan,Valid votes,381237,3,7
+Iran,Khorasan Razavi,Ahmadinejad,2214801,2,1
+Iran,Khorasan Razavi,Rezai,44809,4,9
+Iran,Khorasan Razavi,Karrubi,13561,1,1
+Iran,Khorasan Razavi,Mousavi,884570,8,0
+Iran,Khorasan Razavi,Total votes,3181990,3,0
+Iran,Khorasan Razavi,Invalid votes,24249,2,9
+Iran,Khorasan Razavi,Valid votes,3157741,3,1
+Iran,North Khorasan,Ahmadinejad,341104,3,4
+Iran,North Khorasan,Rezai,4129,4,9
+Iran,North Khorasan,Karrubi,2478,2,8
+Iran,North Khorasan,Mousavi,113218,1,8
+Iran,North Khorasan,Total votes,464001,4,1
+Iran,North Khorasan,Invalid votes,3072,3,2
+Iran,North Khorasan,Valid votes,460929,4,9
+Iran,Khuzestan,Ahmadinejad,1303129,1,9
+Iran,Khuzestan,Rezai,139124,1,4
+Iran,Khuzestan,Karrubi,15934,1,4
+Iran,Khuzestan,Mousavi,552636,5,6
+Iran,Khuzestan,Total votes,2038845,2,5
+Iran,Khuzestan,Invalid votes,28022,2,2
+Iran,Khuzestan,Valid votes,2010823,2,3
+Iran,Khuzestan,Eligible voters,2801644,2,4
+Iran,Zanjan,Ahmadinejad,444480,4,0
+Iran,Zanjan,Rezai,7276,7,6
+Iran,Zanjan,Karrubi,2223,2,3
+Iran,Zanjan,Mousavi,126561,1,1
+Iran,Zanjan,Total votes,585721,5,1
+Iran,Zanjan,Invalid votes,5181,5,1
+Iran,Zanjan,Valid votes,580540,5,0
+Iran,Zanjan,Eligible voters,632160,6,0
+Iran,Semnan,Ahmadinejad,295177,2,7
+Iran,Semnan,Rezai,4440,4,0
+Iran,Semnan,Karrubi,2147,2,7
+Iran,Semnan,Mousavi,77754,7,4
+Iran,Semnan,Total votes,383308,3,8
+Iran,Semnan,Invalid votes,3790,3,0
+Iran,Semnan,Valid votes,379518,3,8
+Iran,Semnan,Eligible voters,436492,4,2
+Iran,Sistan and Baluchestan,Ahmadinejad,450269,4,9
+Iran,Sistan and Baluchestan,Rezai,6616,6,6
+Iran,Sistan and Baluchestan,Karrubi,12504,1,4
+Iran,Sistan and Baluchestan,Mousavi,507946,5,6
+Iran,Sistan and Baluchestan,Total votes,982920,9,0
+Iran,Sistan and Baluchestan,Invalid votes,5585,5,5
+Iran,Sistan and Baluchestan,Valid votes,977335,9,5
+Iran,Sistan and Baluchestan,Eligible voters,1306624,1,4
+Iran,Fars,Ahmadinejad,1758026,1,6
+Iran,Fars,Rezai,23871,2,1
+Iran,Fars,Karrubi,16277,1,7
+Iran,Fars,Mousavi,706764,7,4
+Iran,Fars,Total votes,2523300,2,0
+Iran,Fars,Invalid votes,18362,1,2
+Iran,Fars,Valid votes,2504938,2,8
+Iran,Fars,Eligible voters,2842209,2,9
+Iran,Qazvin,Ahmadinejad,498061,4,1
+Iran,Qazvin,Rezai,7978,7,8
+Iran,Qazvin,Karrubi,2690,2,0
+Iran,Qazvin,Mousavi,177542,1,2
+Iran,Qazvin,Total votes,692355,6,5
+Iran,Qazvin,Invalid votes,6084,6,4
+Iran,Qazvin,Valid votes,686271,6,1
+Iran,Qazvin,Eligible voters,749205,7,5
+Iran,Qom,Ahmadinejad,422457,4,7
+Iran,Qom,Rezai,16297,1,7
+Iran,Qom,Karrubi,2314,2,4
+Iran,Qom,Mousavi,148467,1,7
+Iran,Qom,Total votes,599040,5,0
+Iran,Qom,Invalid votes,9505,9,5
+Iran,Qom,Valid votes,589535,5,5
+Iran,Qom,Eligible voters,655988,6,8
+Iran,Kurdistan,Ahmadinejad,315689,3,9
+Iran,Kurdistan,Rezai,7140,7,0
+Iran,Kurdistan,Karrubi,13862,1,2
+Iran,Kurdistan,Mousavi,261772,2,2
+Iran,Kurdistan,Total votes,610756,6,6
+Iran,Kurdistan,Invalid votes,12293,1,3
+Iran,Kurdistan,Valid votes,598463,5,3
+Iran,Kurdistan,Eligible voters,943818,9,8
+Iran,Kerman,Ahmadinejad,1160446,1,6
+Iran,Kerman,Rezai,12016,1,6
+Iran,Kerman,Karrubi,4977,4,7
+Iran,Kerman,Mousavi,318250,3,0
+Iran,Kerman,Total votes,1505814,1,4
+Iran,Kerman,Invalid votes,10125,1,5
+Iran,Kerman,Valid votes,1495689,1,9
+Iran,Kerman,Eligible voters,1738280,1,0
+Iran,Kermanshah,Ahmadinejad,573568,5,8
+Iran,Kermanshah,Rezai,11258,1,8
+Iran,Kermanshah,Karrubi,10798,1,8
+Iran,Kermanshah,Mousavi,374188,3,8
+Iran,Kermanshah,Total votes,983422,9,2
+Iran,Kermanshah,Invalid votes,13610,1,0
+Iran,Kermanshah,Valid votes,969812,9,2
+Iran,Kermanshah,Eligible voters,1231672,1,2
+Iran,Kohgiluyeh & Boyer-Ahmad,Ahmadinejad,253962,2,2
+Iran,Kohgiluyeh & Boyer-Ahmad,Rezai,8542,8,2
+Iran,Kohgiluyeh & Boyer-Ahmad,Karrubi,4274,4,4
+Iran,Kohgiluyeh & Boyer-Ahmad,Mousavi,98937,9,7
+Iran,Kohgiluyeh & Boyer-Ahmad,Total votes,368707,3,7
+Iran,Kohgiluyeh & Boyer-Ahmad,Invalid votes,2992,2,2
+Iran,Kohgiluyeh & Boyer-Ahmad,Valid votes,365715,3,5
+Iran,Kohgiluyeh & Boyer-Ahmad,Eligible voters,415694,4,4
+Iran,Golestan,Ahmadinejad,515211,5,1
+Iran,Golestan,Rezai,5987,5,7
+Iran,Golestan,Karrubi,10097,1,7
+Iran,Golestan,Mousavi,325806,3,6
+Iran,Golestan,Total votes,869453,8,3
+Iran,Golestan,Invalid votes,12352,1,2
+Iran,Golestan,Valid votes,857101,8,1
+Iran,Golestan,Eligible voters,1059769,1,9
+Iran,Gilan,Ahmadinejad,998573,9,3
+Iran,Gilan,Rezai,12022,1,2
+Iran,Gilan,Karrubi,7183,7,3
+Iran,Gilan,Mousavi,453806,4,6
+Iran,Gilan,Total votes,1483258,1,8
+Iran,Gilan,Invalid votes,11674,1,4
+Iran,Gilan,Valid votes,1471584,1,4
+Iran,Gilan,Eligible voters,1576046,1,6
+Iran,Lorestan,Ahmadinejad,677829,6,9
+Iran,Lorestan,Rezai,14920,1,0
+Iran,Lorestan,Karrubi,44036,4,6
+Iran,Lorestan,Mousavi,219156,2,6
+Iran,Lorestan,Total votes,964270,9,0
+Iran,Lorestan,Invalid votes,8329,8,9
+Iran,Lorestan,Valid votes,955941,9,1
+Iran,Lorestan,Eligible voters,1124940,1,0
+Iran,Mazandaran,Ahmadinejad,1289257,1,7
+Iran,Mazandaran,Rezai,19587,1,7
+Iran,Mazandaran,Karrubi,10050,1,0
+Iran,Mazandaran,Mousavi,585373,5,3
+Iran,Mazandaran,Total votes,1919838,1,8
+Iran,Mazandaran,Invalid votes,15571,1,1
+Iran,Mazandaran,Valid votes,1904267,1,7
+Iran,Mazandaran,Eligible voters,1915240,1,0
+Iran,Markazi,Ahmadinejad,572988,5,8
+Iran,Markazi,Rezai,10057,1,7
+Iran,Markazi,Karrubi,4675,4,5
+Iran,Markazi,Mousavi,190349,1,9
+Iran,Markazi,Total votes,785961,7,1
+Iran,Markazi,Invalid votes,7892,7,2
+Iran,Markazi,Valid votes,778069,7,9
+Iran,Markazi,Eligible voters,885557,8,7
+Iran,Hormozgan,Ahmadinejad,482990,4,0
+Iran,Hormozgan,Rezai,7237,7,7
+Iran,Hormozgan,Karrubi,5126,5,6
+Iran,Hormozgan,Mousavi,241988,2,8
+Iran,Hormozgan,Total votes,743024,7,4
+Iran,Hormozgan,Invalid votes,5683,5,3
+Iran,Hormozgan,Valid votes,737341,7,1
+Iran,Hormozgan,Eligible voters,919908,9,8
+Iran,Hamadan,Ahmadinejad,765723,7,3
+Iran,Hamadan,Rezai,13117,1,7
+Iran,Hamadan,Karrubi,12032,1,2
+Iran,Hamadan,Mousavi,218481,2,1
+Iran,Hamadan,Total votes,1019169,1,9
+Iran,Hamadan,Invalid votes,9816,9,6
+Iran,Hamadan,Valid votes,1009353,1,3
+Iran,Hamadan,Eligible voters,1256250,1,0
+Iran,Yazd,Ahmadinejad,337178,3,8
+Iran,Yazd,Rezai,8406,8,6
+Iran,Yazd,Karrubi,2565,2,5
+Iran,Yazd,Mousavi,255799,2,9
+Iran,Yazd,Total votes,609856,6,6
+Iran,Yazd,Invalid votes,5908,5,8
+Iran,Yazd,Valid votes,603948,6,8
+Iran,Yazd,Eligible voters,609341,6,1

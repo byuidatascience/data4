@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Information for DS 150 data4 repositories",
+    "section": "",
+    "text": "Links to download data\nDescriptions of the projects\n\nThis data is used for BYU-I’s CSE 150 - Data Intuition and Insight. You can see other data used on BYU-I’s data science courses within our byuidatascience github group searching the phrase data4"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Links",
+    "section": "",
+    "text": "You can find descriptions of the projects that use the data shown below."
+  },
+  {
+    "objectID": "data.html#data",
+    "href": "data.html#data",
+    "title": "Data Links",
+    "section": "Data",
+    "text": "Data\n\nMarathons\nUsed for Case Study 3.\n\nData Description\nIndividual Files\nDownload zip file\n\n\n\nChild Health (Stunting)\nUsed for Case Study 4.\n\nData Description\nIndividual Files\nDownload zip file\n\n\n\nUSA and Professional Sport Birthdays\nUsed for Case Study 5.\n\nData Description\nIndividual Files\nDownload zip file\n\n\n\nBenford’s Distribution\nUsed for Case Study 6.\n\nData Description\nIndividual Files\nDownload zip file\n\n\n\nTuberculosis (TB)\nUsed for Case Study 7.\n\nData Description\nIndividual Files\nDownload zip file"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Case Studies",
+    "section": "",
+    "text": "We have built the class around a set of data driven projects. During each of those projects we will cover readings in visualzation, data handling, and statistics. Excluding the first two days and the last two days of class, we will spend four days of class on each case study. You can find data for each project on the data page"
+  },
+  {
+    "objectID": "project.html#background",
+    "href": "project.html#background",
+    "title": "Case Studies",
+    "section": "1.1 Background",
+    "text": "1.1 Background\nData intuition and insight is not rocket science. However, there is a science to data handling, visualization, and decision making with data. The material we cover this semester will introduce to topics around this science."
+  },
+  {
+    "objectID": "project.html#your-challenge",
+    "href": "project.html#your-challenge",
+    "title": "Case Studies",
+    "section": "1.2 Your Challenge",
+    "text": "1.2 Your Challenge\nMake sure you understand the course objectives and that you are introduced to the material and tools of the course."
+  },
+  {
+    "objectID": "project.html#deliverables",
+    "href": "project.html#deliverables",
+    "title": "Case Studies",
+    "section": "1.3 Deliverables",
+    "text": "1.3 Deliverables\n\nComplete the quizzes for the first two days of class in Canvas."
+  },
+  {
+    "objectID": "project.html#background-1",
+    "href": "project.html#background-1",
+    "title": "Case Studies",
+    "section": "2.1 Background",
+    "text": "2.1 Background\nLego has become one of the most valuable toys on the planet. You can even download software and create your own sets from bulk toys (https://www.leocad.org/index.html).\nWe will be selling bulk LEGO in 1-lb bags. According to this LEGO selling guide, the more organized the bricks are the better they will sell. While most Ebayers take a couple of photos and list the number of pounds to sell their project, we will be selling our bags of LEGO with data visualizations. If you would like more details about each brick you can read here."
+  },
+  {
+    "objectID": "project.html#your-challenge-1",
+    "href": "project.html#your-challenge-1",
+    "title": "Case Studies",
+    "section": "2.2 Your Challenge",
+    "text": "2.2 Your Challenge\nYou will need to work with your team to enter your LEGO data and then create a set of visualizations that sell your product. We will need to prepare our sales material to make sure we can communicate our bag of LEGO without them handling or seeing the product (no pictures of your bag of LEGO).\nWith your team, record information for each LEGO brick in your bag (such as color). Then create data visualizations to answer questions you think the buyers might have. Some example questions are listed below.\n\nHow many slanted bricks do you have?\nWhat is the distribution of colors available in your set?\nWhat is the total area by color?"
+  },
+  {
+    "objectID": "project.html#deliverables-1",
+    "href": "project.html#deliverables-1",
+    "title": "Case Studies",
+    "section": "2.3 Deliverables",
+    "text": "2.3 Deliverables\nAll of your deliverables will be provided in a 6 slide Google Slides. Use the provided template. Data collection happens as a team. Each student from the team should have their own charts.\n\nSlide 1: Include the team that collected the data and a project title.\nSlide 2: Include a data snippet and a description of why you chose your varaibles.\nSlide 3: A polished bar chart that you feel provides the best description of your data.\nSlides 4-6: Three charts ordered by quality. Include a description for each chart.\nSlides 7-9: Three pictures of your LEGO spread out (on-campus only).\nA complete .csv file of your data set.\n\nCS2 Template"
+  },
+  {
+    "objectID": "project.html#background-2",
+    "href": "project.html#background-2",
+    "title": "Case Studies",
+    "section": "3.1 Background",
+    "text": "3.1 Background\nIn a nod to Greek history, the first marathon in 1896 commemorated the run of the soldier Pheidippides from a battlefield near the town of Marathon, Greece, to Athens in 490 B.C. For the 1908 London Olympics, the course was laid out from Windsor Castle to White City stadium, about 26 miles. An extra 385 yards was added inside the stadium to locate the finish line in front of the royal family’s viewing box.\nDespite the success of that first race, it took 13 more years of arguing before the International Amateur Athletic Federation (IAAF) adopted the 1908 distance as the official marathon. Today, there are more than 500 organized marathons in 64 countries around the world each year, with more than 425,000 marathon finishers in the United States alone (reference).\nEric J. Allen published an article on marathon runners and they have shared much of the data that we will use. We have formatted their data and its size for use in our class. Their data has close to 10 million observations."
+  },
+  {
+    "objectID": "project.html#your-challenge-2",
+    "href": "project.html#your-challenge-2",
+    "title": "Case Studies",
+    "section": "3.2 Your Challenge",
+    "text": "3.2 Your Challenge\nYou will need to work with your team to describe the finishing times and how they relate to the associated spatial and temporal information about the marathon. You will look at the individual marathon runners and the marathon’s themselves. You have been asked to create a short story that describes marathons that could be published in a local newspaper the week before a marathon is to be held in their community.\nYou can find varied data sources available for your use on the data page in Canvas. You will need to use more than one of the data sets provided but you are not expected to use them all."
+  },
+  {
+    "objectID": "project.html#deliverables-2",
+    "href": "project.html#deliverables-2",
+    "title": "Case Studies",
+    "section": "3.3 Deliverables",
+    "text": "3.3 Deliverables\n\nA short article with less than 500 words and 4-6 visualizations.\nYour article should introduce the reader to what a normal distribution is with the use of a visualization of the marathon data.\nYour article should contain at least one spatial, temporal, and variable graphic.\nYour article should contain one table that provides data summaries.\nThe end of your article should contain one quote from a reader (like a comment on the article). The reader should be a spouse, parent, or friend.\n\nCS3 Template"
+  },
+  {
+    "objectID": "project.html#background-3",
+    "href": "project.html#background-3",
+    "title": "Case Studies",
+    "section": "4.1 Background",
+    "text": "4.1 Background\nDo you remember you or your sibling going to the doctor for a check-up to hear a conversation about what percentile the measured height and weight were in? The World Health Organization gets some bad press at times of pandemics, but they do much more than managing pandemics. With the United States Centers for Disease Control (CDC), they define the standards for those percentiles that you hear - https://www.cdc.gov/growthcharts/who_charts.htm."
+  },
+  {
+    "objectID": "project.html#your-challenge-3",
+    "href": "project.html#your-challenge-3",
+    "title": "Case Studies",
+    "section": "4.2 Your Challenge",
+    "text": "4.2 Your Challenge\nWe have repeated measurements of weights and heights for children from varied multiple countries (United States, Netherlands, Bangladesh, Brazil, India, Nepal, Pakistan, Peru, South Africa, and Tanzania). We will use these measures to explain the health of the children in each study location and to explore children that have poor health over most of their measurements (note: subjects were part of a study of specific groups and are not representative of the country).\nYou can find varied data sources available for your use on the data page in Canvas. You will need to use more than one of the data sets provided but you are not expected to use them all."
+  },
+  {
+    "objectID": "project.html#deliverables-3",
+    "href": "project.html#deliverables-3",
+    "title": "Case Studies",
+    "section": "4.3 Deliverables",
+    "text": "4.3 Deliverables\nA short presentation (4-8 slides) that visualizes child health using the height measurements. Each presentation should include the following. Remember to find a story and weave your charts together into one cohesive story.\n\nOne slide should explain what a z-score is and how it is calculated for our graphics.\nOne slide should show height adjusted z-scores (HAZ) for a few healthy and a few unhealthy children from each gender over all the times using the MAL-ED data.\n1-2 Slides about the health of the children at 365 days (1-year) for multiple countries.\n\nOne chart should show the distribution of heights for children from at least 4 countries at ~365 days.\nOne chart should have visualizations of the health of the children at ~365 days for each country (height adjusted z-scores).\nTake the time to explain your concerns about the health of the children of the study based on their z-scores.\n\nOne slide should show a plot of the heights of the dutch children over time. Take the time to describe the key takeaways about their growth.\nBe creative with the remaining slides."
+  },
+  {
+    "objectID": "project.html#background-4",
+    "href": "project.html#background-4",
+    "title": "Case Studies",
+    "section": "5.1 Background",
+    "text": "5.1 Background\nMatthew 25:29 explains that _‘whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them’ _which has lead many researchers to describe how some get more and others get less as the‘Matthew Effect’ in our society.\nOne way to evaluate this effect is to look at professional athletes. Malcolm Gladwell studies the birth dates of successful hockey players in a chapter of his 2008 non-fiction book Outliers to provide an example of the Matthew Effect. Please read the Matthew Effect chapter to get more background.\nHockey’s cutoff date is December 31st, but baseball’s cutoff date has historically been July 31st. Football’s cutoff is July 31st as well but they also have weight categories as well for older ages. Basketball’s AAU cutoff date is August 31st."
+  },
+  {
+    "objectID": "project.html#your-challenge-4",
+    "href": "project.html#your-challenge-4",
+    "title": "Case Studies",
+    "section": "5.2 Your Challenge",
+    "text": "5.2 Your Challenge\nMalcolm Gladwell’s chapter on the Matthew Effect is persuasive as a narrative. He even has a couple of tables. After reading his Matthew Effect chapter, your job is to create a few persuasive visualizations about the birthday distributions within each sport. In addition, you will need to compare the sport birthday distributions to the distributions of birthdays in the US population to verify that the population of birthdays is in fact different.\nYou can find varied data sources available for your use on the data page in Canvas. You will need to use more than one of the data sets provided but you are not expected to use them all."
+  },
+  {
+    "objectID": "project.html#deliverables-4",
+    "href": "project.html#deliverables-4",
+    "title": "Case Studies",
+    "section": "5.3 Deliverables",
+    "text": "5.3 Deliverables\n\nBuild a 6-10 slide presentation that provides data visualizations to pair up with the text from Malcolm Gladwell’s chapter on the Matthew Effect.\nAt least one slide should have a visualization that compares the US population of births to a sport of your preference with persuasive annotations added to the graphics.\nAt least three slides should describe and show the statistical comparison you performed to provide justification for your inference.\nYour final slide should have your conclusions beyond the observed data."
+  },
+  {
+    "objectID": "project.html#background-5",
+    "href": "project.html#background-5",
+    "title": "Case Studies",
+    "section": "6.1 Background",
+    "text": "6.1 Background\nYou have recently been hired by the U.S. internal revenue service (IRS) to catch corporate cheaters. You have been given three companies to investigate. You will need to decide if the IRS should build a legal case to investigate the institution for fraud.\n\nSino Forest Corporation: You have the values from the financial statement numbers of Sino Forest Corporation’s 2010 Report.\nGovernment Entity: A dataset containing the card transactions for a government entity - 2010.\nGeneral Motors: The amounts paid to vendors for the 90 days preceding General Motor’s 2009 liquidation."
+  },
+  {
+    "objectID": "project.html#your-challenge-5",
+    "href": "project.html#your-challenge-5",
+    "title": "Case Studies",
+    "section": "6.2 Your Challenge",
+    "text": "6.2 Your Challenge\nYou will be responsible to report as much evidence as you can with the data provided for each institution above. The government entity has more available data than the other two which will require you to dig deeper to find additional clues.\nYou can find varied data sources available for your use on the data page in Canvas. You will need to use more than one of the data sets provided but you are not expected to use them all."
+  },
+  {
+    "objectID": "project.html#deliverables-5",
+    "href": "project.html#deliverables-5",
+    "title": "Case Studies",
+    "section": "6.3 Deliverables",
+    "text": "6.3 Deliverables\n\nA 8-12 slide presentation to your IRS managers on the case against each entity.\nAt least one slide that shows the statistical test results from the analysis you performed.\nAt least one slide per institution that visualizes their first digit distribution compared to Benford’s law.\nAt least one slide for one of the institutions that compares the last digit distribution to what would be expected.\nMultiple visualizations of the Government Entity data to find other interesting insights. For each chart, please provide a follow on question to ask the Government Entity about the data discrepancy you displayed."
+  },
+  {
+    "objectID": "project.html#background-6",
+    "href": "project.html#background-6",
+    "title": "Case Studies",
+    "section": "7.1 Background",
+    "text": "7.1 Background\nUp to this point in our course, we have been protecting you against the difficulty of gathering and formatting data for use in visualization and analysis. Tools like Tableau and PowerBI can be used to manipulate data. Some business analysts will stay in Excel and use VBA or use DAX in PowerBI. We are still going to protect you, but you will have to guide us on your data needs.\nMost of the time data scientists move to the programming languages of Python, R, or SQL to wrangle their data. Both PowerBI and Tableau allow all three languages to be used internally.\nThe Bill and Melinda Gates Foundation wants to eradicate Tuberculosis (TB). They have asked your team to use the World Health Organization’s report on TB to guide them on their next steps in fighting this disease."
+  },
+  {
+    "objectID": "project.html#your-challenge-6",
+    "href": "project.html#your-challenge-6",
+    "title": "Case Studies",
+    "section": "7.2 Your Challenge",
+    "text": "7.2 Your Challenge\nAdress the following questions;\n\nWhich countries require our attention?\nWhat age groups are of the most concern?\nAre there differences between males and females?\nWhat data science programming language should we use moving forward?"
+  },
+  {
+    "objectID": "project.html#deliverables-6",
+    "href": "project.html#deliverables-6",
+    "title": "Case Studies",
+    "section": "7.3 Deliverables",
+    "text": "7.3 Deliverables\n\nA 5-8 slide presentation that addresses the questions above.\nEach question should have at least one graphic to support your answer.\nAt least one slide highlighting the language choice for future work on the project.\nYou should have an appendix slide that describes the wrangling that had to be done to the data."
+  },
+  {
+    "objectID": "project.html#background-7",
+    "href": "project.html#background-7",
+    "title": "Case Studies",
+    "section": "8.1 Background",
+    "text": "8.1 Background\nData scientists need to have resumes that show strong experience in solving real-world problems. While employers know that their job candidates need experience, they often don’t know what experience they need and often list too many requirements."
+  },
+  {
+    "objectID": "project.html#your-challenge-7",
+    "href": "project.html#your-challenge-7",
+    "title": "Case Studies",
+    "section": "8.2 Your Challenge",
+    "text": "8.2 Your Challenge\nTo finish the semester you will need to create your hypothetical resume that you could use upon graduation from BYU-I to a data science or analytics position. Your resume will need to combine the three elements of coursework available, the real-work experience you can accumulate over your next few years before graduation, and the job requirements of the currently available positions for undergraduate data scientists."
+  },
+  {
+    "objectID": "project.html#deliverables-7",
+    "href": "project.html#deliverables-7",
+    "title": "Case Studies",
+    "section": "8.3 Deliverables",
+    "text": "8.3 Deliverables\n\nA one-page dream data science resume.\nA second page of sources that you used to justify the stuff in your resume.\nA cover letter that describes what you have learned from this course"
+  },
+  {
+    "objectID": "data.html#marathons",
+    "href": "data.html#marathons",
+    "title": "Data Links",
+    "section": "Marathons",
+    "text": "Marathons\nUsed for Case Study 3.\n\nData Description\nIndividual Files\nDownload zip file"
+  },
+  {
+    "objectID": "data.html#child-health-stunting",
+    "href": "data.html#child-health-stunting",
+    "title": "Data Links",
+    "section": "Child Health (Stunting)",
+    "text": "Child Health (Stunting)\nUsed for Case Study 4.\n\nData Description\nIndividual Files\nDownload zip file"
+  },
+  {
+    "objectID": "data.html#usa-and-professional-sport-birthdays",
+    "href": "data.html#usa-and-professional-sport-birthdays",
+    "title": "Data Links",
+    "section": "USA and Professional Sport Birthdays",
+    "text": "USA and Professional Sport Birthdays\nUsed for Case Study 5.\n\nData Description\nIndividual Files\nDownload zip file"
+  },
+  {
+    "objectID": "data.html#benfords-distribution",
+    "href": "data.html#benfords-distribution",
+    "title": "Data Links",
+    "section": "Benford’s Distribution",
+    "text": "Benford’s Distribution\nUsed for Case Study 6.\n\nData Description\nIndividual Files\nDownload zip file"
+  },
+  {
+    "objectID": "data.html#tuberculosis-tb",
+    "href": "data.html#tuberculosis-tb",
+    "title": "Data Links",
+    "section": "Tuberculosis (TB)",
+    "text": "Tuberculosis (TB)\nUsed for Case Study 7.\n\nData Description\nIndividual Files\nDownload zip file"
+  }
+]

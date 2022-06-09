@@ -1,0 +1,238 @@
+region,candidate,number,first,last
+East Azerbaijan,Ahmadinejad,1131111,1,1
+East Azerbaijan,Rezai,16920,1,0
+East Azerbaijan,Karrubi,7246,7,6
+East Azerbaijan,Mousavi,837858,8,8
+East Azerbaijan,Total votes,2010340,2,0
+East Azerbaijan,Invalid votes,17205,1,5
+East Azerbaijan,Valid votes,1993135,1,5
+East Azerbaijan,Eligible voters,2461553,2,3
+West Azerbaijan,Ahmadinejad,623946,6,6
+West Azerbaijan,Rezai,12199,1,9
+West Azerbaijan,Karrubi,21609,2,9
+West Azerbaijan,Mousavi,656508,6,8
+West Azerbaijan,Total votes,1334356,1,6
+West Azerbaijan,Invalid votes,20094,2,4
+West Azerbaijan,Valid votes,1314262,1,2
+West Azerbaijan,Eligible voters,1883144,1,4
+Ardabil,Ahmadinejad,325911,3,1
+Ardabil,Rezai,6578,6,8
+Ardabil,Karrubi,2319,2,9
+Ardabil,Mousavi,302825,3,5
+Ardabil,Total votes,642005,6,5
+Ardabil,Invalid votes,4372,4,2
+Ardabil,Valid votes,637633,6,3
+Ardabil,Eligible voters,804881,8,1
+Isfahan,Ahmadinejad,1799255,1,5
+Isfahan,Rezai,51788,5,8
+Isfahan,Karrubi,14579,1,9
+Isfahan,Mousavi,746697,7,7
+Isfahan,Total votes,2637482,2,2
+Isfahan,Invalid votes,25163,2,3
+Isfahan,Valid votes,2612319,2,9
+Isfahan,Eligible voters,2987946,2,6
+Ilam,Ahmadinejad,199654,1,4
+Ilam,Rezai,5221,5,1
+Ilam,Karrubi,7471,7,1
+Ilam,Mousavi,96826,9,6
+Ilam,Total votes,312667,3,7
+Ilam,Invalid votes,3495,3,5
+Ilam,Valid votes,309172,3,2
+Ilam,Eligible voters,357687,3,7
+Bushehr,Ahmadinejad,299357,2,7
+Bushehr,Rezai,7608,7,8
+Bushehr,Karrubi,3563,3,3
+Bushehr,Mousavi,177268,1,8
+Bushehr,Total votes,493989,4,9
+Bushehr,Invalid votes,6193,6,3
+Bushehr,Valid votes,487796,4,6
+Bushehr,Eligible voters,580822,5,2
+Tehran,Ahmadinejad,3819495,3,5
+Tehran,Rezai,147487,1,7
+Tehran,Karrubi,67334,6,4
+Tehran,Mousavi,3371523,3,3
+Tehran,Total votes,7521540,7,0
+Tehran,Invalid votes,115701,1,1
+Tehran,Valid votes,7405839,7,9
+Tehran,Eligible voters,8796466,8,6
+Chahar Mahaal and Bakhtiari,Ahmadinejad,359578,3,8
+Chahar Mahaal and Bakhtiari,Rezai,22689,2,9
+Chahar Mahaal and Bakhtiari,Karrubi,4127,4,7
+Chahar Mahaal and Bakhtiari,Mousavi,106099,1,9
+Chahar Mahaal and Bakhtiari,Total votes,495446,4,6
+Chahar Mahaal and Bakhtiari,Invalid votes,2953,2,3
+Chahar Mahaal and Bakhtiari,Valid votes,492493,4,3
+Chahar Mahaal and Bakhtiari,Eligible voters,562238,5,8
+South Khorasan,Ahmadinejad,285984,2,4
+South Khorasan,Rezai,3962,3,2
+South Khorasan,Karrubi,928,9,8
+South Khorasan,Mousavi,90363,9,3
+South Khorasan,Total votes,383157,3,7
+South Khorasan,Invalid votes,1920,1,0
+South Khorasan,Valid votes,381237,3,7
+Khorasan Razavi,Ahmadinejad,2214801,2,1
+Khorasan Razavi,Rezai,44809,4,9
+Khorasan Razavi,Karrubi,13561,1,1
+Khorasan Razavi,Mousavi,884570,8,0
+Khorasan Razavi,Total votes,3181990,3,0
+Khorasan Razavi,Invalid votes,24249,2,9
+Khorasan Razavi,Valid votes,3157741,3,1
+North Khorasan,Ahmadinejad,341104,3,4
+North Khorasan,Rezai,4129,4,9
+North Khorasan,Karrubi,2478,2,8
+North Khorasan,Mousavi,113218,1,8
+North Khorasan,Total votes,464001,4,1
+North Khorasan,Invalid votes,3072,3,2
+North Khorasan,Valid votes,460929,4,9
+Khuzestan,Ahmadinejad,1303129,1,9
+Khuzestan,Rezai,139124,1,4
+Khuzestan,Karrubi,15934,1,4
+Khuzestan,Mousavi,552636,5,6
+Khuzestan,Total votes,2038845,2,5
+Khuzestan,Invalid votes,28022,2,2
+Khuzestan,Valid votes,2010823,2,3
+Khuzestan,Eligible voters,2801644,2,4
+Zanjan,Ahmadinejad,444480,4,0
+Zanjan,Rezai,7276,7,6
+Zanjan,Karrubi,2223,2,3
+Zanjan,Mousavi,126561,1,1
+Zanjan,Total votes,585721,5,1
+Zanjan,Invalid votes,5181,5,1
+Zanjan,Valid votes,580540,5,0
+Zanjan,Eligible voters,632160,6,0
+Semnan,Ahmadinejad,295177,2,7
+Semnan,Rezai,4440,4,0
+Semnan,Karrubi,2147,2,7
+Semnan,Mousavi,77754,7,4
+Semnan,Total votes,383308,3,8
+Semnan,Invalid votes,3790,3,0
+Semnan,Valid votes,379518,3,8
+Semnan,Eligible voters,436492,4,2
+Sistan and Baluchestan,Ahmadinejad,450269,4,9
+Sistan and Baluchestan,Rezai,6616,6,6
+Sistan and Baluchestan,Karrubi,12504,1,4
+Sistan and Baluchestan,Mousavi,507946,5,6
+Sistan and Baluchestan,Total votes,982920,9,0
+Sistan and Baluchestan,Invalid votes,5585,5,5
+Sistan and Baluchestan,Valid votes,977335,9,5
+Sistan and Baluchestan,Eligible voters,1306624,1,4
+Fars,Ahmadinejad,1758026,1,6
+Fars,Rezai,23871,2,1
+Fars,Karrubi,16277,1,7
+Fars,Mousavi,706764,7,4
+Fars,Total votes,2523300,2,0
+Fars,Invalid votes,18362,1,2
+Fars,Valid votes,2504938,2,8
+Fars,Eligible voters,2842209,2,9
+Qazvin,Ahmadinejad,498061,4,1
+Qazvin,Rezai,7978,7,8
+Qazvin,Karrubi,2690,2,0
+Qazvin,Mousavi,177542,1,2
+Qazvin,Total votes,692355,6,5
+Qazvin,Invalid votes,6084,6,4
+Qazvin,Valid votes,686271,6,1
+Qazvin,Eligible voters,749205,7,5
+Qom,Ahmadinejad,422457,4,7
+Qom,Rezai,16297,1,7
+Qom,Karrubi,2314,2,4
+Qom,Mousavi,148467,1,7
+Qom,Total votes,599040,5,0
+Qom,Invalid votes,9505,9,5
+Qom,Valid votes,589535,5,5
+Qom,Eligible voters,655988,6,8
+Kurdistan,Ahmadinejad,315689,3,9
+Kurdistan,Rezai,7140,7,0
+Kurdistan,Karrubi,13862,1,2
+Kurdistan,Mousavi,261772,2,2
+Kurdistan,Total votes,610756,6,6
+Kurdistan,Invalid votes,12293,1,3
+Kurdistan,Valid votes,598463,5,3
+Kurdistan,Eligible voters,943818,9,8
+Kerman,Ahmadinejad,1160446,1,6
+Kerman,Rezai,12016,1,6
+Kerman,Karrubi,4977,4,7
+Kerman,Mousavi,318250,3,0
+Kerman,Total votes,1505814,1,4
+Kerman,Invalid votes,10125,1,5
+Kerman,Valid votes,1495689,1,9
+Kerman,Eligible voters,1738280,1,0
+Kermanshah,Ahmadinejad,573568,5,8
+Kermanshah,Rezai,11258,1,8
+Kermanshah,Karrubi,10798,1,8
+Kermanshah,Mousavi,374188,3,8
+Kermanshah,Total votes,983422,9,2
+Kermanshah,Invalid votes,13610,1,0
+Kermanshah,Valid votes,969812,9,2
+Kermanshah,Eligible voters,1231672,1,2
+Kohgiluyeh & Boyer-Ahmad,Ahmadinejad,253962,2,2
+Kohgiluyeh & Boyer-Ahmad,Rezai,8542,8,2
+Kohgiluyeh & Boyer-Ahmad,Karrubi,4274,4,4
+Kohgiluyeh & Boyer-Ahmad,Mousavi,98937,9,7
+Kohgiluyeh & Boyer-Ahmad,Total votes,368707,3,7
+Kohgiluyeh & Boyer-Ahmad,Invalid votes,2992,2,2
+Kohgiluyeh & Boyer-Ahmad,Valid votes,365715,3,5
+Kohgiluyeh & Boyer-Ahmad,Eligible voters,415694,4,4
+Golestan,Ahmadinejad,515211,5,1
+Golestan,Rezai,5987,5,7
+Golestan,Karrubi,10097,1,7
+Golestan,Mousavi,325806,3,6
+Golestan,Total votes,869453,8,3
+Golestan,Invalid votes,12352,1,2
+Golestan,Valid votes,857101,8,1
+Golestan,Eligible voters,1059769,1,9
+Gilan,Ahmadinejad,998573,9,3
+Gilan,Rezai,12022,1,2
+Gilan,Karrubi,7183,7,3
+Gilan,Mousavi,453806,4,6
+Gilan,Total votes,1483258,1,8
+Gilan,Invalid votes,11674,1,4
+Gilan,Valid votes,1471584,1,4
+Gilan,Eligible voters,1576046,1,6
+Lorestan,Ahmadinejad,677829,6,9
+Lorestan,Rezai,14920,1,0
+Lorestan,Karrubi,44036,4,6
+Lorestan,Mousavi,219156,2,6
+Lorestan,Total votes,964270,9,0
+Lorestan,Invalid votes,8329,8,9
+Lorestan,Valid votes,955941,9,1
+Lorestan,Eligible voters,1124940,1,0
+Mazandaran,Ahmadinejad,1289257,1,7
+Mazandaran,Rezai,19587,1,7
+Mazandaran,Karrubi,10050,1,0
+Mazandaran,Mousavi,585373,5,3
+Mazandaran,Total votes,1919838,1,8
+Mazandaran,Invalid votes,15571,1,1
+Mazandaran,Valid votes,1904267,1,7
+Mazandaran,Eligible voters,1915240,1,0
+Markazi,Ahmadinejad,572988,5,8
+Markazi,Rezai,10057,1,7
+Markazi,Karrubi,4675,4,5
+Markazi,Mousavi,190349,1,9
+Markazi,Total votes,785961,7,1
+Markazi,Invalid votes,7892,7,2
+Markazi,Valid votes,778069,7,9
+Markazi,Eligible voters,885557,8,7
+Hormozgan,Ahmadinejad,482990,4,0
+Hormozgan,Rezai,7237,7,7
+Hormozgan,Karrubi,5126,5,6
+Hormozgan,Mousavi,241988,2,8
+Hormozgan,Total votes,743024,7,4
+Hormozgan,Invalid votes,5683,5,3
+Hormozgan,Valid votes,737341,7,1
+Hormozgan,Eligible voters,919908,9,8
+Hamadan,Ahmadinejad,765723,7,3
+Hamadan,Rezai,13117,1,7
+Hamadan,Karrubi,12032,1,2
+Hamadan,Mousavi,218481,2,1
+Hamadan,Total votes,1019169,1,9
+Hamadan,Invalid votes,9816,9,6
+Hamadan,Valid votes,1009353,1,3
+Hamadan,Eligible voters,1256250,1,0
+Yazd,Ahmadinejad,337178,3,8
+Yazd,Rezai,8406,8,6
+Yazd,Karrubi,2565,2,5
+Yazd,Mousavi,255799,2,9
+Yazd,Total votes,609856,6,6
+Yazd,Invalid votes,5908,5,8
+Yazd,Valid votes,603948,6,8
+Yazd,Eligible voters,609341,6,1
