@@ -1,7 +1,8 @@
 project:
   type: website
-
-website:
+  output-dir: '.'
+  
+website: 
   title: "CSE 150 Data"
   navbar:
     background: primary
@@ -12,7 +13,6 @@ website:
       - text: "Case Study Data"
         icon: fa-table
         href: data.html
-output_dir: '.'
 
 
 format:
